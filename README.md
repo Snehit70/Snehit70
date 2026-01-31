@@ -17,39 +17,3 @@ Building for the joy of it. Shipping for the thrill of it.
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
-
-## Projects
-
-### CLI Tools
-
-**[voice_cli](https://github.com/Snehit70/voice_cli)** - Voice-powered terminal interactions. Speak commands, get instant execution. Built with Python, Whisper, and real-time audio streaming.
-
-**[ralphy-monitor](https://github.com/Snehit70/ralphy-monitor)** - TUI dashboard for monitoring system metrics and logs. Real-time updates with rich terminal UI.
-
-### Web Apps
-
-**[aceon](https://github.com/Snehit70/aceon)** - IITM lecture companion. Scrapes course content, organizes materials, and provides smart search. Vue 3 + Convex backend.
-
-**[viva](https://github.com/Snehit70/viva)** - Interview prep platform with AI-powered question generation. Convex for real-time collaboration, TypeScript throughout.
-
-**[interviewprep](https://github.com/Snehit70/interviewprep)** - Structured interview preparation with spaced repetition. Nuxt 3 + Tailwind for clean, focused UI.
-
-### Developer Setup
-
-**[adv_neovim_setup](https://github.com/Snehit70/adv_neovim_setup)** - Modular Neovim config with LSP, Treesitter, and custom keybindings. Lua-based, heavily optimized.
-
-**[adv_hypr_setup](https://github.com/Snehit70/adv_hypr_setup)** - Hyprland desktop environment with custom animations, keybinds, and workspace management.
-
-**[tmux_config](https://github.com/Snehit70/tmux_config)** - Opinionated tmux setup with vim-like navigation and session management.
-
-### Games & Experiments
-
-**[Dragon_run_24](https://github.com/Snehit70/Dragon_run_24)** - Pygame runner with physics-based jumping and procedural obstacles.
-
-**[Alien_invasion_2024](https://github.com/Snehit70/Alien_invasion_2024)** - Space invaders clone with wave-based difficulty scaling.
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@snehit70-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/snehit70)
-[![LinkedIn](https://img.shields.io/badge/-Atulya%20Rai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehit70)
-[![Website](https://img.shields.io/badge/-snehit70.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://snehit70.dev)
