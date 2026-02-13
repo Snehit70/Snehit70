@@ -16,4 +16,4 @@
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
 
-Building for the joy of it. Shipping for the thrill of it.
+> Building for the joy of it. Shipping for the thrill of it.
