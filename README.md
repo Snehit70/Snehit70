@@ -20,4 +20,4 @@
 
 ## Currently Working
 
-- 🎙️ **voice-cli** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
+- 🎙️ **[voice-cli](https://github.com/Snehit70/voice-cli)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
