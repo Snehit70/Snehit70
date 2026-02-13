@@ -17,3 +17,7 @@
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
 
 > Building for the joy of it. Shipping for the thrill of it.
+
+## Currently Working
+
+- 🎙️ **voice-cli** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
