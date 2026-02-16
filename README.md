@@ -22,3 +22,4 @@
 
 - 🎙️ **[voice-cli](https://github.com/Snehit70/voice-cli)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
 - ⚙️ **[systemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
+- 📊 **[ralphy-monitor](https://github.com/Snehit70/ralphy-monitor)** - Real-time monitor for Ralphy: watch my AI coding loop work.
