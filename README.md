@@ -1,6 +1,6 @@
 # Atulya Rai
 
-![Visitors](https://komarev.com/ghpvc/?username=Snehit70&label=visitors&color=0e75b6&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Snehit70&label=visitors&color=0f766e&style=flat-square)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
