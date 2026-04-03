@@ -20,7 +20,7 @@
 
 > Building for the joy of it. Shipping for the thrill of it.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-gamma-red-38.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 ## Currently Working
 
