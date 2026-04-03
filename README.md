@@ -20,6 +20,8 @@
 
 > Building for the joy of it. Shipping for the thrill of it.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+
 ## Currently Working
 
 - 🎙️ **[hyprvox](https://github.com/Snehit70/hyprvox)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
