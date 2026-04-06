@@ -20,7 +20,10 @@
 
 > Building for the joy of it. Shipping for the thrill of it.
 
-![GitHub stats](https://github-readme-stats-gamma-red-38.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=GitHub%20Stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-gamma-red-38.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=GitHub%20Stats&cache_seconds=43200"/>
+  <img height="180em" src="https://github-readme-stats-gamma-red-38.vercel.app/api/top-langs/?username=Snehit70&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=259200"/>
+</div>
 
 ## Currently Working
 
