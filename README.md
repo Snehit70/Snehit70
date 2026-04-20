@@ -29,7 +29,13 @@
 
 ## Currently Working
 
-- 🎙️ **[hyprvox](https://github.com/Snehit70/hyprvox)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
-- ⚙️ **[systemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
-- 📊 **[ralphy-monitor](https://github.com/Snehit70/ralphy-monitor)** - Real-time monitor for Ralphy: watch my AI coding loop work.
-- 💤 **[lazydev](https://github.com/Snehit70/lazydev)** - Your dev servers, on demand: auto-scale to zero, wake on request, save gigabytes of RAM.
+- **[Hyprvox](https://github.com/Snehit70/hyprvox)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
+- **[SystemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
+- **[Ralphy Monitor](https://github.com/Snehit70/ralphy-monitor)** - Real-time monitor for Ralphy: watch my AI coding loop work.
+- **[Lazydev](https://github.com/Snehit70/lazydev)** - Your dev servers, on demand: auto-scale to zero, wake on request, save gigabytes of RAM.
+
+## Live Projects
+
+- **[FateWheel](https://fate.snehit70.dev)** - A refined spin wheel that settles indecision instantly.
+- **[VoiceWeb](https://voiceweb.vercel.app)** - A lightweight web app for turning speech into usable text.
+- **[GoCareer](https://gocareer.snehit70.dev)** - A student-friendly platform for exploring career paths with clarity.
