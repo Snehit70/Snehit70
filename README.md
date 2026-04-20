@@ -36,6 +36,7 @@
 
 ## Live Projects
 
+- **[Aceon](https://aceon.snehit70.dev)** - A clean library of lectures, organized for easy access.
 - **[FateWheel](https://fate.snehit70.dev)** - A refined spin wheel that settles indecision instantly.
 - **[VoiceWeb](https://voiceweb.vercel.app)** - A lightweight web app for turning speech into usable text.
 - **[GoCareer](https://gocareer.snehit70.dev)** - A student-friendly platform for exploring career paths with clarity.
