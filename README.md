@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-gamma-red-38.vercel.app/api?username=Snehit70&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=GitHub%20Stats&cache_seconds=43200"/>
-  <img height="180em" src="https://github-readme-stats-gamma-red-38.vercel.app/api/top-langs/?username=Snehit70&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=259200"/>
+  <img height="180em" src="https://github-readme-stats-gamma-red-38.vercel.app/api/top-langs/?username=Snehit70&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=86400"/>
 </div>
 
 ## Currently Working
