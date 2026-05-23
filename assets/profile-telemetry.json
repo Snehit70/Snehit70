@@ -1,0 +1,2057 @@
+{
+  "generated": "2026-05-23",
+  "windowDays": 366,
+  "repos": [
+    {
+      "name": "praxis",
+      "description": "",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-05-23T06:19:30Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 516198,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 2710,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 368,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 69,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-05-23T01:48:02Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 74887,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 61820,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2980,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-05-22T23:58:35Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 300482,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 99115,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 65852,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 48044,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-05-22T06:38:46Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1113965,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 18837,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 9610,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9190,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pomo",
+      "description": "Android remote control for desktop Pomodoro timer",
+      "url": "https://github.com/Snehit70/pomo",
+      "pushedAt": "2026-05-22T05:21:30Z",
+      "isPrivate": false,
+      "primaryLanguage": "Kotlin",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 233505,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 15600,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 6772,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3306,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fieldForce",
+      "description": "",
+      "url": "https://github.com/Snehit70/fieldForce",
+      "pushedAt": "2026-05-21T13:43:01Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 330748,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 155068,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 62966,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1045,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 651,
+          "node": {
+            "name": "Mako",
+            "color": "#7e858d"
+          }
+        },
+        {
+          "size": 603,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 379,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 366,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    {
+      "name": "aceon",
+      "description": "a library of all lectures",
+      "url": "https://github.com/Snehit70/aceon",
+      "pushedAt": "2026-05-21T05:26:43Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 497738,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 17581,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3396,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1413,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprvox",
+      "description": "Voice-to-text CLI with dual STT engines, systemd service, and clipboard integration",
+      "url": "https://github.com/Snehit70/hyprvox",
+      "pushedAt": "2026-05-20T14:50:11Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 358073,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 5210,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 617,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "syngenta",
+      "description": "",
+      "url": "https://github.com/Snehit70/syngenta",
+      "pushedAt": "2026-05-12T15:49:44Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 142611,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 42146,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "coursestate",
+      "description": "",
+      "url": "https://github.com/Snehit70/coursestate",
+      "pushedAt": "2026-05-08T06:31:22Z",
+      "isPrivate": true,
+      "primaryLanguage": "HTML",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1490080,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 26950,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 16720,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 13109,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 84,
+          "node": {
+            "name": "PureBasic",
+            "color": "#5a6986"
+          }
+        }
+      ]
+    },
+    {
+      "name": "systemdManager",
+      "description": "TUI tool for managing systemd services on Linux",
+      "url": "https://github.com/Snehit70/systemdManager",
+      "pushedAt": "2026-04-29T16:51:41Z",
+      "isPrivate": false,
+      "primaryLanguage": "Go",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 106545,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        }
+      ]
+    },
+    {
+      "name": "socialstate",
+      "description": "",
+      "url": "https://github.com/Snehit70/socialstate",
+      "pushedAt": "2026-04-26T12:49:36Z",
+      "isPrivate": true,
+      "primaryLanguage": "JavaScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 23381,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 11377,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lifestate",
+      "description": "Markdown-based personal state management system",
+      "url": "https://github.com/Snehit70/lifestate",
+      "pushedAt": "2026-04-26T12:48:08Z",
+      "isPrivate": true,
+      "primaryLanguage": null,
+      "defaultBranch": "main",
+      "languages": []
+    },
+    {
+      "name": "fleetflow",
+      "description": "",
+      "url": "https://github.com/Snehit70/fleetflow",
+      "pushedAt": "2026-04-22T06:44:24Z",
+      "isPrivate": false,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 157172,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 61395,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 13260,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 3326,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lapstat",
+      "description": "Historical system stats monitor for Linux laptops",
+      "url": "https://github.com/Snehit70/lapstat",
+      "pushedAt": "2026-04-21T14:07:48Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 204979,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 13052,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 9019,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 3505,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 224,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-04-20T10:14:37Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "defaultBranch": "main",
+      "languages": []
+    },
+    {
+      "name": "voice_web",
+      "description": "Web interface companion for voice_cli",
+      "url": "https://github.com/Snehit70/voice_web",
+      "pushedAt": "2026-04-15T14:52:01Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 66168,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 26977,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 509,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fateWheel",
+      "description": "Spin-the-wheel decision maker app",
+      "url": "https://github.com/Snehit70/fateWheel",
+      "pushedAt": "2026-04-15T05:23:41Z",
+      "isPrivate": false,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 168457,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 167833,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 51621,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 23649,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 6506,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1477,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 496,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    {
+      "name": "replica",
+      "description": "",
+      "url": "https://github.com/Snehit70/replica",
+      "pushedAt": "2026-04-11T01:11:33Z",
+      "isPrivate": true,
+      "primaryLanguage": "JavaScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 173693,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 8483,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 6047,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 1792,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lazydev",
+      "description": "",
+      "url": "https://github.com/Snehit70/lazydev",
+      "pushedAt": "2026-04-03T11:58:41Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 49226,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        }
+      ]
+    },
+    {
+      "name": "opencode_config",
+      "description": "my config",
+      "url": "https://github.com/Snehit70/opencode_config",
+      "pushedAt": "2026-03-25T08:35:15Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 5841,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4339,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLMPRO",
+      "description": "",
+      "url": "https://github.com/Snehit70/PLMPRO",
+      "pushedAt": "2026-03-22T04:06:46Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 360706,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 3616,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 403,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsa_tracker",
+      "description": "",
+      "url": "https://github.com/Snehit70/dsa_tracker",
+      "pushedAt": "2026-02-24T16:31:05Z",
+      "isPrivate": true,
+      "primaryLanguage": "Astro",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 111095,
+          "node": {
+            "name": "Astro",
+            "color": "#ff5a03"
+          }
+        },
+        {
+          "size": 100914,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 11754,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 508,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "saksham",
+      "description": "secret",
+      "url": "https://github.com/Snehit70/saksham",
+      "pushedAt": "2026-02-04T16:47:14Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 183504,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4735,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 833,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ralphy-monitor",
+      "description": "Real-time monitoring dashboard for Ralphy autonomous coding sessions",
+      "url": "https://github.com/Snehit70/ralphy-monitor",
+      "pushedAt": "2026-01-23T13:31:24Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 61024,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        }
+      ]
+    },
+    {
+      "name": "viva_auth",
+      "description": "",
+      "url": "https://github.com/Snehit70/viva_auth",
+      "pushedAt": "2026-01-19T08:39:08Z",
+      "isPrivate": true,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 163474,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 113640,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4176,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3400,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1134,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": ".claude",
+      "description": "",
+      "url": "https://github.com/Snehit70/.claude",
+      "pushedAt": "2026-01-07T05:07:25Z",
+      "isPrivate": true,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 52551,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 49420,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "portfolio",
+      "description": "My portfolio",
+      "url": "https://github.com/Snehit70/portfolio",
+      "pushedAt": "2025-11-30T11:42:13Z",
+      "isPrivate": true,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 15488,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 1698,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 778,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 657,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "manim_repo",
+      "description": "A manim animation repo for its code .",
+      "url": "https://github.com/Snehit70/manim_repo",
+      "pushedAt": "2025-11-16T15:10:56Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 7521,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "manim_video_maker",
+      "description": "Automated video generation pipeline using Manim",
+      "url": "https://github.com/Snehit70/manim_video_maker",
+      "pushedAt": "2025-11-14T13:44:29Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 31948,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 22284,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 8459,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 6025,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 5238,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "portfolio_website",
+      "description": "",
+      "url": "https://github.com/Snehit70/portfolio_website",
+      "pushedAt": "2025-07-21T11:00:31Z",
+      "isPrivate": true,
+      "primaryLanguage": "JavaScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 644522,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 48802,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Foodrescue",
+      "description": "Platform connecting food donors with those in need to reduce waste",
+      "url": "https://github.com/Snehit70/Foodrescue",
+      "pushedAt": "2025-07-09T13:24:15Z",
+      "isPrivate": false,
+      "primaryLanguage": "HTML",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 155335,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 135372,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 40049,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 29422,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alien_invasion_2024",
+      "description": "Alien invasion game created by using pygame module.",
+      "url": "https://github.com/Snehit70/Alien_invasion_2024",
+      "pushedAt": "2025-05-10T16:32:08Z",
+      "isPrivate": false,
+      "primaryLanguage": "Jupyter Notebook",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1437839,
+          "node": {
+            "name": "Jupyter Notebook",
+            "color": "#DA5B0B"
+          }
+        },
+        {
+          "size": 19778,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "collabSphere",
+      "description": "Real-time collaboration workspace with shared editing and team features",
+      "url": "https://github.com/Snehit70/collabSphere",
+      "pushedAt": "2025-05-01T18:12:48Z",
+      "isPrivate": false,
+      "primaryLanguage": "HTML",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 47403,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 34839,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 5763,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dragon_run_24",
+      "description": "The one of a type dragon running game where it can jump too.",
+      "url": "https://github.com/Snehit70/Dragon_run_24",
+      "pushedAt": "2025-01-03T09:17:01Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 10235,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    }
+  ],
+  "reposAnalyzed": 32,
+  "reposPublic": 19,
+  "reposPrivate": 16,
+  "biggestDay": {
+    "date": "2026-01-22",
+    "commits": 136
+  },
+  "burstDays": 16,
+  "burstThreshold": 46.20000000000002,
+  "longestGap": 115,
+  "meanGapDays": 2.018987341772152,
+  "hourDistribution": [
+    20,
+    1,
+    0,
+    7,
+    15,
+    6,
+    99,
+    65,
+    107,
+    174,
+    242,
+    219,
+    334,
+    240,
+    210,
+    200,
+    172,
+    222,
+    196,
+    191,
+    111,
+    114,
+    148,
+    100
+  ],
+  "peakHour": 12,
+  "hourBuckets": {
+    "night (00\u201306)": 49,
+    "morning (06\u201312)": 906,
+    "afternoon (12\u201318)": 1378,
+    "evening (18\u201324)": 860
+  },
+  "additionsPct": 85.46923711478955,
+  "avgCommitSize": 539.8678358910116,
+  "prActiveWeeks": 24,
+  "prThis4w": 75,
+  "prPrev4w": 54,
+  "prTrendPct": 38.88888888888889,
+  "daily": {
+    "2025-05-23": 0,
+    "2025-05-24": 0,
+    "2025-05-25": 0,
+    "2025-05-26": 0,
+    "2025-05-27": 0,
+    "2025-05-28": 0,
+    "2025-05-29": 0,
+    "2025-05-30": 0,
+    "2025-05-31": 0,
+    "2025-06-01": 0,
+    "2025-06-02": 0,
+    "2025-06-03": 0,
+    "2025-06-04": 0,
+    "2025-06-05": 0,
+    "2025-06-06": 0,
+    "2025-06-07": 0,
+    "2025-06-08": 0,
+    "2025-06-09": 0,
+    "2025-06-10": 0,
+    "2025-06-11": 0,
+    "2025-06-12": 0,
+    "2025-06-13": 0,
+    "2025-06-14": 0,
+    "2025-06-15": 0,
+    "2025-06-16": 0,
+    "2025-06-17": 0,
+    "2025-06-18": 0,
+    "2025-06-19": 0,
+    "2025-06-20": 0,
+    "2025-06-21": 0,
+    "2025-06-22": 0,
+    "2025-06-23": 0,
+    "2025-06-24": 0,
+    "2025-06-25": 0,
+    "2025-06-26": 0,
+    "2025-06-27": 0,
+    "2025-06-28": 0,
+    "2025-06-29": 0,
+    "2025-06-30": 0,
+    "2025-07-01": 0,
+    "2025-07-02": 0,
+    "2025-07-03": 0,
+    "2025-07-04": 0,
+    "2025-07-05": 0,
+    "2025-07-06": 0,
+    "2025-07-07": 0,
+    "2025-07-08": 13,
+    "2025-07-09": 1,
+    "2025-07-10": 0,
+    "2025-07-11": 0,
+    "2025-07-12": 0,
+    "2025-07-13": 0,
+    "2025-07-14": 0,
+    "2025-07-15": 0,
+    "2025-07-16": 0,
+    "2025-07-17": 0,
+    "2025-07-18": 0,
+    "2025-07-19": 0,
+    "2025-07-20": 0,
+    "2025-07-21": 1,
+    "2025-07-22": 0,
+    "2025-07-23": 0,
+    "2025-07-24": 0,
+    "2025-07-25": 0,
+    "2025-07-26": 0,
+    "2025-07-27": 0,
+    "2025-07-28": 0,
+    "2025-07-29": 0,
+    "2025-07-30": 0,
+    "2025-07-31": 0,
+    "2025-08-01": 0,
+    "2025-08-02": 0,
+    "2025-08-03": 0,
+    "2025-08-04": 0,
+    "2025-08-05": 0,
+    "2025-08-06": 0,
+    "2025-08-07": 0,
+    "2025-08-08": 0,
+    "2025-08-09": 0,
+    "2025-08-10": 0,
+    "2025-08-11": 0,
+    "2025-08-12": 0,
+    "2025-08-13": 0,
+    "2025-08-14": 0,
+    "2025-08-15": 0,
+    "2025-08-16": 0,
+    "2025-08-17": 0,
+    "2025-08-18": 0,
+    "2025-08-19": 0,
+    "2025-08-20": 0,
+    "2025-08-21": 0,
+    "2025-08-22": 0,
+    "2025-08-23": 0,
+    "2025-08-24": 0,
+    "2025-08-25": 0,
+    "2025-08-26": 0,
+    "2025-08-27": 0,
+    "2025-08-28": 0,
+    "2025-08-29": 0,
+    "2025-08-30": 0,
+    "2025-08-31": 0,
+    "2025-09-01": 0,
+    "2025-09-02": 0,
+    "2025-09-03": 0,
+    "2025-09-04": 0,
+    "2025-09-05": 0,
+    "2025-09-06": 0,
+    "2025-09-07": 0,
+    "2025-09-08": 0,
+    "2025-09-09": 0,
+    "2025-09-10": 0,
+    "2025-09-11": 0,
+    "2025-09-12": 0,
+    "2025-09-13": 0,
+    "2025-09-14": 0,
+    "2025-09-15": 0,
+    "2025-09-16": 0,
+    "2025-09-17": 0,
+    "2025-09-18": 0,
+    "2025-09-19": 0,
+    "2025-09-20": 0,
+    "2025-09-21": 0,
+    "2025-09-22": 0,
+    "2025-09-23": 0,
+    "2025-09-24": 0,
+    "2025-09-25": 0,
+    "2025-09-26": 0,
+    "2025-09-27": 0,
+    "2025-09-28": 0,
+    "2025-09-29": 0,
+    "2025-09-30": 0,
+    "2025-10-01": 0,
+    "2025-10-02": 0,
+    "2025-10-03": 0,
+    "2025-10-04": 0,
+    "2025-10-05": 0,
+    "2025-10-06": 0,
+    "2025-10-07": 0,
+    "2025-10-08": 0,
+    "2025-10-09": 0,
+    "2025-10-10": 0,
+    "2025-10-11": 0,
+    "2025-10-12": 0,
+    "2025-10-13": 0,
+    "2025-10-14": 0,
+    "2025-10-15": 0,
+    "2025-10-16": 0,
+    "2025-10-17": 0,
+    "2025-10-18": 0,
+    "2025-10-19": 0,
+    "2025-10-20": 0,
+    "2025-10-21": 0,
+    "2025-10-22": 0,
+    "2025-10-23": 0,
+    "2025-10-24": 0,
+    "2025-10-25": 0,
+    "2025-10-26": 0,
+    "2025-10-27": 0,
+    "2025-10-28": 0,
+    "2025-10-29": 0,
+    "2025-10-30": 0,
+    "2025-10-31": 0,
+    "2025-11-01": 0,
+    "2025-11-02": 0,
+    "2025-11-03": 0,
+    "2025-11-04": 0,
+    "2025-11-05": 0,
+    "2025-11-06": 0,
+    "2025-11-07": 0,
+    "2025-11-08": 0,
+    "2025-11-09": 0,
+    "2025-11-10": 0,
+    "2025-11-11": 0,
+    "2025-11-12": 0,
+    "2025-11-13": 0,
+    "2025-11-14": 9,
+    "2025-11-15": 0,
+    "2025-11-16": 1,
+    "2025-11-17": 0,
+    "2025-11-18": 0,
+    "2025-11-19": 0,
+    "2025-11-20": 0,
+    "2025-11-21": 0,
+    "2025-11-22": 0,
+    "2025-11-23": 0,
+    "2025-11-24": 0,
+    "2025-11-25": 0,
+    "2025-11-26": 0,
+    "2025-11-27": 0,
+    "2025-11-28": 0,
+    "2025-11-29": 0,
+    "2025-11-30": 2,
+    "2025-12-01": 4,
+    "2025-12-02": 43,
+    "2025-12-03": 39,
+    "2025-12-04": 22,
+    "2025-12-05": 0,
+    "2025-12-06": 0,
+    "2025-12-07": 11,
+    "2025-12-08": 26,
+    "2025-12-09": 11,
+    "2025-12-10": 0,
+    "2025-12-11": 40,
+    "2025-12-12": 0,
+    "2025-12-13": 0,
+    "2025-12-14": 0,
+    "2025-12-15": 0,
+    "2025-12-16": 0,
+    "2025-12-17": 0,
+    "2025-12-18": 0,
+    "2025-12-19": 0,
+    "2025-12-20": 0,
+    "2025-12-21": 0,
+    "2025-12-22": 2,
+    "2025-12-23": 0,
+    "2025-12-24": 0,
+    "2025-12-25": 0,
+    "2025-12-26": 1,
+    "2025-12-27": 0,
+    "2025-12-28": 0,
+    "2025-12-29": 0,
+    "2025-12-30": 3,
+    "2025-12-31": 4,
+    "2026-01-01": 3,
+    "2026-01-02": 1,
+    "2026-01-03": 4,
+    "2026-01-04": 10,
+    "2026-01-05": 8,
+    "2026-01-06": 14,
+    "2026-01-07": 9,
+    "2026-01-08": 11,
+    "2026-01-09": 7,
+    "2026-01-10": 22,
+    "2026-01-11": 13,
+    "2026-01-12": 23,
+    "2026-01-13": 8,
+    "2026-01-14": 18,
+    "2026-01-15": 0,
+    "2026-01-16": 6,
+    "2026-01-17": 1,
+    "2026-01-18": 5,
+    "2026-01-19": 0,
+    "2026-01-20": 4,
+    "2026-01-21": 35,
+    "2026-01-22": 136,
+    "2026-01-23": 18,
+    "2026-01-24": 22,
+    "2026-01-25": 13,
+    "2026-01-26": 126,
+    "2026-01-27": 5,
+    "2026-01-28": 50,
+    "2026-01-29": 48,
+    "2026-01-30": 60,
+    "2026-01-31": 50,
+    "2026-02-01": 45,
+    "2026-02-02": 11,
+    "2026-02-03": 35,
+    "2026-02-04": 20,
+    "2026-02-05": 3,
+    "2026-02-06": 1,
+    "2026-02-07": 1,
+    "2026-02-08": 1,
+    "2026-02-09": 1,
+    "2026-02-10": 6,
+    "2026-02-11": 3,
+    "2026-02-12": 2,
+    "2026-02-13": 29,
+    "2026-02-14": 16,
+    "2026-02-15": 27,
+    "2026-02-16": 26,
+    "2026-02-17": 24,
+    "2026-02-18": 43,
+    "2026-02-19": 27,
+    "2026-02-20": 44,
+    "2026-02-21": 51,
+    "2026-02-22": 29,
+    "2026-02-23": 68,
+    "2026-02-24": 21,
+    "2026-02-25": 8,
+    "2026-02-26": 20,
+    "2026-02-27": 1,
+    "2026-02-28": 43,
+    "2026-03-01": 12,
+    "2026-03-02": 3,
+    "2026-03-03": 13,
+    "2026-03-04": 7,
+    "2026-03-05": 28,
+    "2026-03-06": 12,
+    "2026-03-07": 27,
+    "2026-03-08": 16,
+    "2026-03-09": 15,
+    "2026-03-10": 9,
+    "2026-03-11": 17,
+    "2026-03-12": 8,
+    "2026-03-13": 16,
+    "2026-03-14": 15,
+    "2026-03-15": 4,
+    "2026-03-16": 5,
+    "2026-03-17": 3,
+    "2026-03-18": 4,
+    "2026-03-19": 1,
+    "2026-03-20": 11,
+    "2026-03-21": 66,
+    "2026-03-22": 51,
+    "2026-03-23": 1,
+    "2026-03-24": 6,
+    "2026-03-25": 9,
+    "2026-03-26": 2,
+    "2026-03-27": 1,
+    "2026-03-28": 24,
+    "2026-03-29": 16,
+    "2026-03-30": 19,
+    "2026-03-31": 2,
+    "2026-04-01": 32,
+    "2026-04-02": 24,
+    "2026-04-03": 21,
+    "2026-04-04": 4,
+    "2026-04-05": 1,
+    "2026-04-06": 16,
+    "2026-04-07": 37,
+    "2026-04-08": 28,
+    "2026-04-09": 69,
+    "2026-04-10": 4,
+    "2026-04-11": 1,
+    "2026-04-12": 18,
+    "2026-04-13": 28,
+    "2026-04-14": 25,
+    "2026-04-15": 40,
+    "2026-04-16": 9,
+    "2026-04-17": 14,
+    "2026-04-18": 10,
+    "2026-04-19": 8,
+    "2026-04-20": 8,
+    "2026-04-21": 12,
+    "2026-04-22": 11,
+    "2026-04-23": 32,
+    "2026-04-24": 40,
+    "2026-04-25": 5,
+    "2026-04-26": 4,
+    "2026-04-27": 44,
+    "2026-04-28": 45,
+    "2026-04-29": 27,
+    "2026-04-30": 3,
+    "2026-05-01": 11,
+    "2026-05-02": 1,
+    "2026-05-03": 6,
+    "2026-05-04": 23,
+    "2026-05-05": 13,
+    "2026-05-06": 4,
+    "2026-05-07": 26,
+    "2026-05-08": 8,
+    "2026-05-09": 6,
+    "2026-05-10": 29,
+    "2026-05-11": 17,
+    "2026-05-12": 8,
+    "2026-05-13": 6,
+    "2026-05-14": 20,
+    "2026-05-15": 47,
+    "2026-05-16": 50,
+    "2026-05-17": 46,
+    "2026-05-18": 50,
+    "2026-05-19": 63,
+    "2026-05-20": 59,
+    "2026-05-21": 38,
+    "2026-05-22": 40,
+    "2026-05-23": 10
+  },
+  "activeDaysPct": 43.44262295081967,
+  "commitTotal": 3193,
+  "commitMean": 8.724043715846994,
+  "commitMedian": 0.0,
+  "commitP95": 44.75,
+  "commitActiveMean": 20.08176100628931,
+  "commitMax": 136,
+  "currentStreak": 124,
+  "longestStreak": 124,
+  "additions": 1473317,
+  "deletions": 250481,
+  "prs": 299,
+  "mergedPrs": 284,
+  "prMergeRatio": 94.98327759197325,
+  "prWeeklyMean": 12.458333333333334,
+  "prWeeklyMedian": 10.5,
+  "prWeeklyP95": 33.34999999999998,
+  "prWeeklyMax": 36,
+  "prRecent": [
+    [
+      "2025-11-24",
+      0
+    ],
+    [
+      "2025-12-01",
+      0
+    ],
+    [
+      "2025-12-08",
+      1
+    ],
+    [
+      "2025-12-15",
+      2
+    ],
+    [
+      "2025-12-22",
+      0
+    ],
+    [
+      "2025-12-29",
+      2
+    ],
+    [
+      "2026-01-05",
+      1
+    ],
+    [
+      "2026-01-12",
+      2
+    ],
+    [
+      "2026-01-19",
+      4
+    ],
+    [
+      "2026-01-26",
+      24
+    ],
+    [
+      "2026-02-02",
+      22
+    ],
+    [
+      "2026-02-09",
+      15
+    ],
+    [
+      "2026-02-16",
+      15
+    ],
+    [
+      "2026-02-23",
+      15
+    ],
+    [
+      "2026-03-02",
+      4
+    ],
+    [
+      "2026-03-09",
+      4
+    ],
+    [
+      "2026-03-16",
+      35
+    ],
+    [
+      "2026-03-23",
+      13
+    ],
+    [
+      "2026-03-30",
+      12
+    ],
+    [
+      "2026-04-06",
+      24
+    ],
+    [
+      "2026-04-13",
+      10
+    ],
+    [
+      "2026-04-20",
+      8
+    ],
+    [
+      "2026-04-27",
+      10
+    ],
+    [
+      "2026-05-04",
+      9
+    ],
+    [
+      "2026-05-11",
+      36
+    ],
+    [
+      "2026-05-18",
+      20
+    ]
+  ],
+  "topWeek": [
+    [
+      "pravah",
+      148
+    ],
+    [
+      "fieldForce",
+      90
+    ],
+    [
+      "aceon",
+      34
+    ],
+    [
+      "praxis",
+      9
+    ],
+    [
+      "pomo",
+      8
+    ]
+  ],
+  "topMonth": [
+    [
+      "pravah",
+      360
+    ],
+    [
+      "fieldForce",
+      140
+    ],
+    [
+      "pomo",
+      70
+    ],
+    [
+      "hyprvox",
+      47
+    ],
+    [
+      "aceon",
+      36
+    ]
+  ],
+  "topYear": [
+    [
+      "pravah",
+      570
+    ],
+    [
+      "fateWheel",
+      352
+    ],
+    [
+      "hyprvox",
+      347
+    ],
+    [
+      "aceon",
+      233
+    ],
+    [
+      "hyprfolio",
+      231
+    ],
+    [
+      "saksham",
+      148
+    ],
+    [
+      "fieldForce",
+      140
+    ],
+    [
+      "PLMPRO",
+      115
+    ],
+    [
+      "coursestate",
+      99
+    ],
+    [
+      "lapstat",
+      93
+    ],
+    [
+      "dotfiles",
+      92
+    ],
+    [
+      "opencode_config",
+      92
+    ],
+    [
+      "pomo",
+      91
+    ],
+    [
+      "lazydev",
+      84
+    ],
+    [
+      "viva_auth",
+      72
+    ],
+    [
+      "praxis",
+      65
+    ],
+    [
+      "socialstate",
+      64
+    ],
+    [
+      "systemdManager",
+      61
+    ],
+    [
+      "fleetflow",
+      53
+    ],
+    [
+      "dsa_tracker",
+      36
+    ],
+    [
+      "lifestate",
+      29
+    ],
+    [
+      "Snehit70",
+      28
+    ],
+    [
+      "replica",
+      26
+    ],
+    [
+      "syngenta",
+      16
+    ],
+    [
+      "Foodrescue",
+      14
+    ],
+    [
+      "voice_web",
+      13
+    ],
+    [
+      "ralphy-monitor",
+      10
+    ],
+    [
+      "manim_video_maker",
+      9
+    ],
+    [
+      ".claude",
+      6
+    ],
+    [
+      "portfolio",
+      2
+    ],
+    [
+      "manim_repo",
+      1
+    ],
+    [
+      "portfolio_website",
+      1
+    ]
+  ],
+  "languages": [
+    [
+      "TypeScript",
+      4282345
+    ],
+    [
+      "HTML",
+      1726576
+    ],
+    [
+      "JavaScript",
+      1011348
+    ],
+    [
+      "Python",
+      637412
+    ],
+    [
+      "Vue",
+      593388
+    ],
+    [
+      "CSS",
+      452227
+    ],
+    [
+      "Shell",
+      369621
+    ],
+    [
+      "Kotlin",
+      233505
+    ],
+    [
+      "Go",
+      165449
+    ],
+    [
+      "Astro",
+      111095
+    ],
+    [
+      "Lua",
+      99115
+    ],
+    [
+      "Dockerfile",
+      862
+    ],
+    [
+      "Mako",
+      651
+    ],
+    [
+      "PureBasic",
+      84
+    ]
+  ],
+  "categories": [
+    [
+      "Web Apps",
+      1001
+    ],
+    [
+      "AI / Voice",
+      940
+    ],
+    [
+      "Other",
+      684
+    ],
+    [
+      "Linux / CLI",
+      477
+    ],
+    [
+      "Mobile",
+      91
+    ]
+  ],
+  "weekdayMean": [
+    10.096153846153847,
+    8.134615384615385,
+    9.115384615384615,
+    11.0,
+    7.584905660377358,
+    8.09433962264151,
+    7.076923076923077
+  ],
+  "weekdayActive": [
+    23,
+    24,
+    23,
+    22,
+    23,
+    21,
+    23
+  ],
+  "bestWeekday": 3,
+  "quietWeekday": 6,
+  "monthly": [
+    [
+      "2025-06-01",
+      0
+    ],
+    [
+      "2025-07-01",
+      15
+    ],
+    [
+      "2025-08-01",
+      0
+    ],
+    [
+      "2025-09-01",
+      0
+    ],
+    [
+      "2025-10-01",
+      0
+    ],
+    [
+      "2025-11-01",
+      12
+    ],
+    [
+      "2025-12-01",
+      206
+    ],
+    [
+      "2026-01-01",
+      730
+    ],
+    [
+      "2026-02-01",
+      606
+    ],
+    [
+      "2026-03-01",
+      423
+    ],
+    [
+      "2026-04-01",
+      620
+    ],
+    [
+      "2026-05-01",
+      581
+    ]
+  ],
+  "velocity30d": 749,
+  "velocityPrev30d": 525,
+  "velocityTrendPct": 42.66666666666667,
+  "momentum7d": 306,
+  "momentumScore": 77,
+  "shipping7d": 8,
+  "shipping30d": 13,
+  "focusTop3Pct": 39.74318822424053,
+  "hhi": 0.07913323156697791,
+  "entropy": 4.146133603266383,
+  "entropyNormalized": 0.8292267206532766
+}

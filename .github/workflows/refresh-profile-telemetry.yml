@@ -1,0 +1,43 @@
+name: Refresh Profile Telemetry
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-telemetry
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    env:
+      GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify GitHub CLI auth
+        run: gh auth status
+
+      - name: Generate profile telemetry
+        run: python3 scripts/generate_profile_telemetry.py
+
+      - name: Commit refreshed assets
+        run: |
+          if git diff --quiet -- assets/profile-telemetry.svg assets/profile-distribution.svg assets/profile-telemetry.json; then
+            echo "No telemetry changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-telemetry.svg assets/profile-distribution.svg assets/profile-telemetry.json
+          git commit -m "chore: refresh profile telemetry"
+          git push
