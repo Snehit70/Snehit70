@@ -245,6 +245,11 @@ def repo_category(repo):
 def streaks(active_days):
     current = 0
     cursor = TODAY
+    # Grace period: a streak stays alive until the end of the next day, so an
+    # early-morning run that finds no commit *yet today* counts from yesterday
+    # instead of resetting to 0.
+    if cursor not in active_days:
+        cursor -= dt.timedelta(days=1)
     while cursor in active_days:
         current += 1
         cursor -= dt.timedelta(days=1)
