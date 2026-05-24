@@ -3,10 +3,49 @@
   "windowDays": 366,
   "repos": [
     {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-05-24T01:53:50Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 74887,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 61820,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2980,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-05-24T01:24:48Z",
+      "pushedAt": "2026-05-24T01:25:46Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -62,45 +101,6 @@
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
-          }
-        }
-      ]
-    },
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-05-23T01:48:02Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 74887,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 61820,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2980,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -1204,7 +1204,7 @@
     15,
     6,
     100,
-    65,
+    66,
     107,
     174,
     242,
@@ -1225,12 +1225,12 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 49,
-    "morning (06\u201312)": 907,
+    "morning (06\u201312)": 908,
     "afternoon (12\u201318)": 1379,
     "evening (18\u201324)": 860
   },
-  "additionsPct": 85.49764953801264,
-  "avgCommitSize": 540.6322378716745,
+  "additionsPct": 85.4976168325206,
+  "avgCommitSize": 540.4640175219024,
   "prActiveWeeks": 24,
   "prThis4w": 75,
   "prPrev4w": 54,
@@ -1601,19 +1601,19 @@
     "2026-05-21": 38,
     "2026-05-22": 40,
     "2026-05-23": 11,
-    "2026-05-24": 1
+    "2026-05-24": 2
   },
   "activeDaysPct": 43.71584699453552,
-  "commitTotal": 3195,
-  "commitMean": 8.729508196721312,
+  "commitTotal": 3196,
+  "commitMean": 8.73224043715847,
   "commitMedian": 0.0,
   "commitP95": 44.75,
-  "commitActiveMean": 19.96875,
+  "commitActiveMean": 19.975,
   "commitMax": 136,
   "currentStreak": 125,
   "longestStreak": 125,
-  "additions": 1476818,
-  "deletions": 250502,
+  "additions": 1476820,
+  "deletions": 250503,
   "prs": 299,
   "mergedPrs": 284,
   "prMergeRatio": 94.98327759197325,
@@ -1790,7 +1790,7 @@
     ],
     [
       "hyprfolio",
-      231
+      232
     ],
     [
       "saksham",
@@ -1974,7 +1974,7 @@
     ],
     [
       "Linux / CLI",
-      477
+      478
     ],
     [
       "Mobile",
@@ -1988,7 +1988,7 @@
     11.0,
     7.730769230769231,
     8.11320754716981,
-    6.962264150943396
+    6.981132075471698
   ],
   "weekdayActive": [
     23,
@@ -2048,18 +2048,18 @@
     ],
     [
       "2026-05-01",
-      583
+      584
     ]
   ],
-  "velocity30d": 711,
+  "velocity30d": 712,
   "velocityPrev30d": 556,
-  "velocityTrendPct": 27.87769784172662,
-  "momentum7d": 262,
-  "momentumScore": 74,
+  "velocityTrendPct": 28.05755395683453,
+  "momentum7d": 263,
+  "momentumScore": 75,
   "shipping7d": 8,
   "shipping30d": 14,
-  "focusTop3Pct": 39.718309859154935,
-  "hhi": 0.07904555484533002,
-  "entropy": 4.14778450779605,
-  "entropyNormalized": 0.82955690155921
+  "focusTop3Pct": 39.705882352941174,
+  "hhi": 0.07904142537370712,
+  "entropy": 4.147671608608553,
+  "entropyNormalized": 0.8295343217217106
 }
