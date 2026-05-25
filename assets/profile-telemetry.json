@@ -1,12 +1,51 @@
 {
-  "generated": "2026-05-24",
+  "generated": "2026-05-25",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-05-25T03:04:10Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1118370,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 18837,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 9610,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9190,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-05-24T01:53:50Z",
+      "pushedAt": "2026-05-25T02:00:22Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -45,7 +84,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-05-24T01:25:46Z",
+      "pushedAt": "2026-05-24T04:47:55Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -144,45 +183,6 @@
         },
         {
           "size": 48044,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pravah",
-      "description": "Timeline-based task manager with AI agent API support",
-      "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-05-22T06:38:46Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1113965,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 18837,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 9610,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9190,
           "node": {
             "name": "CSS",
             "color": "#663399"
@@ -1192,10 +1192,10 @@
     "date": "2026-01-22",
     "commits": 136
   },
-  "burstDays": 16,
-  "burstThreshold": 46.099999999999994,
+  "burstDays": 17,
+  "burstThreshold": 46,
   "longestGap": 115,
-  "meanGapDays": 2.0125786163522013,
+  "meanGapDays": 2.00625,
   "hourDistribution": [
     20,
     1,
@@ -1204,11 +1204,11 @@
     15,
     6,
     100,
-    66,
-    107,
+    67,
+    111,
     174,
     242,
-    219,
+    222,
     334,
     241,
     210,
@@ -1225,18 +1225,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 49,
-    "morning (06\u201312)": 908,
+    "morning (06\u201312)": 916,
     "afternoon (12\u201318)": 1379,
     "evening (18\u201324)": 860
   },
-  "additionsPct": 85.4976168325206,
-  "avgCommitSize": 540.4640175219024,
-  "prActiveWeeks": 24,
-  "prThis4w": 75,
-  "prPrev4w": 54,
-  "prTrendPct": 38.88888888888889,
+  "additionsPct": 85.48931292453634,
+  "avgCommitSize": 539.3910736579276,
+  "prActiveWeeks": 25,
+  "prThis4w": 66,
+  "prPrev4w": 52,
+  "prTrendPct": 26.923076923076923,
   "daily": {
-    "2025-05-24": 0,
     "2025-05-25": 0,
     "2025-05-26": 0,
     "2025-05-27": 0,
@@ -1601,31 +1600,28 @@
     "2026-05-21": 38,
     "2026-05-22": 40,
     "2026-05-23": 11,
-    "2026-05-24": 2
+    "2026-05-24": 5,
+    "2026-05-25": 5
   },
-  "activeDaysPct": 43.71584699453552,
-  "commitTotal": 3196,
-  "commitMean": 8.73224043715847,
+  "activeDaysPct": 43.98907103825137,
+  "commitTotal": 3204,
+  "commitMean": 8.754098360655737,
   "commitMedian": 0.0,
   "commitP95": 44.75,
-  "commitActiveMean": 19.975,
+  "commitActiveMean": 19.900621118012424,
   "commitMax": 136,
-  "currentStreak": 125,
-  "longestStreak": 125,
-  "additions": 1476820,
-  "deletions": 250503,
-  "prs": 299,
-  "mergedPrs": 284,
-  "prMergeRatio": 94.98327759197325,
-  "prWeeklyMean": 12.458333333333334,
-  "prWeeklyMedian": 10.5,
-  "prWeeklyP95": 33.34999999999998,
+  "currentStreak": 126,
+  "longestStreak": 126,
+  "additions": 1477434,
+  "deletions": 250775,
+  "prs": 300,
+  "mergedPrs": 285,
+  "prMergeRatio": 95.0,
+  "prWeeklyMean": 12,
+  "prWeeklyMedian": 10,
+  "prWeeklyP95": 32.79999999999997,
   "prWeeklyMax": 36,
   "prRecent": [
-    [
-      "2025-11-24",
-      0
-    ],
     [
       "2025-12-01",
       0
@@ -1725,16 +1721,20 @@
     [
       "2026-05-18",
       20
+    ],
+    [
+      "2026-05-25",
+      1
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      128
+      98
     ],
     [
       "fieldForce",
-      73
+      61
     ],
     [
       "aceon",
@@ -1752,7 +1752,7 @@
   "topMonth": [
     [
       "pravah",
-      321
+      324
     ],
     [
       "fieldForce",
@@ -1774,7 +1774,7 @@
   "topYear": [
     [
       "pravah",
-      570
+      577
     ],
     [
       "fateWheel",
@@ -1785,12 +1785,12 @@
       347
     ],
     [
-      "aceon",
+      "hyprfolio",
       233
     ],
     [
-      "hyprfolio",
-      232
+      "aceon",
+      233
     ],
     [
       "saksham",
@@ -1904,7 +1904,7 @@
   "languages": [
     [
       "TypeScript",
-      4282345
+      4286750
     ],
     [
       "HTML",
@@ -1966,7 +1966,7 @@
     ],
     [
       "AI / Voice",
-      940
+      947
     ],
     [
       "Other",
@@ -1974,7 +1974,7 @@
     ],
     [
       "Linux / CLI",
-      478
+      479
     ],
     [
       "Mobile",
@@ -1982,16 +1982,16 @@
     ]
   ],
   "weekdayMean": [
-    10.096153846153847,
+    10.0,
     8.134615384615385,
     9.115384615384615,
     11.0,
     7.730769230769231,
-    8.11320754716981,
-    6.981132075471698
+    8.26923076923077,
+    7.037735849056604
   ],
   "weekdayActive": [
-    23,
+    24,
     24,
     23,
     22,
@@ -2048,18 +2048,18 @@
     ],
     [
       "2026-05-01",
-      584
+      592
     ]
   ],
-  "velocity30d": 712,
-  "velocityPrev30d": 556,
-  "velocityTrendPct": 28.05755395683453,
-  "momentum7d": 263,
+  "velocity30d": 715,
+  "velocityPrev30d": 559,
+  "velocityTrendPct": 27.906976744186046,
+  "momentum7d": 221,
   "momentumScore": 75,
   "shipping7d": 8,
   "shipping30d": 14,
-  "focusTop3Pct": 39.705882352941174,
-  "hhi": 0.07904142537370712,
-  "entropy": 4.147671608608553,
-  "entropyNormalized": 0.8295343217217106
+  "focusTop3Pct": 39.82521847690387,
+  "hhi": 0.07947462675401067,
+  "entropy": 4.143914711856753,
+  "entropyNormalized": 0.8287829423713505
 }
