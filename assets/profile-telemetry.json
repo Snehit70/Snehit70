@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-26",
+  "generated": "2026-05-27",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-05-26T01:52:15Z",
+      "pushedAt": "2026-05-27T02:00:23Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,109 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fieldForce",
+      "description": "",
+      "url": "https://github.com/Snehit70/fieldForce",
+      "pushedAt": "2026-05-26T14:24:35Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 330748,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 155068,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 62966,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1045,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 651,
+          "node": {
+            "name": "Mako",
+            "color": "#7e858d"
+          }
+        },
+        {
+          "size": 603,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 379,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 366,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    {
+      "name": "saarthi",
+      "description": "",
+      "url": "https://github.com/Snehit70/saarthi",
+      "pushedAt": "2026-05-26T10:52:11Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 108815,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-05-26T04:45:05Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -76,24 +179,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-05-25T05:06:33Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -225,73 +310,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "fieldForce",
-      "description": "",
-      "url": "https://github.com/Snehit70/fieldForce",
-      "pushedAt": "2026-05-21T13:43:01Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 330748,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 155068,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 62966,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 1045,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 651,
-          "node": {
-            "name": "Mako",
-            "color": "#7e858d"
-          }
-        },
-        {
-          "size": 603,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 379,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 366,
-          "node": {
-            "name": "Dockerfile",
-            "color": "#384d54"
           }
         }
       ]
@@ -1185,17 +1203,17 @@
       ]
     }
   ],
-  "reposAnalyzed": 32,
+  "reposAnalyzed": 33,
   "reposPublic": 19,
-  "reposPrivate": 16,
+  "reposPrivate": 17,
   "biggestDay": {
     "date": "2026-01-22",
     "commits": 136
   },
   "burstDays": 17,
-  "burstThreshold": 45.900000000000006,
+  "burstThreshold": 45.80000000000001,
   "longestGap": 115,
-  "meanGapDays": 2,
+  "meanGapDays": 1.9938271604938271,
   "hourDistribution": [
     20,
     1,
@@ -1204,13 +1222,13 @@
     15,
     6,
     100,
-    68,
-    111,
+    69,
+    116,
     174,
     242,
     222,
     335,
-    244,
+    246,
     210,
     200,
     172,
@@ -1225,18 +1243,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 49,
-    "morning (06\u201312)": 917,
-    "afternoon (12\u201318)": 1383,
+    "morning (06\u201312)": 923,
+    "afternoon (12\u201318)": 1385,
     "evening (18\u201324)": 860
   },
-  "additionsPct": 85.495731455004,
-  "avgCommitSize": 539.2122156435026,
+  "additionsPct": 85.5458174484778,
+  "avgCommitSize": 540.1007149518184,
   "prActiveWeeks": 25,
-  "prThis4w": 69,
+  "prThis4w": 71,
   "prPrev4w": 52,
-  "prTrendPct": 32.69230769230769,
+  "prTrendPct": 36.53846153846153,
   "daily": {
-    "2025-05-26": 0,
     "2025-05-27": 0,
     "2025-05-28": 0,
     "2025-05-29": 0,
@@ -1601,23 +1618,24 @@
     "2026-05-23": 11,
     "2026-05-24": 5,
     "2026-05-25": 9,
-    "2026-05-26": 1
+    "2026-05-26": 8,
+    "2026-05-27": 1
   },
-  "activeDaysPct": 44.26229508196721,
-  "commitTotal": 3209,
-  "commitMean": 8.76775956284153,
+  "activeDaysPct": 44.53551912568306,
+  "commitTotal": 3217,
+  "commitMean": 8.789617486338798,
   "commitMedian": 0.0,
   "commitP95": 44.75,
-  "commitActiveMean": 19.808641975308642,
+  "commitActiveMean": 19.736196319018404,
   "commitMax": 136,
-  "currentStreak": 127,
-  "longestStreak": 127,
-  "additions": 1479360,
-  "deletions": 250972,
-  "prs": 303,
-  "mergedPrs": 288,
-  "prMergeRatio": 95.04950495049505,
-  "prWeeklyMean": 12.12,
+  "currentStreak": 128,
+  "longestStreak": 128,
+  "additions": 1486362,
+  "deletions": 251142,
+  "prs": 305,
+  "mergedPrs": 289,
+  "prMergeRatio": 94.75409836065573,
+  "prWeeklyMean": 12.2,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 32.79999999999997,
   "prWeeklyMax": 36,
@@ -1724,35 +1742,35 @@
     ],
     [
       "2026-05-25",
-      4
+      6
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      81
+      70
     ],
     [
       "aceon",
-      34
-    ],
-    [
-      "fieldForce",
-      20
+      13
     ],
     [
       "praxis",
       9
     ],
     [
-      "hyprvox",
-      8
+      "hyprfolio",
+      7
+    ],
+    [
+      "saarthi",
+      7
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      328
+      285
     ],
     [
       "fieldForce",
@@ -1786,7 +1804,7 @@
     ],
     [
       "hyprfolio",
-      234
+      235
     ],
     [
       "aceon",
@@ -1885,6 +1903,10 @@
       9
     ],
     [
+      "saarthi",
+      7
+    ],
+    [
       ".claude",
       6
     ],
@@ -1904,7 +1926,7 @@
   "languages": [
     [
       "TypeScript",
-      4317656
+      4426471
     ],
     [
       "HTML",
@@ -1970,11 +1992,11 @@
     ],
     [
       "Other",
-      686
+      693
     ],
     [
       "Linux / CLI",
-      480
+      481
     ],
     [
       "Mobile",
@@ -1982,9 +2004,9 @@
     ]
   ],
   "weekdayMean": [
-    10.075471698113208,
-    8.0,
-    9.115384615384615,
+    10.26923076923077,
+    8.132075471698114,
+    8.962264150943396,
     11.0,
     7.730769230769231,
     8.26923076923077,
@@ -1993,7 +2015,7 @@
   "weekdayActive": [
     24,
     25,
-    23,
+    24,
     22,
     23,
     21,
@@ -2048,18 +2070,18 @@
     ],
     [
       "2026-05-01",
-      597
+      605
     ]
   ],
-  "velocity30d": 716,
-  "velocityPrev30d": 562,
-  "velocityTrendPct": 27.402135231316727,
-  "momentum7d": 163,
-  "momentumScore": 75,
+  "velocity30d": 680,
+  "velocityPrev30d": 582,
+  "velocityTrendPct": 16.83848797250859,
+  "momentum7d": 112,
+  "momentumScore": 72,
   "shipping7d": 8,
-  "shipping30d": 12,
-  "focusTop3Pct": 39.88781551885322,
-  "hhi": 0.07972231806364947,
-  "entropy": 4.141713839265874,
-  "entropyNormalized": 0.8283427678531747
+  "shipping30d": 13,
+  "focusTop3Pct": 39.78862294062792,
+  "hhi": 0.07937635863407881,
+  "entropy": 4.15496776100686,
+  "entropyNormalized": 0.8236802404200902
 }
