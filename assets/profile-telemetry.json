@@ -1,18 +1,64 @@
 {
-  "generated": "2026-06-16",
+  "generated": "2026-06-17",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-06-17T04:54:15Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 686731,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 23569,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 368,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
     {
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-06-16T04:04:48Z",
+      "pushedAt": "2026-06-17T04:53:10Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 1540550,
+          "size": 1583277,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -42,10 +88,49 @@
       ]
     },
     {
+      "name": "saarthi",
+      "description": "",
+      "url": "https://github.com/Snehit70/saarthi",
+      "pushedAt": "2026-06-17T04:42:28Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 219684,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 16279,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 12806,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 1115,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-06-16T02:28:34Z",
+      "pushedAt": "2026-06-17T02:13:25Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -81,10 +166,49 @@
       ]
     },
     {
+      "name": "pomo",
+      "description": "Android remote control for desktop Pomodoro timer",
+      "url": "https://github.com/Snehit70/pomo",
+      "pushedAt": "2026-06-16T17:54:29Z",
+      "isPrivate": false,
+      "primaryLanguage": "Kotlin",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 272814,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 15600,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 6772,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3306,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-06-15T05:38:07Z",
+      "pushedAt": "2026-06-16T06:07:15Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -223,45 +347,6 @@
       ]
     },
     {
-      "name": "saarthi",
-      "description": "",
-      "url": "https://github.com/Snehit70/saarthi",
-      "pushedAt": "2026-06-05T10:25:25Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 219684,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 16279,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 12806,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 1115,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
       "name": "systemdManager",
       "description": "TUI tool for managing systemd services on Linux",
       "url": "https://github.com/Snehit70/systemdManager",
@@ -367,45 +452,6 @@
           "node": {
             "name": "Dockerfile",
             "color": "#384d54"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pomo",
-      "description": "Android remote control for desktop Pomodoro timer",
-      "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-06-05T09:01:47Z",
-      "isPrivate": false,
-      "primaryLanguage": "Kotlin",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 269325,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
-          }
-        },
-        {
-          "size": 15600,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 6772,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 3306,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
           }
         }
       ]
@@ -558,52 +604,6 @@
           "node": {
             "name": "Dockerfile",
             "color": "#384d54"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-05-23T06:19:30Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 516198,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 2710,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 368,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 69,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
           }
         }
       ]
@@ -1278,8 +1278,8 @@
     }
   ],
   "reposAnalyzed": 34,
-  "reposPublic": 21,
-  "reposPrivate": 16,
+  "reposPublic": 22,
+  "reposPrivate": 15,
   "biggestDay": {
     "date": "2026-01-22",
     "commits": 138
@@ -1287,48 +1287,47 @@
   "burstDays": 20,
   "burstThreshold": 45.0,
   "longestGap": 115,
-  "meanGapDays": 1.8846153846153846,
+  "meanGapDays": 1.8797814207650274,
   "hourDistribution": [
-    30,
+    34,
     3,
     0,
     7,
     15,
     6,
     100,
-    89,
+    95,
     127,
-    210,
-    281,
+    220,
+    288,
+    252,
+    355,
+    272,
     246,
-    353,
-    268,
-    239,
-    230,
-    189,
+    240,
+    195,
     226,
-    217,
+    222,
     205,
     135,
-    119,
-    166,
-    115
+    121,
+    167,
+    120
   ],
   "peakHour": 12,
   "hourBuckets": {
-    "night (00\u201306)": 61,
-    "morning (06\u201312)": 1053,
-    "afternoon (12\u201318)": 1505,
-    "evening (18\u201324)": 957
+    "night (00\u201306)": 65,
+    "morning (06\u201312)": 1082,
+    "afternoon (12\u201318)": 1534,
+    "evening (18\u201324)": 970
   },
-  "additionsPct": 84.85415086618903,
-  "avgCommitSize": 526.8940156599552,
+  "additionsPct": 84.70429840476427,
+  "avgCommitSize": 523.8482607504793,
   "prActiveWeeks": 28,
-  "prThis4w": 28,
+  "prThis4w": 37,
   "prPrev4w": 75,
-  "prTrendPct": -62.66666666666667,
+  "prTrendPct": -50.66666666666667,
   "daily": {
-    "2025-06-16": 0,
     "2025-06-17": 0,
     "2025-06-18": 0,
     "2025-06-19": 0,
@@ -1675,10 +1674,10 @@
     "2026-05-26": 21,
     "2026-05-27": 1,
     "2026-05-28": 56,
-    "2026-05-29": 12,
-    "2026-05-30": 24,
-    "2026-05-31": 10,
-    "2026-06-01": 2,
+    "2026-05-29": 13,
+    "2026-05-30": 28,
+    "2026-05-31": 37,
+    "2026-06-01": 6,
     "2026-06-02": 12,
     "2026-06-03": 43,
     "2026-06-04": 35,
@@ -1693,24 +1692,25 @@
     "2026-06-13": 1,
     "2026-06-14": 1,
     "2026-06-15": 23,
-    "2026-06-16": 4
+    "2026-06-16": 34,
+    "2026-06-17": 9
   },
-  "activeDaysPct": 50.0,
-  "commitTotal": 3576,
-  "commitMean": 9.770491803278688,
-  "commitMedian": 0.5,
+  "activeDaysPct": 50.27322404371585,
+  "commitTotal": 3651,
+  "commitMean": 9.975409836065573,
+  "commitMedian": 1.0,
   "commitP95": 45.0,
-  "commitActiveMean": 19.540983606557376,
+  "commitActiveMean": 19.842391304347824,
   "commitMax": 138,
-  "currentStreak": 148,
-  "longestStreak": 148,
-  "additions": 1598799,
-  "deletions": 285374,
-  "prs": 327,
-  "mergedPrs": 311,
-  "prMergeRatio": 95.10703363914374,
-  "prWeeklyMean": 11.678571428571429,
-  "prWeeklyMedian": 10.0,
+  "currentStreak": 149,
+  "longestStreak": 149,
+  "additions": 1620029,
+  "deletions": 292541,
+  "prs": 336,
+  "mergedPrs": 317,
+  "prMergeRatio": 94.34523809523809,
+  "prWeeklyMean": 12,
+  "prWeeklyMedian": 10.5,
   "prWeeklyP95": 31.149999999999984,
   "prWeeklyMax": 36,
   "prRecent": [
@@ -1816,49 +1816,57 @@
     ],
     [
       "2026-06-15",
-      5
+      14
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      16
+      38
     ],
     [
       "hyprvox",
       11
     ],
     [
+      "praxis",
+      7
+    ],
+    [
       "hyprfolio",
+      7
+    ],
+    [
+      "pomo",
       7
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      248
+      235
     ],
     [
       "aceon",
       82
     ],
     [
-      "fieldForce",
-      73
-    ],
-    [
       "hyprvox",
       68
     ],
     [
-      "saarthi",
-      38
+      "fieldForce",
+      61
+    ],
+    [
+      "praxis",
+      52
     ]
   ],
   "topYear": [
     [
       "pravah",
-      690
+      714
     ],
     [
       "hyprvox",
@@ -1874,7 +1882,7 @@
     ],
     [
       "hyprfolio",
-      255
+      256
     ],
     [
       "saksham",
@@ -1889,8 +1897,12 @@
       115
     ],
     [
+      "praxis",
+      108
+    ],
+    [
       "pomo",
-      101
+      108
     ],
     [
       "dotfiles",
@@ -1915,10 +1927,6 @@
     [
       "viva_auth",
       72
-    ],
-    [
-      "praxis",
-      65
     ],
     [
       "socialstate",
@@ -1996,7 +2004,7 @@
   "languages": [
     [
       "TypeScript",
-      5520008
+      5733268
     ],
     [
       "HTML",
@@ -2004,7 +2012,7 @@
     ],
     [
       "JavaScript",
-      1033053
+      1034563
     ],
     [
       "Python",
@@ -2016,7 +2024,7 @@
     ],
     [
       "CSS",
-      495813
+      516672
     ],
     [
       "Shell",
@@ -2024,7 +2032,7 @@
     ],
     [
       "Kotlin",
-      269325
+      272814
     ],
     [
       "Svelte",
@@ -2058,38 +2066,38 @@
   "categories": [
     [
       "AI / Voice",
-      1174
+      1198
     ],
     [
       "Web Apps",
-      1063
+      1171
     ],
     [
       "Other",
-      729
+      664
     ],
     [
       "Linux / CLI",
-      509
+      510
     ],
     [
       "Mobile",
-      101
+      108
     ]
   ],
   "weekdayMean": [
-    10.773584905660377,
-    9.037735849056604,
-    10.153846153846153,
+    11.057692307692308,
+    9.60377358490566,
+    10.132075471698114,
     12.903846153846153,
-    8.653846153846153,
-    9.192307692307692,
-    7.673076923076923
+    8.673076923076923,
+    9.26923076923077,
+    8.192307692307692
   ],
   "weekdayActive": [
     27,
     28,
-    26,
+    27,
     25,
     26,
     24,
@@ -2140,22 +2148,22 @@
     ],
     [
       "2026-05-01",
-      746
+      778
     ],
     [
       "2026-06-01",
-      166
+      209
     ]
   ],
-  "velocity30d": 584,
-  "velocityPrev30d": 577,
-  "velocityTrendPct": 1.2131715771230502,
-  "momentum7d": 34,
+  "velocity30d": 609,
+  "velocityPrev30d": 617,
+  "velocityTrendPct": -1.2965964343598055,
+  "momentum7d": 70,
   "momentumScore": 70,
-  "shipping7d": 3,
+  "shipping7d": 5,
   "shipping30d": 15,
-  "focusTop3Pct": 40.57606263982103,
-  "hhi": 0.08232924943320871,
-  "entropy": 4.164484330542312,
-  "entropyNormalized": 0.8185778374194104
+  "focusTop3Pct": 40.39989044097508,
+  "hhi": 0.08221555595616167,
+  "entropy": 4.16891853901053,
+  "entropyNormalized": 0.819449432673584
 }
