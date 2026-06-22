@@ -1,18 +1,64 @@
 {
-  "generated": "2026-06-21",
+  "generated": "2026-06-22",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-06-22T04:34:18Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 313471,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 143095,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 65863,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 49027,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
     {
       "name": "pomo",
       "description": "Android remote control for desktop Pomodoro timer",
       "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-06-21T04:53:07Z",
+      "pushedAt": "2026-06-22T03:21:52Z",
       "isPrivate": false,
       "primaryLanguage": "Kotlin",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 382115,
+          "size": 491990,
           "node": {
             "name": "Kotlin",
             "color": "#A97BFF"
@@ -45,7 +91,7 @@
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-06-21T02:12:36Z",
+      "pushedAt": "2026-06-22T02:27:11Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -81,28 +127,10 @@
       ]
     },
     {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-06-20T04:53:27Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-06-19T11:03:44Z",
+      "pushedAt": "2026-06-21T20:19:41Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -138,42 +166,10 @@
       ]
     },
     {
-      "name": "hyprvox",
-      "description": "Voice-to-text CLI with dual STT engines, systemd service, and clipboard integration",
-      "url": "https://github.com/Snehit70/hyprvox",
-      "pushedAt": "2026-06-19T07:36:31Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 633649,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 5210,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 617,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
       "name": "praxis",
       "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
       "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-06-17T07:34:34Z",
+      "pushedAt": "2026-06-21T11:09:55Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -208,6 +204,56 @@
         },
         {
           "size": 368,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-06-21T05:26:31Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprvox",
+      "description": "Voice-to-text CLI with dual STT engines, systemd service, and clipboard integration",
+      "url": "https://github.com/Snehit70/hyprvox",
+      "pushedAt": "2026-06-19T07:36:31Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 633649,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 5210,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 617,
           "node": {
             "name": "HTML",
             "color": "#e34c26"
@@ -491,52 +537,6 @@
           "node": {
             "name": "HTML",
             "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-06-04T06:29:57Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 307420,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 99574,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 65852,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 48419,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -1285,9 +1285,9 @@
     "commits": 138
   },
   "burstDays": 19,
-  "burstThreshold": 45.30000000000001,
+  "burstThreshold": 46.20000000000002,
   "longestGap": 115,
-  "meanGapDays": 1.86096256684492,
+  "meanGapDays": 1.8563829787234043,
   "hourDistribution": [
     34,
     3,
@@ -1296,15 +1296,15 @@
     15,
     6,
     100,
-    98,
-    130,
-    232,
-    301,
+    99,
+    131,
+    233,
+    302,
+    270,
+    366,
+    285,
     259,
-    364,
-    280,
-    253,
-    251,
+    258,
     205,
     228,
     222,
@@ -1312,23 +1312,22 @@
     138,
     131,
     167,
-    121
+    122
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 65,
-    "morning (06\u201312)": 1120,
-    "afternoon (12\u201318)": 1581,
-    "evening (18\u201324)": 992
+    "morning (06\u201312)": 1135,
+    "afternoon (12\u201318)": 1601,
+    "evening (18\u201324)": 993
   },
-  "additionsPct": 84.63764445829676,
-  "avgCommitSize": 519.0888770622672,
-  "prActiveWeeks": 28,
-  "prThis4w": 97,
+  "additionsPct": 84.58168594718603,
+  "avgCommitSize": 518.3848181338956,
+  "prActiveWeeks": 29,
+  "prThis4w": 99,
   "prPrev4w": 75,
-  "prTrendPct": 29.333333333333332,
+  "prTrendPct": 32.0,
   "daily": {
-    "2025-06-21": 0,
     "2025-06-22": 0,
     "2025-06-23": 0,
     "2025-06-24": 0,
@@ -1676,11 +1675,11 @@
     "2026-06-01": 13,
     "2026-06-02": 12,
     "2026-06-03": 43,
-    "2026-06-04": 35,
+    "2026-06-04": 47,
     "2026-06-05": 23,
     "2026-06-06": 1,
     "2026-06-07": 8,
-    "2026-06-08": 3,
+    "2026-06-08": 6,
     "2026-06-09": 8,
     "2026-06-10": 3,
     "2026-06-11": 1,
@@ -1690,34 +1689,31 @@
     "2026-06-15": 23,
     "2026-06-16": 35,
     "2026-06-17": 29,
-    "2026-06-18": 47,
+    "2026-06-18": 48,
     "2026-06-19": 22,
-    "2026-06-20": 1,
-    "2026-06-21": 1
+    "2026-06-20": 4,
+    "2026-06-21": 16,
+    "2026-06-22": 2
   },
-  "activeDaysPct": 51.36612021857923,
-  "commitTotal": 3758,
-  "commitMean": 10.26775956284153,
+  "activeDaysPct": 51.63934426229508,
+  "commitTotal": 3794,
+  "commitMean": 10.366120218579235,
   "commitMedian": 1.0,
-  "commitP95": 45.75,
-  "commitActiveMean": 19.98936170212766,
+  "commitP95": 46.75,
+  "commitActiveMean": 20.074074074074073,
   "commitMax": 138,
-  "currentStreak": 153,
-  "longestStreak": 153,
-  "additions": 1651057,
-  "deletions": 299679,
-  "prs": 396,
-  "mergedPrs": 379,
-  "prMergeRatio": 95.70707070707071,
-  "prWeeklyMean": 14.142857142857142,
-  "prWeeklyMedian": 10.5,
-  "prWeeklyP95": 35.65,
-  "prWeeklyMax": 74,
+  "currentStreak": 154,
+  "longestStreak": 154,
+  "additions": 1663512,
+  "deletions": 303240,
+  "prs": 408,
+  "mergedPrs": 384,
+  "prMergeRatio": 94.11764705882352,
+  "prWeeklyMean": 14.068965517241379,
+  "prWeeklyMedian": 10,
+  "prWeeklyP95": 35.599999999999994,
+  "prWeeklyMax": 85,
   "prRecent": [
-    [
-      "2025-12-22",
-      0
-    ],
     [
       "2025-12-29",
       2
@@ -1816,21 +1812,25 @@
     ],
     [
       "2026-06-15",
-      74
+      85
+    ],
+    [
+      "2026-06-22",
+      1
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      85
+      74
     ],
     [
       "pomo",
-      24
+      43
     ],
     [
       "hyprvox",
-      24
+      13
     ],
     [
       "praxis",
@@ -1855,11 +1855,11 @@
       59
     ],
     [
-      "praxis",
-      57
+      "pomo",
+      48
     ],
     [
-      "aceon",
+      "praxis",
       48
     ]
   ],
@@ -1882,19 +1882,23 @@
     ],
     [
       "hyprfolio",
-      260
+      261
     ],
     [
       "saksham",
       160
     ],
     [
+      "pomo",
+      144
+    ],
+    [
       "fieldForce",
       140
     ],
     [
-      "pomo",
-      125
+      "dotfiles",
+      115
     ],
     [
       "PLMPRO",
@@ -1903,10 +1907,6 @@
     [
       "praxis",
       113
-    ],
-    [
-      "dotfiles",
-      99
     ],
     [
       "coursestate",
@@ -2016,7 +2016,7 @@
     ],
     [
       "Python",
-      697774
+      697785
     ],
     [
       "Vue",
@@ -2024,15 +2024,15 @@
     ],
     [
       "CSS",
-      521161
+      521769
     ],
     [
       "Kotlin",
-      382115
+      491990
     ],
     [
       "Shell",
-      379131
+      385182
     ],
     [
       "Svelte",
@@ -2043,12 +2043,12 @@
       165449
     ],
     [
-      "Astro",
-      111095
+      "Lua",
+      143095
     ],
     [
-      "Lua",
-      99574
+      "Astro",
+      111095
     ],
     [
       "Dockerfile",
@@ -2078,24 +2078,24 @@
     ],
     [
       "Linux / CLI",
-      514
+      531
     ],
     [
       "Mobile",
-      125
+      144
     ]
   ],
   "weekdayMean": [
-    11.23076923076923,
+    11.11320754716981,
     9.807692307692308,
     10.711538461538462,
-    13.807692307692308,
+    14.057692307692308,
     9.115384615384615,
-    9.11320754716981,
-    8.150943396226415
+    9.346153846153847,
+    8.433962264150944
   ],
   "weekdayActive": [
-    27,
+    28,
     28,
     27,
     26,
@@ -2152,18 +2152,18 @@
     ],
     [
       "2026-06-01",
-      311
+      347
     ]
   ],
-  "velocity30d": 511,
-  "velocityPrev30d": 783,
-  "velocityTrendPct": -34.73818646232439,
-  "momentum7d": 158,
+  "velocity30d": 536,
+  "velocityPrev30d": 762,
+  "velocityTrendPct": -29.658792650918635,
+  "momentum7d": 156,
   "momentumScore": 71,
-  "shipping7d": 6,
+  "shipping7d": 7,
   "shipping30d": 14,
-  "focusTop3Pct": 40.84619478445982,
-  "hhi": 0.08391960553338615,
-  "entropy": 4.158720297206802,
-  "entropyNormalized": 0.8174448496187382
+  "focusTop3Pct": 40.458618871903006,
+  "hhi": 0.08296372292738667,
+  "entropy": 4.166063205755598,
+  "entropyNormalized": 0.8188881837084259
 }
