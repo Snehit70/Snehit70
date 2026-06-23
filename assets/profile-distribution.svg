@@ -26,7 +26,7 @@
 
   <!-- Header -->
   <text x="44" y="56" fill="#f4f7fb" font-size="26" font-weight="800" letter-spacing="-0.5" class="sans">codebase composition</text>
-  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 22 PUBLIC + 15 PRIVATE REPOS · 15 LANGUAGES · 2026-06-22</text>
+  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 22 PUBLIC + 15 PRIVATE REPOS · 15 LANGUAGES · 2026-06-23</text>
   <line x1="44" y1="86" x2="1056" y2="86" stroke="#243652"/>
 
   <!-- Language treemap -->
@@ -64,11 +64,11 @@
   <line x1="44" y1="430" x2="1056" y2="430" stroke="#1a2942"/>
   <text x="44" y="444" fill="#f4f7fb" font-size="11" font-weight="700" letter-spacing="2">WORK CATEGORIES · COMMITS</text>
 <text x="1056" y="444" fill="#4a5b75" font-size="10.5" letter-spacing="1" text-anchor="end">FOCUS TOP-3 40% · BALANCED · ENTROPY 0.82</text>
-  <rect x="44.00" y="486" width="333.56" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1258</title></rect>
-<rect x="379.56" y="486" width="311.68" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1176</title></rect>
-<rect x="693.24" y="486" width="180.71" height="14" rx="3" fill="#fbbf24"><title>Other · 685</title></rect>
-<rect x="875.95" y="486" width="139.64" height="14" rx="3" fill="#c084fc"><title>Linux / CLI · 531</title></rect>
-<rect x="1017.59" y="486" width="36.41" height="14" rx="3" fill="#f472b6"><title>Mobile · 144</title></rect>
+  <rect x="44.00" y="486" width="333.47" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1258</title></rect>
+<rect x="379.47" y="486" width="311.60" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1176</title></rect>
+<rect x="693.07" y="486" width="180.67" height="14" rx="3" fill="#fbbf24"><title>Other · 685</title></rect>
+<rect x="875.73" y="486" width="139.87" height="14" rx="3" fill="#c084fc"><title>Linux / CLI · 532</title></rect>
+<rect x="1017.60" y="486" width="36.40" height="14" rx="3" fill="#f472b6"><title>Mobile · 144</title></rect>
   <rect x="44" y="521" width="10" height="10" rx="2" fill="#a3e635"/>
 <text x="62" y="530" fill="#c8d2e2" font-size="12">AI / Voice</text>
 <text x="364" y="530" fill="#7286a0" font-size="11" text-anchor="end">1258  ·  33%</text>
@@ -80,7 +80,7 @@
 <text x="1044" y="530" fill="#7286a0" font-size="11" text-anchor="end">685  ·  18%</text>
 <rect x="44" y="547" width="10" height="10" rx="2" fill="#c084fc"/>
 <text x="62" y="556" fill="#c8d2e2" font-size="12">Linux / CLI</text>
-<text x="364" y="556" fill="#7286a0" font-size="11" text-anchor="end">531  ·  14%</text>
+<text x="364" y="556" fill="#7286a0" font-size="11" text-anchor="end">532  ·  14%</text>
 <rect x="384" y="547" width="10" height="10" rx="2" fill="#f472b6"/>
 <text x="402" y="556" fill="#c8d2e2" font-size="12">Mobile</text>
 <text x="704" y="556" fill="#7286a0" font-size="11" text-anchor="end">144  ·  4%</text>
@@ -89,7 +89,7 @@
   <line x1="44" y1="570" x2="1056" y2="570" stroke="#1a2942"/>
   <text x="44" y="584" fill="#f4f7fb" font-size="11" font-weight="700" letter-spacing="2">TOP PROJECTS · 365D</text>
   <text x="600" y="584" fill="#f4f7fb" font-size="11" font-weight="700" letter-spacing="2">PR RHYTHM · 26W + SIGNALS</text>
-<text x="1056" y="584" fill="#4a5b75" font-size="10.5" letter-spacing="1" text-anchor="end">MEAN 14.1/WK</text>
+<text x="1056" y="584" fill="#4a5b75" font-size="10.5" letter-spacing="1" text-anchor="end">MEAN 14.2/WK</text>
   <line x1="44" y1="590" x2="574" y2="590" stroke="#1a2942"/>
   <line x1="600" y1="590" x2="1056" y2="590" stroke="#1a2942"/>
   <text x="44" y="616" fill="#4a5b75" font-size="11" font-weight="700"> 1</text>
@@ -115,8 +115,8 @@
 <text x="44" y="688" fill="#4a5b75" font-size="11" font-weight="700"> 5</text>
 <text x="70" y="688" fill="#c8d2e2" font-size="12">hyprfolio</text>
 <rect x="214" y="680" width="300.0" height="6" rx="1" fill="#1a2942"/>
-<rect x="214" y="680" width="102.9" height="6" rx="1" fill="#f472b6"/>
-<text x="544" y="688" fill="#7286a0" font-size="11" text-anchor="end">261</text>
+<rect x="214" y="680" width="103.3" height="6" rx="1" fill="#f472b6"/>
+<text x="544" y="688" fill="#7286a0" font-size="11" text-anchor="end">262</text>
 <text x="44" y="706" fill="#4a5b75" font-size="11" font-weight="700"> 6</text>
 <text x="70" y="706" fill="#c8d2e2" font-size="12">saksham</text>
 <rect x="214" y="698" width="300.0" height="6" rx="1" fill="#1a2942"/>
@@ -158,12 +158,12 @@
 <rect x="988.38" y="685.65" width="14.65" height="10.35" rx="1" fill="#c084fc"/>
 <rect x="1006.04" y="694.12" width="14.65" height="1.88" rx="1" fill="#c084fc"/>
 <rect x="1023.69" y="616.00" width="14.65" height="80.00" rx="1" fill="#f472b6"/>
-<rect x="1041.35" y="695.06" width="14.65" height="0.94" rx="1" fill="#c084fc"/>
+<rect x="1041.35" y="692.24" width="14.65" height="3.76" rx="1" fill="#c084fc"/>
   <text x="600" y="710" fill="#4a5b75" font-size="10">Dec 29</text>
   <text x="1056" y="710" fill="#4a5b75" font-size="10" text-anchor="end">Jun 22</text>
   <text x="600" y="732" fill="#7286a0" font-size="10" font-weight="700" letter-spacing="1.5">MERGE RATIO</text>
 <text x="600" y="750" fill="#a3e635" font-size="22" font-weight="800" letter-spacing="-1">94%</text>
-<text x="600" y="768" fill="#4a5b75" font-size="11">384/408 merged</text>
+<text x="600" y="768" fill="#4a5b75" font-size="11">387/411 merged</text>
 <text x="730" y="732" fill="#7286a0" font-size="10" font-weight="700" letter-spacing="1.5">ACTIVE WEEKS</text>
 <text x="730" y="750" fill="#67e8f9" font-size="22" font-weight="800" letter-spacing="-1">29</text>
 <text x="730" y="768" fill="#4a5b75" font-size="11">of 53 (55%)</text>
@@ -171,6 +171,6 @@
 <text x="860" y="750" fill="#fbbf24" font-size="22" font-weight="800" letter-spacing="-1">36</text>
 <text x="860" y="768" fill="#4a5b75" font-size="11">max 85/wk</text>
 <text x="990" y="732" fill="#7286a0" font-size="10" font-weight="700" letter-spacing="1.5">4W TREND</text>
-<text x="990" y="750" fill="#a3e635" font-size="22" font-weight="800" letter-spacing="-1">+32%</text>
-<text x="990" y="768" fill="#4a5b75" font-size="11">▲ 99 vs prior 75</text>
+<text x="990" y="750" fill="#a3e635" font-size="22" font-weight="800" letter-spacing="-1">+36%</text>
+<text x="990" y="768" fill="#4a5b75" font-size="11">▲ 102 vs prior 75</text>
 </svg>
