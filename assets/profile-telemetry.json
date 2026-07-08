@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-07",
+  "generated": "2026-07-08",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-07T01:45:41Z",
+      "pushedAt": "2026-07-08T01:18:35Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,102 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "imagesync",
+      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
+      "url": "https://github.com/Snehit70/imagesync",
+      "pushedAt": "2026-07-07T10:28:37Z",
+      "isPrivate": false,
+      "primaryLanguage": "Dart",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 85441,
+          "node": {
+            "name": "Dart",
+            "color": "#00B4AB"
+          }
+        },
+        {
+          "size": 43948,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 132,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-07-07T07:34:22Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 2119014,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 18862,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 14229,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9190,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 3349,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-07-07T04:34:23Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -86,73 +182,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-06T04:53:03Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pravah",
-      "description": "Timeline-based task manager with AI agent API support",
-      "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-07-03T19:57:51Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1994146,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 18862,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 14229,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9190,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "imagesync",
-      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
-      "url": "https://github.com/Snehit70/imagesync",
-      "pushedAt": "2026-07-01T23:24:27Z",
-      "isPrivate": false,
-      "primaryLanguage": null,
-      "defaultBranch": "main",
-      "languages": []
     },
     {
       "name": "aceon",
@@ -1302,50 +1331,49 @@
     "commits": 138
   },
   "burstDays": 21,
-  "burstThreshold": 45.70000000000002,
+  "burstThreshold": 45.599999999999994,
   "longestGap": 115,
-  "meanGapDays": 1.793103448275862,
+  "meanGapDays": 1.7892156862745099,
   "hourDistribution": [
     39,
-    9,
-    0,
+    14,
+    6,
     7,
     18,
     6,
-    102,
+    103,
     112,
-    136,
+    138,
     242,
-    325,
-    277,
-    373,
-    305,
-    269,
-    267,
+    332,
+    286,
+    374,
+    306,
+    270,
+    275,
     213,
-    231,
+    235,
     232,
-    215,
+    216,
     138,
     140,
-    170,
+    172,
     122
   ],
   "peakHour": 12,
   "hourBuckets": {
-    "night (00\u201306)": 79,
-    "morning (06\u201312)": 1194,
-    "afternoon (12\u201318)": 1658,
-    "evening (18\u201324)": 1017
+    "night (00\u201306)": 90,
+    "morning (06\u201312)": 1213,
+    "afternoon (12\u201318)": 1673,
+    "evening (18\u201324)": 1020
   },
-  "additionsPct": 84.38599034487963,
-  "avgCommitSize": 510.19959473150965,
-  "prActiveWeeks": 30,
-  "prThis4w": 108,
+  "additionsPct": 84.38986861246495,
+  "avgCommitSize": 509.7094594594595,
+  "prActiveWeeks": 31,
+  "prThis4w": 109,
   "prPrev4w": 43,
-  "prTrendPct": 151.1627906976744,
+  "prTrendPct": 153.48837209302326,
   "daily": {
-    "2025-07-07": 0,
     "2025-07-08": 13,
     "2025-07-09": 1,
     "2025-07-10": 0,
@@ -1707,28 +1735,29 @@
     "2026-07-01": 48,
     "2026-07-02": 15,
     "2026-07-03": 20,
-    "2026-07-04": 6,
-    "2026-07-05": 1,
+    "2026-07-04": 33,
+    "2026-07-05": 8,
     "2026-07-06": 11,
-    "2026-07-07": 1
+    "2026-07-07": 14,
+    "2026-07-08": 1
   },
-  "activeDaysPct": 55.73770491803278,
-  "commitTotal": 3948,
-  "commitMean": 10.78688524590164,
+  "activeDaysPct": 56.01092896174863,
+  "commitTotal": 3996,
+  "commitMean": 10.918032786885245,
   "commitMedian": 1.0,
   "commitP95": 47.0,
-  "commitActiveMean": 19.352941176470587,
+  "commitActiveMean": 19.492682926829268,
   "commitMax": 138,
-  "currentStreak": 169,
-  "longestStreak": 169,
-  "additions": 1699760,
-  "deletions": 314508,
-  "prs": 430,
-  "mergedPrs": 406,
-  "prMergeRatio": 94.41860465116278,
-  "prWeeklyMean": 14.333333333333334,
-  "prWeeklyMedian": 10.5,
-  "prWeeklyP95": 35.55,
+  "currentStreak": 170,
+  "longestStreak": 170,
+  "additions": 1718852,
+  "deletions": 317947,
+  "prs": 431,
+  "mergedPrs": 407,
+  "prMergeRatio": 94.43155452436194,
+  "prWeeklyMean": 13.903225806451612,
+  "prWeeklyMedian": 10,
+  "prWeeklyP95": 35.5,
   "prWeeklyMax": 85,
   "prRecent": [
     [
@@ -1833,13 +1862,13 @@
     ],
     [
       "2026-07-06",
-      0
+      1
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      84
+      78
     ],
     [
       "dotfiles",
@@ -1851,13 +1880,13 @@
     ],
     [
       "imagesync",
-      1
+      7
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      191
+      232
     ],
     [
       "pomo",
@@ -1873,13 +1902,13 @@
     ],
     [
       "dotfiles",
-      15
+      12
     ]
   ],
   "topYear": [
     [
       "pravah",
-      858
+      899
     ],
     [
       "hyprvox",
@@ -1895,7 +1924,7 @@
     ],
     [
       "hyprfolio",
-      277
+      278
     ],
     [
       "pomo",
@@ -1998,16 +2027,16 @@
       9
     ],
     [
+      "imagesync",
+      7
+    ],
+    [
       ".claude",
       6
     ],
     [
       "portfolio",
       2
-    ],
-    [
-      "imagesync",
-      1
     ],
     [
       "manim_repo",
@@ -2021,7 +2050,7 @@
   "languages": [
     [
       "TypeScript",
-      6341575
+      6510391
     ],
     [
       "HTML",
@@ -2041,7 +2070,7 @@
     ],
     [
       "Kotlin",
-      556925
+      557057
     ],
     [
       "CSS",
@@ -2049,7 +2078,7 @@
     ],
     [
       "Shell",
-      390634
+      393983
     ],
     [
       "Svelte",
@@ -2068,6 +2097,10 @@
       111095
     ],
     [
+      "Dart",
+      85441
+    ],
+    [
       "Dockerfile",
       862
     ],
@@ -2083,7 +2116,7 @@
   "categories": [
     [
       "AI / Voice",
-      1355
+      1396
     ],
     [
       "Web Apps",
@@ -2095,7 +2128,7 @@
     ],
     [
       "Linux / CLI",
-      559
+      566
     ],
     [
       "Mobile",
@@ -2103,18 +2136,18 @@
     ]
   ],
   "weekdayMean": [
-    11.39622641509434,
-    9.943396226415095,
-    11.76923076923077,
+    11.615384615384615,
+    10.18867924528302,
+    11.566037735849056,
     14.653846153846153,
     9.51923076923077,
-    9.48076923076923,
-    8.75
+    10.0,
+    8.884615384615385
   ],
   "weekdayActive": [
     30,
     31,
-    29,
+    30,
     28,
     29,
     27,
@@ -2169,18 +2202,18 @@
     ],
     [
       "2026-07-01",
-      102
+      150
     ]
   ],
-  "velocity30d": 354,
-  "velocityPrev30d": 838,
-  "velocityTrendPct": -57.756563245823386,
+  "velocity30d": 396,
+  "velocityPrev30d": 831,
+  "velocityTrendPct": -52.34657039711191,
   "momentum7d": 102,
   "momentumScore": 72,
   "shipping7d": 4,
   "shipping30d": 9,
-  "focusTop3Pct": 41.33738601823708,
-  "hhi": 0.08800526397370477,
-  "entropy": 4.126245209676658,
-  "entropyNormalized": 0.8044487301724825
+  "focusTop3Pct": 41.866866866866864,
+  "hhi": 0.0904528151775399,
+  "entropy": 4.115176610657984,
+  "entropyNormalized": 0.8022908069340672
 }
