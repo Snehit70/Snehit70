@@ -26,7 +26,7 @@
 
   <!-- Header -->
   <text x="44" y="56" fill="#f4f7fb" font-size="26" font-weight="800" letter-spacing="-0.5" class="sans">codebase composition</text>
-  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 24 PUBLIC + 14 PRIVATE REPOS · 16 LANGUAGES · 2026-07-08</text>
+  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 24 PUBLIC + 14 PRIVATE REPOS · 16 LANGUAGES · 2026-07-09</text>
   <line x1="44" y1="86" x2="1056" y2="86" stroke="#243652"/>
 
   <!-- Language treemap -->
@@ -64,23 +64,23 @@
   <line x1="44" y1="430" x2="1056" y2="430" stroke="#1a2942"/>
   <text x="44" y="444" fill="#f4f7fb" font-size="11" font-weight="700" letter-spacing="2">WORK CATEGORIES · COMMITS</text>
 <text x="1056" y="444" fill="#4a5b75" font-size="10.5" letter-spacing="1" text-anchor="end">FOCUS TOP-3 42% · BALANCED · ENTROPY 0.80</text>
-  <rect x="44.00" y="486" width="351.54" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1396</title></rect>
-<rect x="397.54" y="486" width="296.33" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1178</title></rect>
-<rect x="695.87" y="486" width="171.98" height="14" rx="3" fill="#fbbf24"><title>Other · 687</title></rect>
-<rect x="869.86" y="486" width="141.34" height="14" rx="3" fill="#c084fc"><title>Linux / CLI · 566</title></rect>
-<rect x="1013.20" y="486" width="40.80" height="14" rx="3" fill="#f472b6"><title>Mobile · 169</title></rect>
+  <rect x="44.00" y="486" width="352.61" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1396</title></rect>
+<rect x="398.61" y="486" width="297.23" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1178</title></rect>
+<rect x="697.84" y="486" width="169.21" height="14" rx="3" fill="#fbbf24"><title>Other · 674</title></rect>
+<rect x="869.04" y="486" width="142.03" height="14" rx="3" fill="#c084fc"><title>Linux / CLI · 567</title></rect>
+<rect x="1013.07" y="486" width="40.93" height="14" rx="3" fill="#f472b6"><title>Mobile · 169</title></rect>
   <rect x="44" y="521" width="10" height="10" rx="2" fill="#a3e635"/>
 <text x="62" y="530" fill="#c8d2e2" font-size="12">AI / Voice</text>
 <text x="364" y="530" fill="#7286a0" font-size="11" text-anchor="end">1396  ·  35%</text>
 <rect x="384" y="521" width="10" height="10" rx="2" fill="#67e8f9"/>
 <text x="402" y="530" fill="#c8d2e2" font-size="12">Web Apps</text>
-<text x="704" y="530" fill="#7286a0" font-size="11" text-anchor="end">1178  ·  29%</text>
+<text x="704" y="530" fill="#7286a0" font-size="11" text-anchor="end">1178  ·  30%</text>
 <rect x="724" y="521" width="10" height="10" rx="2" fill="#fbbf24"/>
 <text x="742" y="530" fill="#c8d2e2" font-size="12">Other</text>
-<text x="1044" y="530" fill="#7286a0" font-size="11" text-anchor="end">687  ·  17%</text>
+<text x="1044" y="530" fill="#7286a0" font-size="11" text-anchor="end">674  ·  17%</text>
 <rect x="44" y="547" width="10" height="10" rx="2" fill="#c084fc"/>
 <text x="62" y="556" fill="#c8d2e2" font-size="12">Linux / CLI</text>
-<text x="364" y="556" fill="#7286a0" font-size="11" text-anchor="end">566  ·  14%</text>
+<text x="364" y="556" fill="#7286a0" font-size="11" text-anchor="end">567  ·  14%</text>
 <rect x="384" y="547" width="10" height="10" rx="2" fill="#f472b6"/>
 <text x="402" y="556" fill="#c8d2e2" font-size="12">Mobile</text>
 <text x="704" y="556" fill="#7286a0" font-size="11" text-anchor="end">169  ·  4%</text>
@@ -115,8 +115,8 @@
 <text x="44" y="688" fill="#4a5b75" font-size="11" font-weight="700"> 5</text>
 <text x="70" y="688" fill="#c8d2e2" font-size="12">hyprfolio</text>
 <rect x="214" y="680" width="300.0" height="6" rx="1" fill="#1a2942"/>
-<rect x="214" y="680" width="92.8" height="6" rx="1" fill="#f472b6"/>
-<text x="544" y="688" fill="#7286a0" font-size="11" text-anchor="end">278</text>
+<rect x="214" y="680" width="93.1" height="6" rx="1" fill="#f472b6"/>
+<text x="544" y="688" fill="#7286a0" font-size="11" text-anchor="end">279</text>
 <text x="44" y="706" fill="#4a5b75" font-size="11" font-weight="700"> 6</text>
 <text x="70" y="706" fill="#c8d2e2" font-size="12">pomo</text>
 <rect x="214" y="698" width="300.0" height="6" rx="1" fill="#1a2942"/>
