@@ -1,12 +1,97 @@
 {
-  "generated": "2026-07-09",
+  "generated": "2026-07-10",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "imagesync",
+      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
+      "url": "https://github.com/Snehit70/imagesync",
+      "pushedAt": "2026-07-10T04:06:38Z",
+      "isPrivate": false,
+      "primaryLanguage": "Dart",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 161443,
+          "node": {
+            "name": "Dart",
+            "color": "#00B4AB"
+          }
+        },
+        {
+          "size": 56265,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 3808,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 1187,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-07-10T03:36:59Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 317397,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 143800,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 143226,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 49027,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-09T01:26:35Z",
+      "pushedAt": "2026-07-10T01:23:38Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -45,7 +130,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-08T03:55:52Z",
+      "pushedAt": "2026-07-09T04:32:10Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -55,38 +140,6 @@
           "node": {
             "name": "Python",
             "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
-      "name": "imagesync",
-      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
-      "url": "https://github.com/Snehit70/imagesync",
-      "pushedAt": "2026-07-07T10:28:37Z",
-      "isPrivate": false,
-      "primaryLanguage": "Dart",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 85441,
-          "node": {
-            "name": "Dart",
-            "color": "#00B4AB"
-          }
-        },
-        {
-          "size": 43948,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 132,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
           }
         }
       ]
@@ -133,52 +186,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-07-06T11:23:25Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 318931,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 143800,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 143308,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 49027,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -1323,7 +1330,7 @@
       ]
     }
   ],
-  "reposAnalyzed": 35,
+  "reposAnalyzed": 34,
   "reposPublic": 24,
   "reposPrivate": 14,
   "biggestDay": {
@@ -1333,18 +1340,18 @@
   "burstDays": 21,
   "burstThreshold": 45.599999999999994,
   "longestGap": 115,
-  "meanGapDays": 1.7892156862745099,
+  "meanGapDays": 1.7352941176470589,
   "hourDistribution": [
-    39,
-    14,
-    6,
+    49,
+    19,
+    7,
     7,
     18,
     6,
-    104,
+    105,
     112,
-    138,
-    242,
+    137,
+    246,
     329,
     286,
     373,
@@ -1362,19 +1369,18 @@
   ],
   "peakHour": 12,
   "hourBuckets": {
-    "night (00\u201306)": 90,
-    "morning (06\u201312)": 1211,
+    "night (00\u201306)": 106,
+    "morning (06\u201312)": 1215,
     "afternoon (12\u201318)": 1666,
     "evening (18\u201324)": 1017
   },
-  "additionsPct": 84.39090905519852,
-  "avgCommitSize": 511.1887550200803,
+  "additionsPct": 84.32142777951609,
+  "avgCommitSize": 506.8543956043956,
   "prActiveWeeks": 31,
   "prThis4w": 109,
   "prPrev4w": 43,
   "prTrendPct": 153.48837209302326,
   "daily": {
-    "2025-07-09": 1,
     "2025-07-10": 0,
     "2025-07-11": 0,
     "2025-07-12": 0,
@@ -1739,19 +1745,20 @@
     "2026-07-06": 11,
     "2026-07-07": 14,
     "2026-07-08": 1,
-    "2026-07-09": 1
+    "2026-07-09": 1,
+    "2026-07-10": 21
   },
   "activeDaysPct": 56.01092896174863,
-  "commitTotal": 3984,
-  "commitMean": 10.885245901639344,
+  "commitTotal": 4004,
+  "commitMean": 10.939890710382514,
   "commitMedian": 1.0,
   "commitP95": 47.0,
-  "commitActiveMean": 19.434146341463414,
+  "commitActiveMean": 19.53170731707317,
   "commitMax": 138,
-  "currentStreak": 171,
-  "longestStreak": 171,
-  "additions": 1718685,
-  "deletions": 317891,
+  "currentStreak": 172,
+  "longestStreak": 172,
+  "additions": 1711257,
+  "deletions": 318188,
   "prs": 431,
   "mergedPrs": 407,
   "prMergeRatio": 94.43155452436194,
@@ -1868,25 +1875,25 @@
   "topWeek": [
     [
       "pravah",
-      65
+      46
     ],
     [
       "dotfiles",
-      10
+      19
+    ],
+    [
+      "imagesync",
+      17
     ],
     [
       "hyprfolio",
       7
-    ],
-    [
-      "imagesync",
-      6
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      225
+      223
     ],
     [
       "pomo",
@@ -1902,7 +1909,7 @@
     ],
     [
       "dotfiles",
-      12
+      21
     ]
   ],
   "topYear": [
@@ -1924,7 +1931,7 @@
     ],
     [
       "hyprfolio",
-      279
+      280
     ],
     [
       "pomo",
@@ -1940,7 +1947,7 @@
     ],
     [
       "dotfiles",
-      126
+      135
     ],
     [
       "PLMPRO",
@@ -2007,6 +2014,10 @@
       29
     ],
     [
+      "imagesync",
+      18
+    ],
+    [
       "syngenta",
       16
     ],
@@ -2023,10 +2034,6 @@
       9
     ],
     [
-      "imagesync",
-      7
-    ],
-    [
       ".claude",
       6
     ],
@@ -2041,16 +2048,12 @@
     [
       "portfolio_website",
       1
-    ],
-    [
-      "Foodrescue",
-      1
     ]
   ],
   "languages": [
     [
       "TypeScript",
-      6510391
+      6522708
     ],
     [
       "HTML",
@@ -2070,7 +2073,7 @@
     ],
     [
       "Kotlin",
-      557057
+      560733
     ],
     [
       "CSS",
@@ -2078,7 +2081,7 @@
     ],
     [
       "Shell",
-      393983
+      393636
     ],
     [
       "Svelte",
@@ -2089,16 +2092,16 @@
       165449
     ],
     [
+      "Dart",
+      161443
+    ],
+    [
       "Lua",
-      143308
+      143226
     ],
     [
       "Astro",
       111095
-    ],
-    [
-      "Dart",
-      85441
     ],
     [
       "Dockerfile",
@@ -2124,11 +2127,11 @@
     ],
     [
       "Other",
-      674
+      673
     ],
     [
       "Linux / CLI",
-      567
+      588
     ],
     [
       "Mobile",
@@ -2138,18 +2141,18 @@
   "weekdayMean": [
     11.615384615384615,
     10.134615384615385,
-    11.566037735849056,
+    11.76923076923077,
     14.39622641509434,
-    9.51923076923077,
+    9.735849056603774,
     10.0,
     8.884615384615385
   ],
   "weekdayActive": [
     30,
     30,
+    29,
+    29,
     30,
-    29,
-    29,
     27,
     30
   ],
@@ -2202,18 +2205,18 @@
     ],
     [
       "2026-07-01",
-      151
+      172
     ]
   ],
-  "velocity30d": 389,
-  "velocityPrev30d": 810,
-  "velocityTrendPct": -51.9753086419753,
-  "momentum7d": 88,
+  "velocity30d": 407,
+  "velocityPrev30d": 796,
+  "velocityTrendPct": -48.86934673366834,
+  "momentum7d": 89,
   "momentumScore": 72,
   "shipping7d": 4,
   "shipping30d": 9,
-  "focusTop3Pct": 41.9929718875502,
-  "hhi": 0.0910213393735585,
-  "entropy": 4.098174213598301,
-  "entropyNormalized": 0.7989760362334617
+  "focusTop3Pct": 41.78321678321678,
+  "hhi": 0.09031278411897793,
+  "entropy": 4.109401326283476,
+  "entropyNormalized": 0.8077506321940061
 }
