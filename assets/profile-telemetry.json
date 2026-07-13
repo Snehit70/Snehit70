@@ -1,7 +1,195 @@
 {
-  "generated": "2026-07-12",
+  "generated": "2026-07-13",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-07-13T01:20:30Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 75583,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 61820,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2980,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-07-12T08:54:02Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 742447,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 28058,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 368,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pomo",
+      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
+      "url": "https://github.com/Snehit70/pomo",
+      "pushedAt": "2026-07-12T08:03:00Z",
+      "isPrivate": false,
+      "primaryLanguage": "Kotlin",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 556925,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 15625,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 6777,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3306,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-07-12T05:15:43Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 317968,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 144462,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 143800,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 49027,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-07-12T04:07:54Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
     {
       "name": "vidyut",
       "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
@@ -58,109 +246,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-12T01:19:05Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 75583,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 61820,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2980,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-07-11T18:49:11Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 313818,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 143800,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 143366,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 49027,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-11T03:53:15Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -283,45 +368,6 @@
       ]
     },
     {
-      "name": "pomo",
-      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
-      "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-06-25T08:19:48Z",
-      "isPrivate": false,
-      "primaryLanguage": "Kotlin",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 556925,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
-          }
-        },
-        {
-          "size": 15625,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 6777,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 3306,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
       "name": "saarthi",
       "description": "",
       "url": "https://github.com/Snehit70/saarthi",
@@ -363,52 +409,6 @@
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-06-21T11:09:55Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 719768,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 28058,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 368,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1359,9 +1359,9 @@
     "commits": 138
   },
   "burstDays": 21,
-  "burstThreshold": 45.400000000000006,
+  "burstThreshold": 45.30000000000001,
   "longestGap": 115,
-  "meanGapDays": 1.7281553398058251,
+  "meanGapDays": 1.7246376811594204,
   "hourDistribution": [
     52,
     22,
@@ -1369,17 +1369,17 @@
     7,
     18,
     6,
-    107,
+    108,
     112,
     139,
     250,
-    331,
+    334,
     286,
     385,
     310,
-    271,
+    273,
     277,
-    212,
+    214,
     235,
     231,
     217,
@@ -1391,18 +1391,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 112,
-    "morning (06\u201312)": 1225,
-    "afternoon (12\u201318)": 1690,
+    "morning (06\u201312)": 1229,
+    "afternoon (12\u201318)": 1694,
     "evening (18\u201324)": 1024
   },
-  "additionsPct": 84.40374868648635,
-  "avgCommitSize": 507.6541594667983,
-  "prActiveWeeks": 31,
-  "prThis4w": 109,
-  "prPrev4w": 43,
-  "prTrendPct": 153.48837209302326,
+  "additionsPct": 84.41047646758516,
+  "avgCommitSize": 507.18674550381866,
+  "prActiveWeeks": 30,
+  "prThis4w": 25,
+  "prPrev4w": 108,
+  "prTrendPct": -76.85185185185185,
   "daily": {
-    "2025-07-12": 0,
     "2025-07-13": 0,
     "2025-07-14": 0,
     "2025-07-15": 0,
@@ -1746,7 +1745,7 @@
     "2026-06-18": 48,
     "2026-06-19": 22,
     "2026-06-20": 4,
-    "2026-06-21": 16,
+    "2026-06-21": 18,
     "2026-06-22": 3,
     "2026-06-23": 15,
     "2026-06-24": 7,
@@ -1767,31 +1766,28 @@
     "2026-07-09": 1,
     "2026-07-10": 39,
     "2026-07-11": 21,
-    "2026-07-12": 8
+    "2026-07-12": 13,
+    "2026-07-13": 1
   },
-  "activeDaysPct": 56.557377049180324,
-  "commitTotal": 4051,
-  "commitMean": 11.068306010928962,
+  "activeDaysPct": 56.830601092896174,
+  "commitTotal": 4059,
+  "commitMean": 11.09016393442623,
   "commitMedian": 1.0,
   "commitP95": 47.0,
-  "commitActiveMean": 19.570048309178745,
+  "commitActiveMean": 19.514423076923077,
   "commitMax": 138,
-  "currentStreak": 174,
-  "longestStreak": 174,
-  "additions": 1735769,
-  "deletions": 320738,
-  "prs": 431,
-  "mergedPrs": 407,
-  "prMergeRatio": 94.43155452436194,
-  "prWeeklyMean": 13.903225806451612,
-  "prWeeklyMedian": 10,
-  "prWeeklyP95": 35.5,
+  "currentStreak": 175,
+  "longestStreak": 175,
+  "additions": 1737734,
+  "deletions": 320937,
+  "prs": 421,
+  "mergedPrs": 398,
+  "prMergeRatio": 94.53681710213777,
+  "prWeeklyMean": 14.033333333333333,
+  "prWeeklyMedian": 10.0,
+  "prWeeklyP95": 35.55,
   "prWeeklyMax": 85,
   "prRecent": [
-    [
-      "2026-01-12",
-      2
-    ],
     [
       "2026-01-19",
       4
@@ -1890,7 +1886,11 @@
     ],
     [
       "2026-07-06",
-      1
+      2
+    ],
+    [
+      "2026-07-13",
+      0
     ]
   ],
   "topWeek": [
@@ -1900,7 +1900,7 @@
     ],
     [
       "dotfiles",
-      23
+      16
     ],
     [
       "hyprfolio",
@@ -1909,6 +1909,10 @@
     [
       "pravah",
       7
+    ],
+    [
+      "praxis",
+      2
     ]
   ],
   "topMonth": [
@@ -1930,7 +1934,7 @@
     ],
     [
       "dotfiles",
-      25
+      28
     ]
   ],
   "topYear": [
@@ -1947,12 +1951,12 @@
       354
     ],
     [
-      "aceon",
+      "hyprfolio",
       283
     ],
     [
-      "hyprfolio",
-      282
+      "aceon",
+      283
     ],
     [
       "pomo",
@@ -1963,20 +1967,20 @@
       160
     ],
     [
+      "dotfiles",
+      142
+    ],
+    [
       "fieldForce",
       140
     ],
     [
-      "dotfiles",
-      139
+      "praxis",
+      117
     ],
     [
       "PLMPRO",
       115
-    ],
-    [
-      "praxis",
-      113
     ],
     [
       "coursestate",
@@ -2074,7 +2078,7 @@
   "languages": [
     [
       "TypeScript",
-      6555061
+      6577740
     ],
     [
       "HTML",
@@ -2106,7 +2110,7 @@
     ],
     [
       "Shell",
-      390033
+      394183
     ],
     [
       "Svelte",
@@ -2118,7 +2122,7 @@
     ],
     [
       "Lua",
-      143366
+      144462
     ],
     [
       "Astro",
@@ -2144,7 +2148,7 @@
     ],
     [
       "Web Apps",
-      1178
+      1182
     ],
     [
       "Other",
@@ -2152,7 +2156,7 @@
     ],
     [
       "Linux / CLI",
-      635
+      639
     ],
     [
       "Mobile",
@@ -2160,16 +2164,16 @@
     ]
   ],
   "weekdayMean": [
-    11.615384615384615,
+    11.415094339622641,
     10.134615384615385,
     11.76923076923077,
     14.673076923076923,
     10.26923076923077,
-    10.20754716981132,
-    8.867924528301886
+    10.403846153846153,
+    9.0
   ],
   "weekdayActive": [
-    30,
+    31,
     30,
     29,
     29,
@@ -2222,22 +2226,22 @@
     ],
     [
       "2026-06-01",
-      399
+      401
     ],
     [
       "2026-07-01",
-      219
+      225
     ]
   ],
-  "velocity30d": 452,
-  "velocityPrev30d": 784,
-  "velocityTrendPct": -42.3469387755102,
-  "momentum7d": 95,
+  "velocity30d": 459,
+  "velocityPrev30d": 765,
+  "velocityTrendPct": -40.0,
+  "momentum7d": 90,
   "momentumScore": 73,
-  "shipping7d": 4,
+  "shipping7d": 5,
   "shipping30d": 9,
-  "focusTop3Pct": 41.298444828437425,
-  "hhi": 0.08855696387962879,
-  "entropy": 4.137094890060358,
-  "entropyNormalized": 0.8131941242923338
+  "focusTop3Pct": 41.2170485341217,
+  "hhi": 0.08834952982556321,
+  "entropy": 4.138538633909409,
+  "entropyNormalized": 0.8134779089398294
 }
