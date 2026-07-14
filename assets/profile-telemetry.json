@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-13",
+  "generated": "2026-07-14",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-13T01:20:30Z",
+      "pushedAt": "2026-07-14T01:09:58Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,24 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-07-13T04:10:43Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -168,24 +186,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-12T04:07:54Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -1359,9 +1359,9 @@
     "commits": 138
   },
   "burstDays": 21,
-  "burstThreshold": 45.30000000000001,
+  "burstThreshold": 45.20000000000002,
   "longestGap": 115,
-  "meanGapDays": 1.7246376811594204,
+  "meanGapDays": 1.7211538461538463,
   "hourDistribution": [
     52,
     22,
@@ -1369,7 +1369,7 @@
     7,
     18,
     6,
-    108,
+    109,
     112,
     139,
     250,
@@ -1391,18 +1391,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 112,
-    "morning (06\u201312)": 1229,
+    "morning (06\u201312)": 1230,
     "afternoon (12\u201318)": 1694,
     "evening (18\u201324)": 1024
   },
-  "additionsPct": 84.41047646758516,
-  "avgCommitSize": 507.18674550381866,
+  "additionsPct": 84.41045061044147,
+  "avgCommitSize": 507.06256157635465,
   "prActiveWeeks": 30,
   "prThis4w": 25,
   "prPrev4w": 108,
   "prTrendPct": -76.85185185185185,
   "daily": {
-    "2025-07-13": 0,
     "2025-07-14": 0,
     "2025-07-15": 0,
     "2025-07-16": 0,
@@ -1767,19 +1766,20 @@
     "2026-07-10": 39,
     "2026-07-11": 21,
     "2026-07-12": 13,
-    "2026-07-13": 1
+    "2026-07-13": 1,
+    "2026-07-14": 1
   },
-  "activeDaysPct": 56.830601092896174,
-  "commitTotal": 4059,
-  "commitMean": 11.09016393442623,
+  "activeDaysPct": 57.103825136612016,
+  "commitTotal": 4060,
+  "commitMean": 11.092896174863387,
   "commitMedian": 1.0,
   "commitP95": 47.0,
-  "commitActiveMean": 19.514423076923077,
+  "commitActiveMean": 19.425837320574164,
   "commitMax": 138,
-  "currentStreak": 175,
-  "longestStreak": 175,
-  "additions": 1737734,
-  "deletions": 320937,
+  "currentStreak": 176,
+  "longestStreak": 176,
+  "additions": 1737736,
+  "deletions": 320938,
   "prs": 421,
   "mergedPrs": 398,
   "prMergeRatio": 94.53681710213777,
@@ -1896,7 +1896,7 @@
   "topWeek": [
     [
       "vidyut",
-      58
+      52
     ],
     [
       "dotfiles",
@@ -1904,10 +1904,6 @@
     ],
     [
       "hyprfolio",
-      7
-    ],
-    [
-      "pravah",
       7
     ],
     [
@@ -1952,7 +1948,7 @@
     ],
     [
       "hyprfolio",
-      283
+      284
     ],
     [
       "aceon",
@@ -2156,7 +2152,7 @@
     ],
     [
       "Linux / CLI",
-      639
+      640
     ],
     [
       "Mobile",
@@ -2165,16 +2161,16 @@
   ],
   "weekdayMean": [
     11.415094339622641,
-    10.134615384615385,
+    9.962264150943396,
     11.76923076923077,
     14.673076923076923,
     10.26923076923077,
     10.403846153846153,
-    9.0
+    9.173076923076923
   ],
   "weekdayActive": [
     31,
-    30,
+    31,
     29,
     29,
     30,
@@ -2230,18 +2226,18 @@
     ],
     [
       "2026-07-01",
-      225
+      226
     ]
   ],
   "velocity30d": 459,
-  "velocityPrev30d": 765,
-  "velocityTrendPct": -40.0,
-  "momentum7d": 90,
+  "velocityPrev30d": 719,
+  "velocityTrendPct": -36.16133518776078,
+  "momentum7d": 77,
   "momentumScore": 73,
-  "shipping7d": 5,
+  "shipping7d": 4,
   "shipping30d": 9,
-  "focusTop3Pct": 41.2170485341217,
-  "hhi": 0.08834952982556321,
-  "entropy": 4.138538633909409,
-  "entropyNormalized": 0.8134779089398294
+  "focusTop3Pct": 41.206896551724135,
+  "hhi": 0.08834041107525055,
+  "entropy": 4.138465073198757,
+  "entropyNormalized": 0.8134634497264754
 }
