@@ -1,58 +1,12 @@
 {
-  "generated": "2026-07-17",
+  "generated": "2026-07-18",
   "windowDays": 366,
   "repos": [
-    {
-      "name": "pravah",
-      "description": "Timeline-based task manager with AI agent API support",
-      "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-07-17T03:46:02Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 2300466,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 18862,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 14263,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9190,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 3349,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        }
-      ]
-    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-17T01:19:55Z",
+      "pushedAt": "2026-07-18T01:11:59Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -88,10 +42,95 @@
       ]
     },
     {
+      "name": "pomo",
+      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
+      "url": "https://github.com/Snehit70/pomo",
+      "pushedAt": "2026-07-17T15:48:25Z",
+      "isPrivate": false,
+      "primaryLanguage": "Kotlin",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 781891,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 15625,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 6777,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3306,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-07-17T04:29:48Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 2300466,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 18862,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 14312,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9190,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 3349,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-16T03:48:51Z",
+      "pushedAt": "2026-07-17T03:48:17Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -133,45 +172,6 @@
           "node": {
             "name": "HTML",
             "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pomo",
-      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
-      "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-07-15T03:06:29Z",
-      "isPrivate": false,
-      "primaryLanguage": "Kotlin",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 705665,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
-          }
-        },
-        {
-          "size": 15625,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 6777,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 3306,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
           }
         }
       ]
@@ -1359,9 +1359,9 @@
     "commits": 138
   },
   "burstDays": 22,
-  "burstThreshold": 45.900000000000006,
+  "burstThreshold": 46.80000000000001,
   "longestGap": 115,
-  "meanGapDays": 1.7109004739336493,
+  "meanGapDays": 1.7075471698113207,
   "hourDistribution": [
     60,
     22,
@@ -1369,40 +1369,39 @@
     7,
     18,
     6,
-    112,
+    113,
     112,
     164,
-    253,
+    255,
     340,
     309,
-    387,
+    389,
     311,
     278,
-    290,
-    214,
-    235,
+    294,
+    222,
+    236,
     231,
-    221,
-    150,
+    224,
     154,
+    155,
     180,
     126
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 120,
-    "morning (06\u201312)": 1290,
-    "afternoon (12\u201318)": 1715,
-    "evening (18\u201324)": 1062
+    "morning (06\u201312)": 1293,
+    "afternoon (12\u201318)": 1730,
+    "evening (18\u201324)": 1070
   },
-  "additionsPct": 84.15928803651144,
-  "avgCommitSize": 502.1148793885837,
+  "additionsPct": 83.93601430268528,
+  "avgCommitSize": 504.50391644908615,
   "prActiveWeeks": 31,
-  "prThis4w": 39,
+  "prThis4w": 41,
   "prPrev4w": 108,
-  "prTrendPct": -63.888888888888886,
+  "prTrendPct": -62.03703703703704,
   "daily": {
-    "2025-07-17": 0,
     "2025-07-18": 0,
     "2025-07-19": 0,
     "2025-07-20": 0,
@@ -1767,23 +1766,24 @@
     "2026-07-14": 19,
     "2026-07-15": 54,
     "2026-07-16": 27,
-    "2026-07-17": 22
+    "2026-07-17": 47,
+    "2026-07-18": 1
   },
-  "activeDaysPct": 57.92349726775956,
-  "commitTotal": 4187,
-  "commitMean": 11.439890710382514,
+  "activeDaysPct": 58.19672131147541,
+  "commitTotal": 4213,
+  "commitMean": 11.510928961748634,
   "commitMedian": 2.0,
   "commitP95": 47.75,
-  "commitActiveMean": 19.75,
+  "commitActiveMean": 19.779342723004696,
   "commitMax": 138,
-  "currentStreak": 179,
-  "longestStreak": 179,
-  "additions": 1769327,
-  "deletions": 333028,
-  "prs": 435,
-  "mergedPrs": 412,
-  "prMergeRatio": 94.71264367816093,
-  "prWeeklyMean": 14.03225806451613,
+  "currentStreak": 180,
+  "longestStreak": 180,
+  "additions": 1784039,
+  "deletions": 341436,
+  "prs": 437,
+  "mergedPrs": 414,
+  "prMergeRatio": 94.73684210526315,
+  "prWeeklyMean": 14.096774193548388,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 35.5,
   "prWeeklyMax": 85,
@@ -1890,7 +1890,7 @@
     ],
     [
       "2026-07-13",
-      14
+      16
     ]
   ],
   "topWeek": [
@@ -1899,30 +1899,30 @@
       60
     ],
     [
+      "pomo",
+      50
+    ],
+    [
       "hyprvox",
       37
     ],
     [
-      "pomo",
-      27
+      "hyprfolio",
+      7
     ],
     [
       "vidyut",
-      23
-    ],
-    [
-      "hyprfolio",
-      7
+      6
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      236
+      215
     ],
     [
       "pomo",
-      87
+      97
     ],
     [
       "vidyut",
@@ -1930,7 +1930,7 @@
     ],
     [
       "hyprvox",
-      50
+      40
     ],
     [
       "hyprfolio",
@@ -1940,7 +1940,7 @@
   "topYear": [
     [
       "pravah",
-      959
+      961
     ],
     [
       "hyprvox",
@@ -1952,7 +1952,7 @@
     ],
     [
       "hyprfolio",
-      287
+      288
     ],
     [
       "aceon",
@@ -1960,7 +1960,7 @@
     ],
     [
       "pomo",
-      196
+      219
     ],
     [
       "saksham",
@@ -2086,15 +2086,15 @@
     ],
     [
       "JavaScript",
-      1136685
+      1136734
+    ],
+    [
+      "Kotlin",
+      820816
     ],
     [
       "Python",
       775722
-    ],
-    [
-      "Kotlin",
-      744590
     ],
     [
       "Vue",
@@ -2144,7 +2144,7 @@
   "categories": [
     [
       "AI / Voice",
-      1493
+      1495
     ],
     [
       "Web Apps",
@@ -2156,20 +2156,20 @@
     ],
     [
       "Linux / CLI",
-      643
+      644
     ],
     [
       "Mobile",
-      196
+      219
     ]
   ],
   "weekdayMean": [
     11.634615384615385,
     10.5,
     12.807692307692308,
-    14.90566037735849,
-    10.49056603773585,
-    10.442307692307692,
+    15.192307692307692,
+    10.962264150943396,
+    10.264150943396226,
     9.25
   ],
   "weekdayActive": [
@@ -2178,7 +2178,7 @@
     30,
     30,
     31,
-    28,
+    29,
     31
   ],
   "bestWeekday": 3,
@@ -2230,18 +2230,18 @@
     ],
     [
       "2026-07-01",
-      353
+      379
     ]
   ],
-  "velocity30d": 499,
-  "velocityPrev30d": 660,
-  "velocityTrendPct": -24.393939393939394,
-  "momentum7d": 163,
+  "velocity30d": 477,
+  "velocityPrev30d": 645,
+  "velocityTrendPct": -26.046511627906977,
+  "momentum7d": 166,
   "momentumScore": 73,
   "shipping7d": 7,
   "shipping30d": 9,
-  "focusTop3Pct": 42.27370432290422,
-  "hhi": 0.09193245393337926,
-  "entropy": 4.10409935474515,
-  "entropyNormalized": 0.8067084680143809
+  "focusTop3Pct": 42.06028957987182,
+  "hhi": 0.091587762922727,
+  "entropy": 4.104393544646653,
+  "entropyNormalized": 0.8067662944616066
 }
