@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-21T01:17:20Z",
+      "pushedAt": "2026-07-22T01:16:16Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -45,13 +45,13 @@
       "name": "pomo",
       "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
       "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-07-20T11:42:44Z",
+      "pushedAt": "2026-07-21T12:24:10Z",
       "isPrivate": false,
       "primaryLanguage": "Kotlin",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 800801,
+          "size": 826697,
           "node": {
             "name": "Kotlin",
             "color": "#A97BFF"
@@ -84,7 +84,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-20T04:15:12Z",
+      "pushedAt": "2026-07-21T03:57:49Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -1351,7 +1351,7 @@
       ]
     }
   ],
-  "reposAnalyzed": 34,
+  "reposAnalyzed": 33,
   "reposPublic": 24,
   "reposPrivate": 14,
   "biggestDay": {
@@ -1361,7 +1361,7 @@
   "burstDays": 22,
   "burstThreshold": 46.5,
   "longestGap": 115,
-  "meanGapDays": 1.697674418604651,
+  "meanGapDays": 1.1627906976744187,
   "hourDistribution": [
     60,
     22,
@@ -1369,18 +1369,18 @@
     7,
     18,
     6,
-    116,
+    117,
     112,
     166,
     262,
     340,
-    309,
-    391,
-    311,
+    313,
+    397,
+    313,
     281,
-    299,
-    224,
-    238,
+    300,
+    223,
+    241,
     231,
     226,
     155,
@@ -1391,18 +1391,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 120,
-    "morning (06\u201312)": 1305,
-    "afternoon (12\u201318)": 1744,
+    "morning (06\u201312)": 1310,
+    "afternoon (12\u201318)": 1755,
     "evening (18\u201324)": 1076
   },
-  "additionsPct": 83.97960711645189,
-  "avgCommitSize": 503.42049469964667,
+  "additionsPct": 83.98011579624539,
+  "avgCommitSize": 501.6134710161934,
   "prActiveWeeks": 32,
-  "prThis4w": 28,
+  "prThis4w": 30,
   "prPrev4w": 114,
-  "prTrendPct": -75.43859649122807,
+  "prTrendPct": -73.68421052631578,
   "daily": {
-    "2025-07-21": 1,
     "2025-07-22": 0,
     "2025-07-23": 0,
     "2025-07-24": 0,
@@ -1767,23 +1766,24 @@
     "2026-07-18": 5,
     "2026-07-19": 8,
     "2026-07-20": 19,
-    "2026-07-21": 1
+    "2026-07-21": 17,
+    "2026-07-22": 1
   },
   "activeDaysPct": 59.01639344262295,
-  "commitTotal": 4245,
-  "commitMean": 11.598360655737705,
-  "commitMedian": 2.5,
+  "commitTotal": 4261,
+  "commitMean": 11.642076502732241,
+  "commitMedian": 3.0,
   "commitP95": 47.75,
-  "commitActiveMean": 19.65277777777778,
+  "commitActiveMean": 19.72685185185185,
   "commitMax": 138,
-  "currentStreak": 183,
-  "longestStreak": 183,
-  "additions": 1794661,
-  "deletions": 342359,
-  "prs": 440,
-  "mergedPrs": 417,
-  "prMergeRatio": 94.77272727272728,
-  "prWeeklyMean": 13.75,
+  "currentStreak": 184,
+  "longestStreak": 184,
+  "additions": 1794970,
+  "deletions": 342405,
+  "prs": 442,
+  "mergedPrs": 419,
+  "prMergeRatio": 94.79638009049773,
+  "prWeeklyMean": 13.8125,
   "prWeeklyMedian": 10.0,
   "prWeeklyP95": 35.45,
   "prWeeklyMax": 85,
@@ -1890,25 +1890,25 @@
     ],
     [
       "2026-07-20",
-      2
+      4
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      71
+      64
     ],
     [
       "pomo",
-      45
-    ],
-    [
-      "hyprvox",
-      38
+      52
     ],
     [
       "hyprfolio",
       7
+    ],
+    [
+      "hyprvox",
+      1
     ]
   ],
   "topMonth": [
@@ -1918,7 +1918,7 @@
     ],
     [
       "pomo",
-      89
+      104
     ],
     [
       "vidyut",
@@ -1948,7 +1948,7 @@
     ],
     [
       "hyprfolio",
-      291
+      292
     ],
     [
       "aceon",
@@ -1956,7 +1956,7 @@
     ],
     [
       "pomo",
-      232
+      248
     ],
     [
       "saksham",
@@ -2065,10 +2065,6 @@
     [
       "manim_repo",
       1
-    ],
-    [
-      "portfolio_website",
-      1
     ]
   ],
   "languages": [
@@ -2086,7 +2082,7 @@
     ],
     [
       "Kotlin",
-      839726
+      865622
     ],
     [
       "Python",
@@ -2144,7 +2140,7 @@
     ],
     [
       "Web Apps",
-      1182
+      1181
     ],
     [
       "Other",
@@ -2152,26 +2148,26 @@
     ],
     [
       "Linux / CLI",
-      647
+      648
     ],
     [
       "Mobile",
-      232
+      248
     ]
   ],
   "weekdayMean": [
-    11.773584905660377,
-    10.320754716981131,
-    12.807692307692308,
+    11.98076923076923,
+    10.622641509433961,
+    12.584905660377359,
     15.192307692307692,
     11.173076923076923,
     10.538461538461538,
     9.403846153846153
   ],
   "weekdayActive": [
+    31,
     32,
-    32,
-    30,
+    31,
     30,
     31,
     29,
@@ -2226,18 +2222,18 @@
     ],
     [
       "2026-07-01",
-      411
+      428
     ]
   ],
-  "velocity30d": 465,
-  "velocityPrev30d": 547,
-  "velocityTrendPct": -14.990859232175502,
-  "momentum7d": 161,
+  "velocity30d": 479,
+  "velocityPrev30d": 539,
+  "velocityTrendPct": -11.131725417439704,
+  "momentum7d": 124,
   "momentumScore": 74,
   "shipping7d": 4,
   "shipping30d": 9,
-  "focusTop3Pct": 42.120141342756185,
-  "hhi": 0.09229704176326059,
-  "entropy": 4.097409459843237,
-  "entropyNormalized": 0.8053934913529948
+  "focusTop3Pct": 41.96198075569115,
+  "hhi": 0.09206024789105557,
+  "entropy": 4.09533803468609,
+  "entropyNormalized": 0.8118592516333628
 }
