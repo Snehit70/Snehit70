@@ -14,17 +14,18 @@
 
 ### Public
 
+- **[Aceon](https://github.com/Snehit70/aceon)** - A clean library of lectures, organized for easy access.
 - **[Hyprvox](https://github.com/Snehit70/hyprvox)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
-- **[SystemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
-- **[Lazydev](https://github.com/Snehit70/lazydev)** - Your dev servers, on demand: auto-scale to zero, wake on request, save gigabytes of RAM.
+- **[Vidyut](https://github.com/Snehit70/vidyut)** - LAN-only clipboard sync between Linux/Wayland and Android: encrypted image & text pool, latest-wins.
 - **[Lapstat](https://github.com/Snehit70/lapstat)** - Historical system stats monitor for Linux laptops.
+- **[Lazydev](https://github.com/Snehit70/lazydev)** - Your dev servers, on demand: auto-scale to zero, wake on request, save gigabytes of RAM.
 - **[Pomo](https://github.com/Snehit70/pomo)** - Mobile app for remotely controlling a desktop Pomodoro timer.
+- **[Pravah](https://github.com/Snehit70/pravah)** - Timeline-based task manager with AI-agent API support.
 - **[Ralphy Monitor](https://github.com/Snehit70/ralphy-monitor)** - Real-time monitor for Ralphy: watch my AI coding loop work.
+- **[SystemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
 
 ### Private
 
-- **Pravah** - Timeline-based task manager with AI-agent API support.
-- **Aceon** - A clean library of lectures, organized for easy access.
 - **Praxis** - Active private build, still shaping the product surface.
 
 ## Live Projects
