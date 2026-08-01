@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-07-31T01:23:22Z",
+      "pushedAt": "2026-08-01T01:24:40Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,34 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pravah-cli-skill",
+      "description": "Agent skill for safely using the Pravah CLI",
+      "url": "https://github.com/Snehit70/pravah-cli-skill",
+      "pushedAt": "2026-07-31T17:23:11Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "defaultBranch": "main",
+      "languages": []
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-07-31T04:01:56Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -122,24 +150,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-07-30T03:43:06Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -1383,17 +1393,17 @@
       ]
     }
   ],
-  "reposAnalyzed": 34,
-  "reposPublic": 24,
+  "reposAnalyzed": 35,
+  "reposPublic": 25,
   "reposPrivate": 15,
   "biggestDay": {
     "date": "2026-01-22",
     "commits": 138
   },
   "burstDays": 23,
-  "burstThreshold": 45.599999999999994,
-  "longestGap": 106,
-  "meanGapDays": 1.15625,
+  "burstThreshold": 45.5,
+  "longestGap": 105,
+  "meanGapDays": 1.1555555555555554,
   "hourDistribution": [
     60,
     22,
@@ -1401,7 +1411,7 @@
     7,
     18,
     6,
-    126,
+    127,
     113,
     177,
     278,
@@ -1417,24 +1427,23 @@
     242,
     168,
     164,
-    188,
+    191,
     132
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 120,
-    "morning (06\u201312)": 1361,
+    "morning (06\u201312)": 1362,
     "afternoon (12\u201318)": 1807,
-    "evening (18\u201324)": 1132
+    "evening (18\u201324)": 1135
   },
-  "additionsPct": 83.75431703684927,
-  "avgCommitSize": 499.8348416289593,
+  "additionsPct": 83.75513485035837,
+  "avgCommitSize": 499.4150090415913,
   "prActiveWeeks": 33,
   "prThis4w": 67,
   "prPrev4w": 110,
   "prTrendPct": -39.09090909090909,
   "daily": {
-    "2025-07-31": 0,
     "2025-08-01": 0,
     "2025-08-02": 0,
     "2025-08-03": 0,
@@ -1799,19 +1808,20 @@
     "2026-07-28": 20,
     "2026-07-29": 9,
     "2026-07-30": 11,
-    "2026-07-31": 1
+    "2026-07-31": 4,
+    "2026-08-01": 1
   },
-  "activeDaysPct": 61.47540983606557,
-  "commitTotal": 4420,
-  "commitMean": 12.076502732240437,
-  "commitMedian": 3.5,
+  "activeDaysPct": 61.74863387978142,
+  "commitTotal": 4424,
+  "commitMean": 12.087431693989071,
+  "commitMedian": 4.0,
   "commitP95": 47.75,
-  "commitActiveMean": 19.644444444444446,
+  "commitActiveMean": 19.575221238938052,
   "commitMax": 138,
-  "currentStreak": 193,
-  "longestStreak": 193,
-  "additions": 1850359,
-  "deletions": 358911,
+  "currentStreak": 194,
+  "longestStreak": 194,
+  "additions": 1850496,
+  "deletions": 358916,
   "prs": 486,
   "mergedPrs": 463,
   "prMergeRatio": 95.26748971193416,
@@ -1927,12 +1937,12 @@
   ],
   "topWeek": [
     [
-      "pravah",
-      46
-    ],
-    [
       "vidyut",
       33
+    ],
+    [
+      "pravah",
+      28
     ],
     [
       "hyprfolio",
@@ -1943,18 +1953,18 @@
       4
     ],
     [
-      "textcli",
-      1
+      "pravah-cli-skill",
+      3
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      246
+      233
     ],
     [
       "vidyut",
-      94
+      93
     ],
     [
       "pomo",
@@ -1984,7 +1994,7 @@
     ],
     [
       "hyprfolio",
-      301
+      302
     ],
     [
       "aceon",
@@ -2099,6 +2109,10 @@
       5
     ],
     [
+      "pravah-cli-skill",
+      3
+    ],
+    [
       "portfolio",
       2
     ],
@@ -2180,7 +2194,7 @@
   "categories": [
     [
       "AI / Voice",
-      1603
+      1606
     ],
     [
       "Web Apps",
@@ -2188,7 +2202,7 @@
     ],
     [
       "Linux / CLI",
-      703
+      704
     ],
     [
       "Other",
@@ -2203,9 +2217,9 @@
     12.25,
     11.307692307692308,
     13.211538461538462,
-    15.754716981132075,
-    11.150943396226415,
-    10.903846153846153,
+    16.057692307692307,
+    11.20754716981132,
+    10.716981132075471,
     9.903846153846153
   ],
   "weekdayActive": [
@@ -2214,16 +2228,12 @@
     32,
     32,
     33,
-    30,
+    31,
     33
   ],
   "bestWeekday": 3,
   "quietWeekday": 6,
   "monthly": [
-    [
-      "2025-08-01",
-      0
-    ],
     [
       "2025-09-01",
       0
@@ -2266,18 +2276,22 @@
     ],
     [
       "2026-07-01",
-      581
+      584
+    ],
+    [
+      "2026-08-01",
+      1
     ]
   ],
-  "velocity30d": 533,
-  "velocityPrev30d": 438,
-  "velocityTrendPct": 21.689497716894977,
-  "momentum7d": 92,
-  "momentumScore": 80,
-  "shipping7d": 6,
-  "shipping30d": 10,
-  "focusTop3Pct": 42.53393665158371,
-  "hhi": 0.0959795049241416,
-  "entropy": 4.078693284625254,
-  "entropyNormalized": 0.8017146094029926
+  "velocity30d": 522,
+  "velocityPrev30d": 441,
+  "velocityTrendPct": 18.367346938775512,
+  "momentum7d": 77,
+  "momentumScore": 79,
+  "shipping7d": 7,
+  "shipping30d": 11,
+  "focusTop3Pct": 42.495479204339965,
+  "hhi": 0.09583729141392176,
+  "entropy": 4.083997159849917,
+  "entropyNormalized": 0.7962120917013411
 }
