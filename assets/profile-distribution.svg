@@ -26,7 +26,7 @@
 
   <!-- Header -->
   <text x="44" y="56" fill="#f4f7fb" font-size="26" font-weight="800" letter-spacing="-0.5" class="sans">codebase composition</text>
-  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 25 PUBLIC + 15 PRIVATE REPOS · 17 LANGUAGES · 2026-08-01</text>
+  <text x="44" y="76" fill="#7286a0" font-size="11" letter-spacing="1">SNEHIT · 25 PUBLIC + 15 PRIVATE REPOS · 17 LANGUAGES · 2026-08-02</text>
   <line x1="44" y1="86" x2="1056" y2="86" stroke="#243652"/>
 
   <!-- Language treemap -->
@@ -63,11 +63,11 @@
   <line x1="44" y1="430" x2="1056" y2="430" stroke="#1a2942"/>
   <text x="44" y="444" fill="#f4f7fb" font-size="11" font-weight="700" letter-spacing="2">WORK CATEGORIES · COMMITS</text>
 <text x="1056" y="444" fill="#4a5b75" font-size="10.5" letter-spacing="1" text-anchor="end">FOCUS TOP-3 42% · BALANCED · ENTROPY 0.80</text>
-  <rect x="44.00" y="486" width="365.38" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1606</title></rect>
-<rect x="411.38" y="486" width="268.16" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1181</title></rect>
-<rect x="681.53" y="486" width="159.04" height="14" rx="3" fill="#fbbf24"><title>Linux / CLI · 704</title></rect>
-<rect x="842.57" y="486" width="152.64" height="14" rx="3" fill="#c084fc"><title>Other · 676</title></rect>
-<rect x="997.21" y="486" width="56.79" height="14" rx="3" fill="#f472b6"><title>Mobile · 257</title></rect>
+  <rect x="44.00" y="486" width="365.29" height="14" rx="3" fill="#a3e635"><title>AI / Voice · 1606</title></rect>
+<rect x="411.29" y="486" width="268.10" height="14" rx="3" fill="#67e8f9"><title>Web Apps · 1181</title></rect>
+<rect x="681.39" y="486" width="159.23" height="14" rx="3" fill="#fbbf24"><title>Linux / CLI · 705</title></rect>
+<rect x="842.62" y="486" width="152.60" height="14" rx="3" fill="#c084fc"><title>Other · 676</title></rect>
+<rect x="997.22" y="486" width="56.78" height="14" rx="3" fill="#f472b6"><title>Mobile · 257</title></rect>
   <rect x="44" y="521" width="10" height="10" rx="2" fill="#a3e635"/>
 <text x="62" y="530" fill="#c8d2e2" font-size="12">AI / Voice</text>
 <text x="364" y="530" fill="#7286a0" font-size="11" text-anchor="end">1606  ·  36%</text>
@@ -76,7 +76,7 @@
 <text x="704" y="530" fill="#7286a0" font-size="11" text-anchor="end">1181  ·  27%</text>
 <rect x="724" y="521" width="10" height="10" rx="2" fill="#fbbf24"/>
 <text x="742" y="530" fill="#c8d2e2" font-size="12">Linux / CLI</text>
-<text x="1044" y="530" fill="#7286a0" font-size="11" text-anchor="end">704  ·  16%</text>
+<text x="1044" y="530" fill="#7286a0" font-size="11" text-anchor="end">705  ·  16%</text>
 <rect x="44" y="547" width="10" height="10" rx="2" fill="#c084fc"/>
 <text x="62" y="556" fill="#c8d2e2" font-size="12">Other</text>
 <text x="364" y="556" fill="#7286a0" font-size="11" text-anchor="end">676  ·  15%</text>
@@ -109,8 +109,8 @@
 <text x="44" y="670" fill="#4a5b75" font-size="11" font-weight="700"> 4</text>
 <text x="70" y="670" fill="#c8d2e2" font-size="12">hyprfolio</text>
 <rect x="214" y="662" width="300.0" height="6" rx="1" fill="#1a2942"/>
-<rect x="214" y="662" width="84.9" height="6" rx="1" fill="#c084fc"/>
-<text x="544" y="670" fill="#7286a0" font-size="11" text-anchor="end">302</text>
+<rect x="214" y="662" width="85.2" height="6" rx="1" fill="#c084fc"/>
+<text x="544" y="670" fill="#7286a0" font-size="11" text-anchor="end">303</text>
 <text x="44" y="688" fill="#4a5b75" font-size="11" font-weight="700"> 5</text>
 <text x="70" y="688" fill="#c8d2e2" font-size="12">aceon</text>
 <rect x="214" y="680" width="300.0" height="6" rx="1" fill="#1a2942"/>
