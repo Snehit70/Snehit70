@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-16",
+  "generated": "2026-08-17",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-08-16T00:28:51Z",
+      "pushedAt": "2026-08-17T00:27:26Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -45,7 +45,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-08-15T01:58:14Z",
+      "pushedAt": "2026-08-16T02:08:10Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -1415,16 +1415,16 @@
     "commits": 138
   },
   "burstDays": 25,
-  "burstThreshold": 47,
-  "longestGap": 90,
-  "meanGapDays": 1.1458333333333333,
+  "burstThreshold": 46.900000000000006,
+  "longestGap": 89,
+  "meanGapDays": 1.1452282157676348,
   "hourDistribution": [
     69,
     24,
     7,
     7,
     18,
-    8,
+    9,
     139,
     114,
     186,
@@ -1446,19 +1446,18 @@
   ],
   "peakHour": 12,
   "hourBuckets": {
-    "night (00\u201306)": 133,
+    "night (00\u201306)": 134,
     "morning (06\u201312)": 1416,
     "afternoon (12\u201318)": 2000,
     "evening (18\u201324)": 1205
   },
-  "additionsPct": 83.90455553871381,
-  "avgCommitSize": 488.4880100967606,
+  "additionsPct": 83.90453327017687,
+  "avgCommitSize": 488.38590956887487,
   "prActiveWeeks": 35,
-  "prThis4w": 68,
-  "prPrev4w": 42,
-  "prTrendPct": 61.904761904761905,
+  "prThis4w": 38,
+  "prPrev4w": 56,
+  "prTrendPct": -32.142857142857146,
   "daily": {
-    "2025-08-16": 0,
     "2025-08-17": 0,
     "2025-08-18": 0,
     "2025-08-19": 0,
@@ -1823,19 +1822,20 @@
     "2026-08-13": 35,
     "2026-08-14": 1,
     "2026-08-15": 1,
-    "2026-08-16": 1
+    "2026-08-16": 1,
+    "2026-08-17": 1
   },
-  "activeDaysPct": 65.84699453551912,
-  "commitTotal": 4754,
-  "commitMean": 12.989071038251366,
+  "activeDaysPct": 66.12021857923497,
+  "commitTotal": 4755,
+  "commitMean": 12.991803278688524,
   "commitMedian": 5.0,
   "commitP95": 48.0,
-  "commitActiveMean": 19.726141078838175,
+  "commitActiveMean": 19.64876033057851,
   "commitMax": 138,
-  "currentStreak": 209,
-  "longestStreak": 209,
-  "additions": 1948492,
-  "deletions": 373780,
+  "currentStreak": 210,
+  "longestStreak": 210,
+  "additions": 1948494,
+  "deletions": 373781,
   "prs": 506,
   "mergedPrs": 481,
   "prMergeRatio": 95.0592885375494,
@@ -1844,10 +1844,6 @@
   "prWeeklyP95": 35.3,
   "prWeeklyMax": 85,
   "prRecent": [
-    [
-      "2026-02-16",
-      15
-    ],
     [
       "2026-02-23",
       15
@@ -1947,30 +1943,30 @@
     [
       "2026-08-10",
       7
+    ],
+    [
+      "2026-08-17",
+      0
     ]
   ],
   "topWeek": [
-    [
-      "pravah",
-      46
-    ],
     [
       "vidyut",
       44
     ],
     [
-      "hyprfolio",
-      7
+      "pravah",
+      26
     ],
     [
-      "pomo",
-      1
+      "hyprfolio",
+      7
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      238
+      236
     ],
     [
       "vidyut",
@@ -1978,7 +1974,7 @@
     ],
     [
       "pomo",
-      111
+      109
     ],
     [
       "hyprfolio",
@@ -2008,7 +2004,7 @@
     ],
     [
       "hyprfolio",
-      317
+      318
     ],
     [
       "aceon",
@@ -2212,7 +2208,7 @@
     ],
     [
       "Linux / CLI",
-      829
+      830
     ],
     [
       "Other",
@@ -2224,16 +2220,16 @@
     ]
   ],
   "weekdayMean": [
-    13.596153846153847,
+    13.358490566037736,
     11.48076923076923,
     13.923076923076923,
     17.03846153846154,
     11.576923076923077,
-    12.547169811320755,
+    12.788461538461538,
     10.81132075471698
   ],
   "weekdayActive": [
-    34,
+    35,
     35,
     34,
     34,
@@ -2290,18 +2286,18 @@
     ],
     [
       "2026-08-01",
-      331
+      332
     ]
   ],
-  "velocity30d": 536,
-  "velocityPrev30d": 525,
-  "velocityTrendPct": 2.0952380952380953,
-  "momentum7d": 98,
-  "momentumScore": 77,
-  "shipping7d": 4,
+  "velocity30d": 532,
+  "velocityPrev30d": 482,
+  "velocityTrendPct": 10.37344398340249,
+  "momentum7d": 77,
+  "momentumScore": 79,
+  "shipping7d": 3,
   "shipping30d": 10,
-  "focusTop3Pct": 42.32225494320572,
-  "hhi": 0.09998594722350587,
-  "entropy": 4.044989034611113,
-  "entropyNormalized": 0.7886071057588736
+  "focusTop3Pct": 42.31335436382755,
+  "hhi": 0.09997198145512887,
+  "entropy": 4.044959481864995,
+  "entropyNormalized": 0.7886013441843962
 }
