@@ -1,69 +1,12 @@
 {
-  "generated": "2026-08-20",
+  "generated": "2026-08-21",
   "windowDays": 366,
   "repos": [
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-08-20T00:27:34Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 75583,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 61820,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2980,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-08-19T02:02:32Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
     {
       "name": "pomo",
       "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
       "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-08-14T07:16:27Z",
+      "pushedAt": "2026-08-21T02:03:13Z",
       "isPrivate": false,
       "primaryLanguage": "Kotlin",
       "defaultBranch": "main",
@@ -115,6 +58,63 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-08-21T00:30:12Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 75583,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 61820,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2980,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-08-20T02:00:45Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -1415,9 +1415,9 @@
     "commits": 138
   },
   "burstDays": 25,
-  "burstThreshold": 46.599999999999994,
-  "longestGap": 86,
-  "meanGapDays": 1.1434426229508197,
+  "burstThreshold": 46.5,
+  "longestGap": 85,
+  "meanGapDays": 1.1428571428571428,
   "hourDistribution": [
     69,
     24,
@@ -1425,7 +1425,7 @@
     7,
     18,
     12,
-    139,
+    140,
     114,
     186,
     281,
@@ -1447,18 +1447,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 137,
-    "morning (06\u201312)": 1416,
+    "morning (06\u201312)": 1417,
     "afternoon (12\u201318)": 2000,
     "evening (18\u201324)": 1205
   },
-  "additionsPct": 83.90446646491127,
-  "avgCommitSize": 488.07986548970155,
+  "additionsPct": 83.90444419660447,
+  "avgCommitSize": 487.9779365412902,
   "prActiveWeeks": 35,
   "prThis4w": 38,
   "prPrev4w": 56,
   "prTrendPct": -32.142857142857146,
   "daily": {
-    "2025-08-20": 0,
     "2025-08-21": 0,
     "2025-08-22": 0,
     "2025-08-23": 0,
@@ -1823,19 +1822,20 @@
     "2026-08-17": 1,
     "2026-08-18": 1,
     "2026-08-19": 1,
-    "2026-08-20": 1
+    "2026-08-20": 1,
+    "2026-08-21": 1
   },
-  "activeDaysPct": 66.93989071038251,
-  "commitTotal": 4758,
-  "commitMean": 13,
+  "activeDaysPct": 67.21311475409836,
+  "commitTotal": 4759,
+  "commitMean": 13.002732240437158,
   "commitMedian": 5.0,
   "commitP95": 48.0,
-  "commitActiveMean": 19.420408163265307,
+  "commitActiveMean": 19.34552845528455,
   "commitMax": 138,
-  "currentStreak": 213,
-  "longestStreak": 213,
-  "additions": 1948500,
-  "deletions": 373784,
+  "currentStreak": 214,
+  "longestStreak": 214,
+  "additions": 1948502,
+  "deletions": 373785,
   "prs": 506,
   "mergedPrs": 481,
   "prMergeRatio": 95.0592885375494,
@@ -1958,7 +1958,7 @@
   "topMonth": [
     [
       "pravah",
-      217
+      209
     ],
     [
       "vidyut",
@@ -1966,7 +1966,7 @@
     ],
     [
       "pomo",
-      82
+      79
     ],
     [
       "hyprfolio",
@@ -1996,7 +1996,7 @@
     ],
     [
       "hyprfolio",
-      321
+      322
     ],
     [
       "aceon",
@@ -2200,7 +2200,7 @@
     ],
     [
       "Linux / CLI",
-      833
+      834
     ],
     [
       "Other",
@@ -2214,9 +2214,9 @@
   "weekdayMean": [
     13.615384615384615,
     11.5,
-    13.679245283018869,
+    13.942307692307692,
     16.735849056603772,
-    11.576923076923077,
+    11.377358490566039,
     12.788461538461538,
     11.01923076923077
   ],
@@ -2225,7 +2225,7 @@
     36,
     35,
     35,
-    35,
+    36,
     33,
     36
   ],
@@ -2278,18 +2278,18 @@
     ],
     [
       "2026-08-01",
-      335
+      336
     ]
   ],
-  "velocity30d": 484,
-  "velocityPrev30d": 489,
-  "velocityTrendPct": -1.0224948875255624,
+  "velocity30d": 473,
+  "velocityPrev30d": 498,
+  "velocityTrendPct": -5.020080321285141,
   "momentum7d": 7,
   "momentumScore": 77,
   "shipping7d": 1,
   "shipping30d": 9,
-  "focusTop3Pct": 42.28667507356032,
-  "hhi": 0.09993063164253706,
-  "entropy": 4.044865571610261,
-  "entropyNormalized": 0.7885830355329874
+  "focusTop3Pct": 42.277789451565454,
+  "hhi": 0.09991703049808061,
+  "entropy": 4.044832529213903,
+  "entropyNormalized": 0.7885765936197124
 }
