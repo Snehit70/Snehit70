@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-08-24T00:29:12Z",
+      "pushedAt": "2026-08-25T00:29:23Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,24 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-08-24T02:09:10Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -143,24 +161,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-08-23T02:11:04Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -1416,15 +1416,15 @@
   },
   "burstDays": 26,
   "burstThreshold": 47.0,
-  "longestGap": 82,
-  "meanGapDays": 1.1411290322580645,
+  "longestGap": 81,
+  "meanGapDays": 1.140562248995984,
   "hourDistribution": [
     69,
     24,
     7,
     7,
     18,
-    15,
+    16,
     140,
     115,
     199,
@@ -1446,19 +1446,18 @@
   ],
   "peakHour": 12,
   "hourBuckets": {
-    "night (00\u201306)": 140,
+    "night (00\u201306)": 141,
     "morning (06\u201312)": 1470,
     "afternoon (12\u201318)": 2023,
     "evening (18\u201324)": 1224
   },
-  "additionsPct": 84.19642301527635,
-  "avgCommitSize": 489.6676961087091,
+  "additionsPct": 84.19640090332709,
+  "avgCommitSize": 489.56751749691233,
   "prActiveWeeks": 36,
   "prThis4w": 24,
   "prPrev4w": 68,
   "prTrendPct": -64.70588235294117,
   "daily": {
-    "2025-08-24": 0,
     "2025-08-25": 0,
     "2025-08-26": 0,
     "2025-08-27": 0,
@@ -1823,19 +1822,20 @@
     "2026-08-21": 56,
     "2026-08-22": 35,
     "2026-08-23": 7,
-    "2026-08-24": 1
+    "2026-08-24": 1,
+    "2026-08-25": 1
   },
-  "activeDaysPct": 68.0327868852459,
-  "commitTotal": 4857,
-  "commitMean": 13.270491803278688,
+  "activeDaysPct": 68.30601092896174,
+  "commitTotal": 4858,
+  "commitMean": 13.273224043715848,
   "commitMedian": 5.0,
   "commitP95": 49.5,
-  "commitActiveMean": 19.50602409638554,
+  "commitActiveMean": 19.432,
   "commitMax": 138,
-  "currentStreak": 217,
-  "longestStreak": 217,
-  "additions": 2002457,
-  "deletions": 375859,
+  "currentStreak": 218,
+  "longestStreak": 218,
+  "additions": 2002459,
+  "deletions": 375860,
   "prs": 511,
   "mergedPrs": 486,
   "prMergeRatio": 95.10763209393346,
@@ -1965,12 +1965,12 @@
       168
     ],
     [
-      "pravah",
-      160
-    ],
-    [
       "vidyut",
       143
+    ],
+    [
+      "pravah",
+      135
     ],
     [
       "hyprfolio",
@@ -2000,7 +2000,7 @@
     ],
     [
       "hyprfolio",
-      325
+      326
     ],
     [
       "aceon",
@@ -2204,7 +2204,7 @@
     ],
     [
       "Linux / CLI",
-      837
+      838
     ],
     [
       "Other",
@@ -2217,16 +2217,16 @@
   ],
   "weekdayMean": [
     13.377358490566039,
-    11.5,
+    11.30188679245283,
     13.942307692307692,
     17.057692307692307,
     12.653846153846153,
     13.461538461538462,
-    10.943396226415095
+    11.153846153846153
   ],
   "weekdayActive": [
     36,
-    36,
+    37,
     35,
     35,
     36,
@@ -2282,18 +2282,18 @@
     ],
     [
       "2026-08-01",
-      434
+      435
     ]
   ],
-  "velocity30d": 510,
-  "velocityPrev30d": 521,
-  "velocityTrendPct": -2.111324376199616,
+  "velocity30d": 485,
+  "velocityPrev30d": 546,
+  "velocityTrendPct": -11.172161172161173,
   "momentum7d": 102,
   "momentumScore": 77,
   "shipping7d": 2,
   "shipping30d": 8,
-  "focusTop3Pct": 42.886555486926085,
-  "hhi": 0.09904834791402231,
-  "entropy": 4.03749931149313,
-  "entropyNormalized": 0.7871469166655364
+  "focusTop3Pct": 42.877727459860026,
+  "hhi": 0.09903515924719845,
+  "entropy": 4.037470901818497,
+  "entropyNormalized": 0.7871413779431575
 }
