@@ -1,7 +1,131 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-08-31T05:20:54Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 92913,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 68754,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2980,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pomo",
+      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
+      "url": "https://github.com/Snehit70/pomo",
+      "pushedAt": "2026-08-30T11:18:59Z",
+      "isPrivate": false,
+      "primaryLanguage": "Kotlin",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 919597,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 250146,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 110830,
+          "node": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "size": 96071,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 27482,
+          "node": {
+            "name": "QML",
+            "color": "#44a51c"
+          }
+        },
+        {
+          "size": 15438,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 11303,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 3306,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-08-30T05:41:51Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 43419,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
     {
       "name": "vidyut",
       "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. Latest-wins pool, LAN-only, end-to-end encrypted.",
@@ -63,63 +187,6 @@
       ]
     },
     {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-08-30T01:54:39Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 75583,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 61820,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2980,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-08-29T07:18:21Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 43419,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
@@ -165,73 +232,6 @@
         },
         {
           "size": 3349,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "pomo",
-      "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
-      "url": "https://github.com/Snehit70/pomo",
-      "pushedAt": "2026-08-27T10:45:44Z",
-      "isPrivate": false,
-      "primaryLanguage": "Kotlin",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1381831,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
-          }
-        },
-        {
-          "size": 877077,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 110830,
-          "node": {
-            "name": "C++",
-            "color": "#f34b7d"
-          }
-        },
-        {
-          "size": 96071,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 27482,
-          "node": {
-            "name": "QML",
-            "color": "#44a51c"
-          }
-        },
-        {
-          "size": 26515,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 14300,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 3703,
           "node": {
             "name": "Shell",
             "color": "#89e051"
@@ -1429,9 +1429,9 @@
     "commits": 138
   },
   "burstDays": 26,
-  "burstThreshold": 46.599999999999994,
-  "longestGap": 76,
-  "meanGapDays": 1.1377952755905512,
+  "burstThreshold": 46.5,
+  "longestGap": 75,
+  "meanGapDays": 1.1372549019607843,
   "hourDistribution": [
     70,
     24,
@@ -1440,16 +1440,16 @@
     18,
     17,
     140,
-    116,
+    117,
     199,
-    304,
-    377,
-    360,
+    312,
+    381,
+    363,
     455,
-    382,
-    340,
-    326,
-    262,
+    383,
+    341,
+    328,
+    267,
     265,
     253,
     264,
@@ -1461,18 +1461,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 143,
-    "morning (06\u201312)": 1496,
-    "afternoon (12\u201318)": 2030,
+    "morning (06\u201312)": 1512,
+    "afternoon (12\u201318)": 2039,
     "evening (18\u201324)": 1231
   },
-  "additionsPct": 84.22125256265345,
-  "avgCommitSize": 487.6761224489796,
-  "prActiveWeeks": 37,
-  "prThis4w": 28,
-  "prPrev4w": 68,
-  "prTrendPct": -58.82352941176471,
+  "additionsPct": 82.15758882249158,
+  "avgCommitSize": 499.58192893401014,
+  "prActiveWeeks": 38,
+  "prThis4w": 19,
+  "prPrev4w": 78,
+  "prTrendPct": -75.64102564102564,
   "daily": {
-    "2025-08-30": 0,
     "2025-08-31": 0,
     "2025-09-01": 0,
     "2025-09-02": 0,
@@ -1837,31 +1836,28 @@
     "2026-08-27": 13,
     "2026-08-28": 5,
     "2026-08-29": 7,
-    "2026-08-30": 5
+    "2026-08-30": 17,
+    "2026-08-31": 13
   },
-  "activeDaysPct": 69.67213114754098,
-  "commitTotal": 4900,
-  "commitMean": 13.387978142076502,
-  "commitMedian": 5.5,
+  "activeDaysPct": 69.94535519125684,
+  "commitTotal": 4925,
+  "commitMean": 13.456284153005464,
+  "commitMedian": 6.0,
   "commitP95": 49.5,
-  "commitActiveMean": 19.215686274509803,
+  "commitActiveMean": 19.23828125,
   "commitMax": 138,
-  "currentStreak": 223,
-  "longestStreak": 223,
-  "additions": 2012562,
-  "deletions": 377051,
-  "prs": 515,
-  "mergedPrs": 491,
-  "prMergeRatio": 95.33980582524272,
-  "prWeeklyMean": 13.91891891891892,
-  "prWeeklyMedian": 10,
-  "prWeeklyP95": 35.199999999999996,
+  "currentStreak": 224,
+  "longestStreak": 224,
+  "additions": 2021439,
+  "deletions": 439002,
+  "prs": 518,
+  "mergedPrs": 494,
+  "prMergeRatio": 95.36679536679536,
+  "prWeeklyMean": 13.631578947368421,
+  "prWeeklyMedian": 10.0,
+  "prWeeklyP95": 35.15,
   "prWeeklyMax": 85,
   "prRecent": [
-    [
-      "2026-03-02",
-      4
-    ],
     [
       "2026-03-09",
       4
@@ -1960,7 +1956,11 @@
     ],
     [
       "2026-08-24",
-      4
+      6
+    ],
+    [
+      "2026-08-31",
+      1
     ]
   ],
   "topWeek": [
@@ -1970,15 +1970,15 @@
     ],
     [
       "hyprfolio",
-      7
+      19
+    ],
+    [
+      "pomo",
+      13
     ],
     [
       "pravah",
       5
-    ],
-    [
-      "pomo",
-      1
     ]
   ],
   "topMonth": [
@@ -1996,7 +1996,7 @@
     ],
     [
       "hyprfolio",
-      30
+      42
     ]
   ],
   "topYear": [
@@ -2010,7 +2010,7 @@
     ],
     [
       "pomo",
-      426
+      438
     ],
     [
       "fateWheel",
@@ -2018,7 +2018,7 @@
     ],
     [
       "hyprfolio",
-      331
+      344
     ],
     [
       "aceon",
@@ -2144,19 +2144,19 @@
   "languages": [
     [
       "TypeScript",
-      8626490
+      8016889
     ],
     [
       "HTML",
-      1790229
-    ],
-    [
-      "Kotlin",
-      1479384
+      1787232
     ],
     [
       "JavaScript",
       1129957
+    ],
+    [
+      "Kotlin",
+      1017150
     ],
     [
       "Dart",
@@ -2168,15 +2168,15 @@
     ],
     [
       "Vue",
-      593388
+      600322
     ],
     [
       "CSS",
-      553299
+      542222
     ],
     [
       "Shell",
-      405134
+      404737
     ],
     [
       "Svelte",
@@ -2226,7 +2226,7 @@
     ],
     [
       "Linux / CLI",
-      865
+      878
     ],
     [
       "Other",
@@ -2234,20 +2234,20 @@
     ],
     [
       "Mobile",
-      426
+      438
     ]
   ],
   "weekdayMean": [
-    13.634615384615385,
+    13.622641509433961,
     11.557692307692308,
     13.961538461538462,
     17.307692307692307,
     12.75,
-    13.339622641509434,
-    11.20754716981132
+    13.596153846153847,
+    11.433962264150944
   ],
   "weekdayActive": [
-    36,
+    37,
     37,
     36,
     36,
@@ -2304,18 +2304,18 @@
     ],
     [
       "2026-08-01",
-      477
+      502
     ]
   ],
-  "velocity30d": 477,
-  "velocityPrev30d": 536,
-  "velocityTrendPct": -11.007462686567164,
-  "momentum7d": 35,
+  "velocity30d": 489,
+  "velocityPrev30d": 534,
+  "velocityTrendPct": -8.426966292134832,
+  "momentum7d": 59,
   "momentumScore": 78,
   "shipping7d": 4,
   "shipping30d": 4,
-  "focusTop3Pct": 42.816326530612244,
-  "hhi": 0.0993173677634319,
-  "entropy": 4.03354098386088,
-  "entropyNormalized": 0.7863752049820177
+  "focusTop3Pct": 42.84263959390863,
+  "hhi": 0.09910084774150327,
+  "entropy": 4.03181040050099,
+  "entropyNormalized": 0.7860378121428678
 }
