@@ -1,12 +1,12 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-09-10T01:39:27Z",
+      "pushedAt": "2026-09-11T01:38:40Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -42,10 +42,56 @@
       ]
     },
     {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-09-10T09:12:06Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 313871,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 143800,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 142510,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 48857,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-09-09T05:02:16Z",
+      "pushedAt": "2026-09-10T05:05:46Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -373,52 +419,6 @@
           "node": {
             "name": "HTML",
             "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-07-24T11:32:09Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 319318,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 144202,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 143800,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 49027,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -1436,9 +1436,9 @@
     "commits": 138
   },
   "burstDays": 27,
-  "burstThreshold": 45.5,
-  "longestGap": 65,
-  "meanGapDays": 1.1320754716981132,
+  "burstThreshold": 45.400000000000006,
+  "longestGap": 64,
+  "meanGapDays": 1.131578947368421,
   "hourDistribution": [
     70,
     24,
@@ -1447,14 +1447,14 @@
     18,
     17,
     142,
-    125,
+    126,
     199,
     313,
     388,
     363,
     456,
     388,
-    341,
+    345,
     328,
     275,
     269,
@@ -1468,18 +1468,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 143,
-    "morning (06\u201312)": 1530,
-    "afternoon (12\u201318)": 2057,
+    "morning (06\u201312)": 1531,
+    "afternoon (12\u201318)": 2061,
     "evening (18\u201324)": 1267
   },
-  "additionsPct": 82.25041162827753,
-  "avgCommitSize": 497.34880928557135,
+  "additionsPct": 82.23700432696349,
+  "avgCommitSize": 497.00899640143945,
   "prActiveWeeks": 39,
   "prThis4w": 29,
   "prPrev4w": 68,
   "prTrendPct": -57.35294117647059,
   "daily": {
-    "2025-09-10": 0,
     "2025-09-11": 0,
     "2025-09-12": 0,
     "2025-09-13": 0,
@@ -1844,19 +1843,20 @@
     "2026-09-07": 14,
     "2026-09-08": 1,
     "2026-09-09": 1,
-    "2026-09-10": 1
+    "2026-09-10": 5,
+    "2026-09-11": 1
   },
-  "activeDaysPct": 72.6775956284153,
-  "commitTotal": 4997,
-  "commitMean": 13.653005464480874,
+  "activeDaysPct": 72.95081967213115,
+  "commitTotal": 5002,
+  "commitMean": 13.666666666666666,
   "commitMedian": 6.0,
   "commitP95": 49.5,
-  "commitActiveMean": 18.785714285714285,
+  "commitActiveMean": 18.734082397003746,
   "commitMax": 138,
-  "currentStreak": 234,
-  "longestStreak": 234,
-  "additions": 2044130,
-  "deletions": 441122,
+  "currentStreak": 235,
+  "longestStreak": 235,
+  "additions": 2044444,
+  "deletions": 441595,
   "prs": 535,
   "mergedPrs": 511,
   "prMergeRatio": 95.51401869158879,
@@ -1984,11 +1984,11 @@
       7
     ],
     [
-      "pomo",
-      1
+      "dotfiles",
+      4
     ],
     [
-      "pravah",
+      "pomo",
       1
     ]
   ],
@@ -1999,19 +1999,19 @@
     ],
     [
       "vidyut",
-      80
+      70
     ],
     [
       "hyprfolio",
       66
     ],
     [
-      "pravah",
-      40
-    ],
-    [
       "praxis",
       16
+    ],
+    [
+      "pravah",
+      15
     ]
   ],
   "topYear": [
@@ -2029,7 +2029,7 @@
     ],
     [
       "hyprfolio",
-      378
+      379
     ],
     [
       "fateWheel",
@@ -2049,7 +2049,7 @@
     ],
     [
       "dotfiles",
-      144
+      148
     ],
     [
       "fieldForce",
@@ -2187,11 +2187,11 @@
     ],
     [
       "CSS",
-      542331
+      542161
     ],
     [
       "Shell",
-      412668
+      407221
     ],
     [
       "Svelte",
@@ -2202,12 +2202,12 @@
       196708
     ],
     [
-      "Lua",
-      144202
-    ],
-    [
       "QML",
       143779
+    ],
+    [
+      "Lua",
+      142510
     ],
     [
       "Astro",
@@ -2241,7 +2241,7 @@
     ],
     [
       "Linux / CLI",
-      926
+      931
     ],
     [
       "Other",
@@ -2255,9 +2255,9 @@
   "weekdayMean": [
     14.461538461538462,
     11.653846153846153,
-    13.88679245283019,
-    17.09433962264151,
-    12.76923076923077,
+    14.153846153846153,
+    17.169811320754718,
+    12.547169811320755,
     13.653846153846153,
     11.98076923076923
   ],
@@ -2266,7 +2266,7 @@
     39,
     38,
     38,
-    38,
+    39,
     36,
     39
   ],
@@ -2319,18 +2319,18 @@
     ],
     [
       "2026-09-01",
-      56
+      61
     ]
   ],
-  "velocity30d": 317,
-  "velocityPrev30d": 611,
-  "velocityTrendPct": -48.117839607201304,
-  "momentum7d": 38,
+  "velocity30d": 286,
+  "velocityPrev30d": 646,
+  "velocityTrendPct": -55.72755417956656,
+  "momentum7d": 42,
   "momentumScore": 79,
-  "shipping7d": 5,
-  "shipping30d": 5,
-  "focusTop3Pct": 42.385431258755254,
-  "hhi": 0.09801490259775236,
-  "entropy": 4.0341095058983285,
-  "entropyNormalized": 0.7864860434823637
+  "shipping7d": 6,
+  "shipping30d": 6,
+  "focusTop3Pct": 42.34306277489004,
+  "hhi": 0.0978959875466047,
+  "entropy": 4.034897995676781,
+  "entropyNormalized": 0.786639766678344
 }
