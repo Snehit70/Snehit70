@@ -1,39 +1,46 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-08",
   "windowDays": 366,
   "repos": [
     {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-10-07T02:52:08Z",
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-10-08T03:39:44Z",
       "isPrivate": true,
-      "primaryLanguage": "TypeScript",
+      "primaryLanguage": "Shell",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 130634,
+          "size": 316544,
           "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
+            "name": "Shell",
+            "color": "#89e051"
           }
         },
         {
-          "size": 109528,
+          "size": 169991,
           "node": {
-            "name": "Vue",
-            "color": "#41b883"
+            "name": "Python",
+            "color": "#3572A5"
           }
         },
         {
-          "size": 2678,
+          "size": 145559,
           "node": {
-            "name": "HTML",
-            "color": "#e34c26"
+            "name": "Lua",
+            "color": "#000080"
           }
         },
         {
-          "size": 835,
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 49291,
           "node": {
             "name": "CSS",
             "color": "#663399"
@@ -45,13 +52,13 @@
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-10-06T14:19:49Z",
+      "pushedAt": "2026-10-08T03:23:31Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 4148315,
+          "size": 4177327,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -65,7 +72,7 @@
           }
         },
         {
-          "size": 37550,
+          "size": 59541,
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -102,10 +109,162 @@
       ]
     },
     {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-10-08T03:09:38Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 130634,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 109528,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2678,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tds-2026-sep-ga1-portfolio-24f2005206",
+      "description": "IITM BS TDS 2026 Sep GA1 portfolio and submission artifacts",
+      "url": "https://github.com/Snehit70/tds-2026-sep-ga1-portfolio-24f2005206",
+      "pushedAt": "2026-10-07T12:31:36Z",
+      "isPrivate": false,
+      "primaryLanguage": "HTML",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 2728,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tds-ga0-sep-2026",
+      "description": "",
+      "url": "https://github.com/Snehit70/tds-ga0-sep-2026",
+      "pushedAt": "2026-10-07T09:48:28Z",
+      "isPrivate": true,
+      "primaryLanguage": null,
+      "defaultBranch": "main",
+      "languages": []
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-10-07T09:23:47Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 829541,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 28058,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 368,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "aceon",
+      "description": "a library of all lectures",
+      "url": "https://github.com/Snehit70/aceon",
+      "pushedAt": "2026-10-07T08:49:35Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 624009,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 20503,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3396,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1413,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-10-06T06:44:34Z",
+      "pushedAt": "2026-10-07T06:20:40Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -168,52 +327,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-10-01T14:16:23Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 316312,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 169991,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 144009,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 49291,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -409,52 +522,6 @@
       ]
     },
     {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-09-06T16:01:12Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 829541,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 28058,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 368,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
       "name": "pravah-cli-skill",
       "description": "Agent skill for safely using the Pravah CLI",
       "url": "https://github.com/Snehit70/pravah-cli-skill",
@@ -581,45 +648,6 @@
           "node": {
             "name": "PureBasic",
             "color": "#5a6986"
-          }
-        }
-      ]
-    },
-    {
-      "name": "aceon",
-      "description": "a library of all lectures",
-      "url": "https://github.com/Snehit70/aceon",
-      "pushedAt": "2026-06-29T13:35:24Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 617697,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 20503,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 3396,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 1413,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1491,17 +1519,17 @@
       ]
     }
   ],
-  "reposAnalyzed": 37,
-  "reposPublic": 27,
-  "reposPrivate": 15,
+  "reposAnalyzed": 38,
+  "reposPublic": 28,
+  "reposPrivate": 16,
   "biggestDay": {
     "date": "2026-01-22",
     "commits": 138
   },
   "burstDays": 31,
   "burstThreshold": 44.0,
-  "longestGap": 38,
-  "meanGapDays": 1.11986301369863,
+  "longestGap": 37,
+  "meanGapDays": 1.1194539249146758,
   "hourDistribution": [
     81,
     25,
@@ -1511,17 +1539,17 @@
     17,
     142,
     144,
-    220,
-    318,
+    222,
+    321,
     401,
     382,
     482,
     402,
-    355,
+    356,
     333,
     296,
     273,
-    260,
+    261,
     295,
     213,
     211,
@@ -1531,18 +1559,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 155,
-    "morning (06\u201312)": 1607,
-    "afternoon (12\u201318)": 2141,
-    "evening (18\u201324)": 1369
+    "morning (06\u201312)": 1612,
+    "afternoon (12\u201318)": 2142,
+    "evening (18\u201324)": 1370
   },
-  "additionsPct": 82.20915928493565,
-  "avgCommitSize": 492.95732169954476,
+  "additionsPct": 82.2149744186118,
+  "avgCommitSize": 492.5796552377344,
   "prActiveWeeks": 43,
-  "prThis4w": 33,
+  "prThis4w": 35,
   "prPrev4w": 31,
-  "prTrendPct": 6.451612903225806,
+  "prTrendPct": 12.903225806451612,
   "daily": {
-    "2025-10-07": 0,
     "2025-10-08": 0,
     "2025-10-09": 0,
     "2025-10-10": 0,
@@ -1907,23 +1934,24 @@
     "2026-10-04": 15,
     "2026-10-05": 8,
     "2026-10-06": 2,
-    "2026-10-07": 1
+    "2026-10-07": 3,
+    "2026-10-08": 5
   },
-  "activeDaysPct": 80.05464480874316,
-  "commitTotal": 5272,
-  "commitMean": 14.404371584699453,
+  "activeDaysPct": 80.32786885245902,
+  "commitTotal": 5279,
+  "commitMean": 14.423497267759563,
   "commitMedian": 8.0,
   "commitP95": 49.5,
-  "commitActiveMean": 17.993174061433447,
+  "commitActiveMean": 17.95578231292517,
   "commitMax": 138,
-  "currentStreak": 261,
-  "longestStreak": 261,
-  "additions": 2136510,
-  "deletions": 462361,
-  "prs": 570,
-  "mergedPrs": 546,
-  "prMergeRatio": 95.78947368421052,
-  "prWeeklyMean": 13.255813953488373,
+  "currentStreak": 262,
+  "longestStreak": 262,
+  "additions": 2137859,
+  "deletions": 462469,
+  "prs": 572,
+  "mergedPrs": 547,
+  "prMergeRatio": 95.62937062937063,
+  "prWeeklyMean": 13.30232558139535,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 34.49999999999999,
   "prWeeklyMax": 85,
@@ -2030,13 +2058,13 @@
     ],
     [
       "2026-10-05",
-      5
+      7
     ]
   ],
   "topWeek": [
     [
       "pravah",
-      39
+      40
     ],
     [
       "hyprfolio",
@@ -2044,17 +2072,21 @@
     ],
     [
       "dotfiles",
-      4
+      3
     ],
     [
-      "agentObservatory",
+      "tds-2026-sep-ga1-portfolio-24f2005206",
+      1
+    ],
+    [
+      "aceon",
       1
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      113
+      114
     ],
     [
       "vidyut",
@@ -2069,14 +2101,14 @@
       27
     ],
     [
-      "improv",
-      18
+      "dotfiles",
+      20
     ]
   ],
   "topYear": [
     [
       "pravah",
-      1327
+      1328
     ],
     [
       "pomo",
@@ -2088,7 +2120,7 @@
     ],
     [
       "hyprfolio",
-      413
+      414
     ],
     [
       "fateWheel",
@@ -2100,11 +2132,11 @@
     ],
     [
       "aceon",
-      283
+      284
     ],
     [
       "dotfiles",
-      161
+      164
     ],
     [
       "saksham",
@@ -2215,6 +2247,10 @@
       2
     ],
     [
+      "tds-2026-sep-ga1-portfolio-24f2005206",
+      1
+    ],
+    [
       "tds-2026-05-ga0",
       1
     ],
@@ -2226,15 +2262,15 @@
   "languages": [
     [
       "TypeScript",
-      9419294
+      9454618
     ],
     [
       "HTML",
-      1873524
+      1876252
     ],
     [
       "JavaScript",
-      1153784
+      1175775
     ],
     [
       "Kotlin",
@@ -2258,7 +2294,7 @@
     ],
     [
       "Shell",
-      415822
+      416054
     ],
     [
       "Svelte",
@@ -2274,7 +2310,7 @@
     ],
     [
       "Lua",
-      145062
+      146612
     ],
     [
       "Astro",
@@ -2312,19 +2348,19 @@
   "categories": [
     [
       "AI / Voice",
-      1904
+      1905
     ],
     [
       "Web Apps",
-      1197
+      1198
     ],
     [
       "Linux / CLI",
-      1023
+      1027
     ],
     [
       "Other",
-      676
+      677
     ],
     [
       "Mobile",
@@ -2333,9 +2369,9 @@
   ],
   "weekdayMean": [
     15.596153846153847,
-    12.226415094339623,
-    14.867924528301886,
-    17.78846153846154,
+    12.461538461538462,
+    14.90566037735849,
+    17.547169811320753,
     13.26923076923077,
     14.096153846153847,
     13.01923076923077
@@ -2344,7 +2380,7 @@
     42,
     43,
     42,
-    41,
+    42,
     42,
     40,
     43
@@ -2398,18 +2434,18 @@
     ],
     [
       "2026-10-01",
-      51
+      58
     ]
   ],
-  "velocity30d": 260,
-  "velocityPrev30d": 388,
-  "velocityTrendPct": -32.98969072164948,
-  "momentum7d": 51,
+  "velocity30d": 266,
+  "velocityPrev30d": 339,
+  "velocityTrendPct": -21.533923303834808,
+  "momentum7d": 53,
   "momentumScore": 82,
-  "shipping7d": 4,
-  "shipping30d": 8,
-  "focusTop3Pct": 42.83004552352049,
-  "hhi": 0.10136099956019261,
-  "entropy": 4.024840910301076,
-  "entropyNormalized": 0.7726033093714328
+  "shipping7d": 6,
+  "shipping30d": 10,
+  "focusTop3Pct": 42.792195491570375,
+  "hhi": 0.10127268201365149,
+  "entropy": 4.026844733573649,
+  "entropyNormalized": 0.7673209516057727
 }
