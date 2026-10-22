@@ -4,11 +4,14 @@
 
 > Building for the joy of it. Shipping for the thrill of it.
 
-<div align="center">
-  <img width="100%" src="./assets/profile-telemetry.svg" alt="Snehit's build telemetry" />
-  <br />
-  <img width="100%" src="./assets/profile-distribution.svg" alt="Snehit's codebase composition" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-activity-dark.svg" />
+  <img width="100%" src="./assets/profile-activity-light.svg" alt="Build activity over the last 12 months: streak, commits, releases, weekly commits by project with release milestones, and when commits happen by weekday and hour" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stack-dark.svg" />
+  <img width="100%" src="./assets/profile-stack-light.svg" alt="Newest release of each app, language mix, commits by project, and pull requests" />
+</picture>
 
 ## Currently Working
 
