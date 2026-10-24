@@ -1,84 +1,49 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "windowDays": 366,
   "repos": [
     {
-      "name": "vidyut",
-      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. end-to-end encrypted.",
-      "url": "https://github.com/Snehit70/vidyut",
-      "pushedAt": "2026-10-23T04:12:45Z",
-      "isPrivate": false,
-      "primaryLanguage": "Dart",
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-10-24T04:28:28Z",
+      "isPrivate": true,
+      "primaryLanguage": "Shell",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 1087155,
-          "node": {
-            "name": "Dart",
-            "color": "#00B4AB"
-          }
-        },
-        {
-          "size": 496904,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 120080,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 107444,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
-          }
-        },
-        {
-          "size": 33728,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 21441,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 18891,
-          "node": {
-            "name": "Rust",
-            "color": "#dea584"
-          }
-        },
-        {
-          "size": 14426,
-          "node": {
-            "name": "Rhai",
-            "color": "#FBA63B"
-          }
-        },
-        {
-          "size": 12263,
+          "size": 313111,
           "node": {
             "name": "Shell",
             "color": "#89e051"
           }
         },
         {
-          "size": 3861,
+          "size": 172972,
           "node": {
             "name": "Python",
             "color": "#3572A5"
+          }
+        },
+        {
+          "size": 146177,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 58904,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 49291,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
           }
         }
       ]
@@ -87,7 +52,7 @@
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-10-23T02:09:57Z",
+      "pushedAt": "2026-10-24T02:08:05Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -126,13 +91,13 @@
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-10-23T01:55:39Z",
+      "pushedAt": "2026-10-23T17:08:34Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 4291896,
+          "size": 4339838,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -146,7 +111,7 @@
           }
         },
         {
-          "size": 70140,
+          "size": 78855,
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -160,6 +125,13 @@
           }
         },
         {
+          "size": 17947,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
           "size": 16801,
           "node": {
             "name": "CSS",
@@ -167,10 +139,10 @@
           }
         },
         {
-          "size": 13695,
+          "size": 11755,
           "node": {
-            "name": "Shell",
-            "color": "#89e051"
+            "name": "Python",
+            "color": "#3572A5"
           }
         },
         {
@@ -183,47 +155,121 @@
       ]
     },
     {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-10-22T16:56:50Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
+      "name": "aceon",
+      "description": "a library of all lectures",
+      "url": "https://github.com/Snehit70/aceon",
+      "pushedAt": "2026-10-23T10:46:03Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 317651,
+          "size": 686127,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 20503,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 3396,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1413,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vidyut",
+      "description": "Universal-clipboard-style image & text sync between a Linux/Wayland laptop and an Android phone over the same WiFi. end-to-end encrypted.",
+      "url": "https://github.com/Snehit70/vidyut",
+      "pushedAt": "2026-10-23T10:38:47Z",
+      "isPrivate": false,
+      "primaryLanguage": "Dart",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1162085,
+          "node": {
+            "name": "Dart",
+            "color": "#00B4AB"
+          }
+        },
+        {
+          "size": 542193,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 122729,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 109461,
+          "node": {
+            "name": "Kotlin",
+            "color": "#A97BFF"
+          }
+        },
+        {
+          "size": 33728,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 22018,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 18891,
+          "node": {
+            "name": "Rust",
+            "color": "#dea584"
+          }
+        },
+        {
+          "size": 14426,
+          "node": {
+            "name": "Rhai",
+            "color": "#FBA63B"
+          }
+        },
+        {
+          "size": 12263,
           "node": {
             "name": "Shell",
             "color": "#89e051"
           }
         },
         {
-          "size": 169991,
+          "size": 3861,
           "node": {
             "name": "Python",
             "color": "#3572A5"
-          }
-        },
-        {
-          "size": 146359,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 58904,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 49291,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -232,7 +278,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-10-22T14:24:53Z",
+      "pushedAt": "2026-10-23T05:13:37Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -462,45 +508,6 @@
           "node": {
             "name": "MDX",
             "color": "#fcb32c"
-          }
-        }
-      ]
-    },
-    {
-      "name": "aceon",
-      "description": "a library of all lectures",
-      "url": "https://github.com/Snehit70/aceon",
-      "pushedAt": "2026-10-14T15:45:25Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 631230,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 20503,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 3396,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 1413,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1663,8 +1670,8 @@
   },
   "burstDays": 32,
   "burstThreshold": 44.0,
-  "longestGap": 22,
-  "meanGapDays": 1.1136363636363635,
+  "longestGap": 21,
+  "meanGapDays": 1.1132686084142396,
   "hourDistribution": [
     91,
     37,
@@ -1673,39 +1680,38 @@
     18,
     17,
     142,
-    161,
+    162,
     231,
-    341,
-    422,
-    401,
-    496,
-    411,
-    367,
-    353,
-    296,
+    350,
+    427,
+    405,
+    497,
+    413,
+    368,
+    356,
+    297,
     286,
     262,
     306,
     223,
     220,
-    259,
+    261,
     169
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 177,
-    "morning (06\u201312)": 1698,
-    "afternoon (12\u201318)": 2209,
-    "evening (18\u201324)": 1439
+    "morning (06\u201312)": 1717,
+    "afternoon (12\u201318)": 2217,
+    "evening (18\u201324)": 1441
   },
-  "additionsPct": 82.1554878997504,
-  "avgCommitSize": 500.391453919971,
+  "additionsPct": 82.16816919384847,
+  "avgCommitSize": 500.97712536023056,
   "prActiveWeeks": 45,
-  "prThis4w": 38,
+  "prThis4w": 45,
   "prPrev4w": 35,
-  "prTrendPct": 8.571428571428571,
+  "prTrendPct": 28.57142857142857,
   "daily": {
-    "2025-10-23": 0,
     "2025-10-24": 0,
     "2025-10-25": 0,
     "2025-10-26": 0,
@@ -2070,23 +2076,24 @@
     "2026-10-20": 16,
     "2026-10-21": 10,
     "2026-10-22": 63,
-    "2026-10-23": 14
+    "2026-10-23": 33,
+    "2026-10-24": 10
   },
-  "activeDaysPct": 84.42622950819673,
-  "commitTotal": 5523,
-  "commitMean": 15.09016393442623,
-  "commitMedian": 8.5,
+  "activeDaysPct": 84.69945355191257,
+  "commitTotal": 5552,
+  "commitMean": 15.169398907103826,
+  "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.87378640776699,
+  "commitActiveMean": 17.90967741935484,
   "commitMax": 138,
-  "currentStreak": 277,
-  "longestStreak": 277,
-  "additions": 2270500,
-  "deletions": 493162,
-  "prs": 590,
-  "mergedPrs": 565,
-  "prMergeRatio": 95.76271186440678,
-  "prWeeklyMean": 13.11111111111111,
+  "currentStreak": 278,
+  "longestStreak": 278,
+  "additions": 2285446,
+  "deletions": 495979,
+  "prs": 597,
+  "mergedPrs": 573,
+  "prMergeRatio": 95.97989949748744,
+  "prWeeklyMean": 13.266666666666667,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 33.999999999999986,
   "prWeeklyMax": 85,
@@ -2193,35 +2200,35 @@
     ],
     [
       "2026-10-19",
-      11
+      18
     ]
   ],
   "topWeek": [
     [
-      "blog",
-      37
+      "vidyut",
+      33
     ],
     [
       "kavach",
       24
     ],
     [
-      "vidyut",
-      19
+      "blog",
+      15
     ],
     [
       "saarthi",
       13
     ],
     [
-      "pravah",
-      9
+      "dotfiles",
+      12
     ]
   ],
   "topMonth": [
     [
       "pravah",
-      124
+      119
     ],
     [
       "blog",
@@ -2229,7 +2236,7 @@
     ],
     [
       "vidyut",
-      52
+      66
     ],
     [
       "hyprfolio",
@@ -2243,7 +2250,7 @@
   "topYear": [
     [
       "pravah",
-      1356
+      1359
     ],
     [
       "pomo",
@@ -2255,7 +2262,7 @@
     ],
     [
       "hyprfolio",
-      435
+      436
     ],
     [
       "fateWheel",
@@ -2263,15 +2270,15 @@
     ],
     [
       "vidyut",
-      304
+      318
     ],
     [
       "aceon",
-      285
+      287
     ],
     [
       "dotfiles",
-      170
+      179
     ],
     [
       "saksham",
@@ -2413,7 +2420,7 @@
   "languages": [
     [
       "TypeScript",
-      10687577
+      10835705
     ],
     [
       "HTML",
@@ -2421,19 +2428,19 @@
     ],
     [
       "JavaScript",
-      1268584
-    ],
-    [
-      "Python",
-      1122169
-    ],
-    [
-      "Kotlin",
-      1109050
+      1279948
     ],
     [
       "Dart",
-      1087155
+      1162085
+    ],
+    [
+      "Python",
+      1136905
+    ],
+    [
+      "Kotlin",
+      1111067
     ],
     [
       "Vue",
@@ -2441,11 +2448,11 @@
     ],
     [
       "CSS",
-      631533
+      632110
     ],
     [
       "Shell",
-      417346
+      417058
     ],
     [
       "QML",
@@ -2465,7 +2472,7 @@
     ],
     [
       "Lua",
-      147412
+      147230
     ],
     [
       "C++",
@@ -2507,15 +2514,15 @@
   "categories": [
     [
       "AI / Voice",
-      1933
+      1936
     ],
     [
       "Web Apps",
-      1212
+      1214
     ],
     [
       "Linux / CLI",
-      1127
+      1151
     ],
     [
       "Other",
@@ -2530,9 +2537,9 @@
     15.634615384615385,
     12.807692307692308,
     15.673076923076923,
-    19.358490566037737,
-    13.81132075471698,
-    14.76923076923077,
+    19.73076923076923,
+    14.169811320754716,
+    14.679245283018869,
     13.51923076923077
   ],
   "weekdayActive": [
@@ -2541,7 +2548,7 @@
     44,
     44,
     45,
-    42,
+    43,
     45
   ],
   "bestWeekday": 3,
@@ -2593,20 +2600,20 @@
     ],
     [
       "2026-10-01",
-      270
+      299
     ]
   ],
-  "velocity30d": 367,
-  "velocityPrev30d": 240,
-  "velocityTrendPct": 52.916666666666664,
-  "momentum7d": 129,
+  "velocity30d": 387,
+  "velocityPrev30d": 246,
+  "velocityTrendPct": 57.3170731707317,
+  "momentum7d": 134,
   "momentumScore": 94,
-  "shipping7d": 11,
+  "shipping7d": 12,
   "shipping30d": 16,
-  "focusTop3Pct": 41.40865471663951,
-  "hhi": 0.0965150950239233,
-  "entropy": 4.126530199429628,
-  "entropyNormalized": 0.765260995578252,
+  "focusTop3Pct": 41.2463976945245,
+  "hhi": 0.0962234706292719,
+  "entropy": 4.126834281018873,
+  "entropyNormalized": 0.7653173872120159,
   "punchcard": [
     [
       25,
@@ -2723,19 +2730,19 @@
       21,
       53,
       48,
-      59,
-      68,
-      54,
+      64,
+      72,
+      55,
+      34,
+      57,
+      55,
       32,
-      56,
-      52,
-      31,
       27,
       47,
       49,
       22,
       15,
-      26,
+      28,
       11
     ],
     [
@@ -2746,9 +2753,9 @@
       0,
       2,
       19,
-      25,
+      26,
       12,
-      22,
+      31,
       64,
       55,
       53,
@@ -2792,6 +2799,30 @@
     ]
   ],
   "releases": [
+    {
+      "repo": "vidyut",
+      "tag": "v1.17.1",
+      "date": "2026-10-23",
+      "at": "2026-10-23T15:49:20+05:30"
+    },
+    {
+      "repo": "pravah",
+      "tag": "mobile-v3.0.34",
+      "date": "2026-10-23",
+      "at": "2026-10-23T14:59:28+05:30"
+    },
+    {
+      "repo": "vidyut",
+      "tag": "v1.17.0",
+      "date": "2026-10-23",
+      "at": "2026-10-23T13:36:20+05:30"
+    },
+    {
+      "repo": "vidyut",
+      "tag": "v1.16.0",
+      "date": "2026-10-23",
+      "at": "2026-10-23T12:11:28+05:30"
+    },
     {
       "repo": "vidyut",
       "tag": "v1.15.0",
