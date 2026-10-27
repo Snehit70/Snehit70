@@ -18,29 +18,29 @@
 </style>
 <rect x="0.5" y="0.5" width="879" height="577" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28.0" y="44.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" text-anchor="start" >Shipping &amp; stack</text>
-<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >+2.29M / −496K lines · 31 public, 17 private repos</text>
+<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >+2.29M / −497K lines · 31 public, 17 private repos</text>
 <line x1="28" y1="62.0" x2="852" y2="62.0" stroke="#eff2f5"/>
 <text x="28.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">SHIPPED LATELY</text>
 <text x="852.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >newest release of each app</text>
 <g class="fade" style="animation-delay:100ms">
-<circle cx="32.0" cy="124" r="4" fill="#e87ba4"/>
-<text x="42.0" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Vidyut</text>
-<text x="28.0" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >v1.17.1</text>
-<text x="28.0" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct 23 · 38 releases</text>
+<circle cx="32.0" cy="124" r="4" fill="#eb6834"/>
+<text x="42.0" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Pomo</text>
+<text x="28.0" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >v2.20.4</text>
+<text x="28.0" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct 26 · 66 releases</text>
 </g>
 <g class="fade" style="animation-delay:190ms">
 <line x1="192.8" y1="114" x2="192.8" y2="170" stroke="#eff2f5"/>
-<circle cx="214.8" cy="124" r="4" fill="#2a78d6"/>
-<text x="224.8" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Pravah</text>
-<text x="210.8" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mobile-v3.0.34</text>
-<text x="210.8" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct 23 · 71 releases</text>
+<circle cx="214.8" cy="124" r="4" fill="#e87ba4"/>
+<text x="224.8" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Vidyut</text>
+<text x="210.8" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >v1.17.1</text>
+<text x="210.8" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct 23 · 38 releases</text>
 </g>
 <g class="fade" style="animation-delay:280ms">
 <line x1="357.6" y1="114" x2="357.6" y2="170" stroke="#eff2f5"/>
-<circle cx="379.6" cy="124" r="4" fill="#eb6834"/>
-<text x="389.6" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Pomo</text>
-<text x="375.6" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >v2.20.3</text>
-<text x="375.6" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Sep 26 · 65 releases</text>
+<circle cx="379.6" cy="124" r="4" fill="#2a78d6"/>
+<text x="389.6" y="128.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Pravah</text>
+<text x="375.6" y="150.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mobile-v3.0.34</text>
+<text x="375.6" y="168.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct 23 · 71 releases</text>
 </g>
 <g class="fade" style="animation-delay:370ms">
 <line x1="522.4" y1="114" x2="522.4" y2="170" stroke="#eff2f5"/>
@@ -60,28 +60,28 @@
 <text x="28.0" y="220.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">LANGUAGES</text>
 <text x="852.0" y="220.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >23 languages · by bytes</text>
 <clipPath id="lc"><rect x="28" y="236" width="824" height="10" rx="5"/></clipPath><g clip-path="url(#lc)"><g class="grow" style="animation-delay:500ms">
-<rect x="28.0" y="236" width="438.1" height="10" fill="#3178c6"/>
-<rect x="468.1" y="236" width="74.3" height="10" fill="#e34c26"/>
-<rect x="544.4" y="236" width="49.9" height="10" fill="#f1e05a"/>
-<rect x="596.2" y="236" width="45.1" height="10" fill="#00b4ab"/>
-<rect x="643.3" y="236" width="44.1" height="10" fill="#3572a5"/>
-<rect x="689.4" y="236" width="43.0" height="10" fill="#a97bff"/>
-<rect x="734.4" y="236" width="24.3" height="10" fill="#41b883"/>
-<rect x="760.7" y="236" width="23.6" height="10" fill="#663399"/>
-<rect x="786.3" y="236" width="63.7" height="10" fill="#d1d9e0"/>
+<rect x="28.0" y="236" width="437.3" height="10" fill="#3178c6"/>
+<rect x="467.3" y="236" width="74.1" height="10" fill="#e34c26"/>
+<rect x="543.4" y="236" width="49.8" height="10" fill="#f1e05a"/>
+<rect x="595.2" y="236" width="45.0" height="10" fill="#00b4ab"/>
+<rect x="642.2" y="236" width="44.5" height="10" fill="#a97bff"/>
+<rect x="688.7" y="236" width="44.0" height="10" fill="#3572a5"/>
+<rect x="734.6" y="236" width="24.2" height="10" fill="#41b883"/>
+<rect x="760.9" y="236" width="23.6" height="10" fill="#663399"/>
+<rect x="786.4" y="236" width="63.6" height="10" fill="#d1d9e0"/>
 </g></g>
 <circle cx="33.0" cy="272" r="5" fill="#3178c6"/>
-<text x="44.0" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">TypeScript<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">53.4%</tspan></text>
+<text x="44.0" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">TypeScript<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">53.3%</tspan></text>
 <circle cx="197.8" cy="272" r="5" fill="#e34c26"/>
-<text x="208.8" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">HTML<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">9.3%</tspan></text>
+<text x="208.8" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">HTML<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">9.2%</tspan></text>
 <circle cx="362.6" cy="272" r="5" fill="#f1e05a"/>
 <text x="373.6" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">JavaScript<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">6.3%</tspan></text>
 <circle cx="527.4000000000001" cy="272" r="5" fill="#00b4ab"/>
 <text x="538.4" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Dart<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">5.7%</tspan></text>
-<circle cx="692.2" cy="272" r="5" fill="#3572a5"/>
-<text x="703.2" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Python<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">5.6%</tspan></text>
-<circle cx="33.0" cy="294" r="5" fill="#a97bff"/>
-<text x="44.0" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Kotlin<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">5.5%</tspan></text>
+<circle cx="692.2" cy="272" r="5" fill="#a97bff"/>
+<text x="703.2" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Kotlin<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">5.6%</tspan></text>
+<circle cx="33.0" cy="294" r="5" fill="#3572a5"/>
+<text x="44.0" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Python<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">5.6%</tspan></text>
 <circle cx="197.8" cy="294" r="5" fill="#41b883"/>
 <text x="208.8" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Vue<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">3.2%</tspan></text>
 <circle cx="362.6" cy="294" r="5" fill="#663399"/>
@@ -94,8 +94,8 @@
 <text x="416.0" y="366.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >1,359</text>
 <rect x="138.0" y="359" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="359" width="232.0" height="6" rx="3" fill="#2a78d6" class="grow" style="animation-delay:800ms"/>
 <text x="28.0" y="390.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pomo</text>
-<text x="416.0" y="390.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >472</text>
-<rect x="138.0" y="383" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="383" width="80.6" height="6" rx="3" fill="#eb6834" class="grow" style="animation-delay:890ms"/>
+<text x="416.0" y="390.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >478</text>
+<rect x="138.0" y="383" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="383" width="81.6" height="6" rx="3" fill="#eb6834" class="grow" style="animation-delay:890ms"/>
 <text x="28.0" y="414.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Hyprvox</text>
 <text x="416.0" y="414.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >459</text>
 <rect x="138.0" y="407" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="407" width="78.4" height="6" rx="3" fill="#1baf7a" class="grow" style="animation-delay:980ms"/>
@@ -112,8 +112,8 @@
 <text x="416.0" y="510.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >160</text>
 <rect x="138.0" y="503" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="503" width="27.3" height="6" rx="3" fill="#59636e" class="grow" style="animation-delay:1340ms"/>
 <text x="28.0" y="534.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#818b98" text-anchor="start" >private repos</text>
-<text x="416.0" y="534.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >1,182</text>
-<rect x="138.0" y="527" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="527" width="201.8" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1430ms"/>
+<text x="416.0" y="534.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >1,183</text>
+<rect x="138.0" y="527" width="232.0" height="6" rx="3" fill="#f6f8fa"/><rect x="138.0" y="527" width="202.0" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1430ms"/>
 <text x="464.0" y="336.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">PULL REQUESTS · 12 MONTHS</text>
 <text x="852.0" y="336.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >weekly, last 26 weeks</text>
 <g class="rise" style="animation-delay:800ms">
@@ -192,13 +192,13 @@
 <path d="M823.7,454.0 V435.7 Q823.7,433.7 825.7,433.7 H833.6 Q835.6,433.7 835.6,435.7 V454.0 Z" fill="#d1d9e0" />
 </g>
 <g class="rise" style="animation-delay:1550ms">
-
+<path d="M838.6,454.0 V454.0 Q838.6,452.9 839.7,452.9 H849.4 Q850.5,452.9 850.5,454.0 V454.0 Z" fill="#d1d9e0" />
 </g>
 <text x="572.5" y="367.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >85 · week of Jun 15</text>
 <line x1="464.0" y1="454" x2="852.0" y2="454" stroke="#d1d9e0"/>
 <text x="464.0" y="470.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >May 4</text>
 <text x="852.0" y="470.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >this week</text>
-<text x="464.0" y="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">597<tspan font-size="12" font-weight="400" fill="#59636e" dx="6">opened</tspan></text>
+<text x="464.0" y="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">598<tspan font-size="12" font-weight="400" fill="#59636e" dx="6">opened</tspan></text>
 <text x="593.3" y="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">96%<tspan font-size="12" font-weight="400" fill="#59636e" dx="6">merged</tspan></text>
-<text x="722.7" y="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">45<tspan font-size="12" font-weight="400" fill="#59636e" dx="6">weeks with PRs</tspan></text>
+<text x="722.7" y="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">46<tspan font-size="12" font-weight="400" fill="#59636e" dx="6">weeks with PRs</tspan></text>
 </svg>
