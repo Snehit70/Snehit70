@@ -1,39 +1,39 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "windowDays": 366,
   "repos": [
     {
       "name": "blog",
       "description": "",
       "url": "https://github.com/Snehit70/blog",
-      "pushedAt": "2026-10-27T04:42:29Z",
+      "pushedAt": "2026-10-28T04:58:08Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 148785,
+          "size": 172760,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
           }
         },
         {
-          "size": 62526,
+          "size": 67651,
           "node": {
             "name": "Astro",
             "color": "#ff5a03"
           }
         },
         {
-          "size": 51771,
+          "size": 59141,
           "node": {
             "name": "CSS",
             "color": "#663399"
           }
         },
         {
-          "size": 18433,
+          "size": 44803,
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
@@ -52,7 +52,7 @@
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-10-27T02:34:10Z",
+      "pushedAt": "2026-10-28T02:43:27Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -83,6 +83,70 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-10-27T13:16:25Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1030827,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 31760,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1183,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-10-27T05:25:48Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 42616,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -157,70 +221,6 @@
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-10-26T05:11:20Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 42616,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-10-26T04:48:17Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1024073,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 31760,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 671,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1669,9 +1669,9 @@
     "commits": 138
   },
   "burstDays": 32,
-  "burstThreshold": 43.80000000000001,
-  "longestGap": 18,
-  "meanGapDays": 1.1121794871794872,
+  "burstThreshold": 43.69999999999999,
+  "longestGap": 17,
+  "meanGapDays": 1.1118210862619808,
   "hourDistribution": [
     91,
     37,
@@ -1681,17 +1681,17 @@
     17,
     142,
     164,
-    233,
-    350,
-    428,
-    405,
-    497,
-    413,
-    373,
+    234,
+    352,
+    431,
+    411,
+    501,
+    414,
+    374,
     357,
-    297,
-    286,
-    262,
+    298,
+    294,
+    263,
     306,
     223,
     220,
@@ -1701,18 +1701,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 177,
-    "morning (06\u201312)": 1722,
-    "afternoon (12\u201318)": 2223,
-    "evening (18\u201324)": 1441
+    "morning (06\u201312)": 1734,
+    "afternoon (12\u201318)": 2238,
+    "evening (18\u201324)": 1442
   },
-  "additionsPct": 82.16104978751618,
-  "avgCommitSize": 500.7835700161783,
+  "additionsPct": 82.15708587050584,
+  "avgCommitSize": 498.7252727597925,
   "prActiveWeeks": 46,
-  "prThis4w": 33,
+  "prThis4w": 34,
   "prPrev4w": 31,
-  "prTrendPct": 6.451612903225806,
+  "prTrendPct": 9.67741935483871,
   "daily": {
-    "2025-10-27": 0,
     "2025-10-28": 0,
     "2025-10-29": 0,
     "2025-10-30": 0,
@@ -2077,23 +2076,24 @@
     "2026-10-24": 10,
     "2026-10-25": 1,
     "2026-10-26": 9,
-    "2026-10-27": 1
+    "2026-10-27": 23,
+    "2026-10-28": 6
   },
-  "activeDaysPct": 85.51912568306011,
-  "commitTotal": 5563,
-  "commitMean": 15.199453551912569,
+  "activeDaysPct": 85.79234972677595,
+  "commitTotal": 5591,
+  "commitMean": 15.275956284153006,
   "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.773162939297123,
+  "commitActiveMean": 17.805732484076433,
   "commitMax": 138,
-  "currentStreak": 281,
-  "longestStreak": 281,
-  "additions": 2288891,
-  "deletions": 496968,
-  "prs": 598,
-  "mergedPrs": 574,
-  "prMergeRatio": 95.9866220735786,
-  "prWeeklyMean": 13,
+  "currentStreak": 282,
+  "longestStreak": 282,
+  "additions": 2290846,
+  "deletions": 497527,
+  "prs": 599,
+  "mergedPrs": 575,
+  "prMergeRatio": 95.99332220367279,
+  "prWeeklyMean": 13.021739130434783,
   "prWeeklyMedian": 10.0,
   "prWeeklyP95": 33.75,
   "prWeeklyMax": 85,
@@ -2200,13 +2200,17 @@
     ],
     [
       "2026-10-26",
-      1
+      2
     ]
   ],
   "topWeek": [
     [
       "vidyut",
       33
+    ],
+    [
+      "blog",
+      26
     ],
     [
       "kavach",
@@ -2219,20 +2223,16 @@
     [
       "dotfiles",
       12
-    ],
-    [
-      "pravah",
-      11
     ]
   ],
   "topMonth": [
     [
-      "pravah",
-      104
+      "blog",
+      99
     ],
     [
-      "blog",
-      73
+      "pravah",
+      96
     ],
     [
       "vidyut",
@@ -2262,7 +2262,7 @@
     ],
     [
       "hyprfolio",
-      439
+      440
     ],
     [
       "fateWheel",
@@ -2286,7 +2286,7 @@
     ],
     [
       "praxis",
-      148
+      149
     ],
     [
       "fieldForce",
@@ -2295,6 +2295,10 @@
     [
       "PLMPRO",
       115
+    ],
+    [
+      "blog",
+      101
     ],
     [
       "coursestate",
@@ -2311,10 +2315,6 @@
     [
       "lazydev",
       90
-    ],
-    [
-      "blog",
-      75
     ],
     [
       "saarthi",
@@ -2420,15 +2420,15 @@
   "languages": [
     [
       "TypeScript",
-      10862488
+      10893217
     ],
     [
       "HTML",
-      1882903
+      1883415
     ],
     [
       "JavaScript",
-      1279948
+      1306318
     ],
     [
       "Dart",
@@ -2448,7 +2448,7 @@
     ],
     [
       "CSS",
-      632110
+      639480
     ],
     [
       "Shell",
@@ -2468,7 +2468,7 @@
     ],
     [
       "Astro",
-      173621
+      178746
     ],
     [
       "Lua",
@@ -2518,15 +2518,15 @@
     ],
     [
       "Web Apps",
-      1216
+      1217
     ],
     [
       "Linux / CLI",
-      1154
+      1155
     ],
     [
       "Other",
-      779
+      805
     ],
     [
       "Mobile",
@@ -2534,9 +2534,9 @@
     ]
   ],
   "weekdayMean": [
-    15.50943396226415,
-    12.584905660377359,
-    15.673076923076923,
+    15.807692307692308,
+    13.0,
+    15.49056603773585,
     19.73076923076923,
     14.442307692307692,
     14.961538461538462,
@@ -2545,7 +2545,7 @@
   "weekdayActive": [
     45,
     46,
-    44,
+    45,
     44,
     45,
     43,
@@ -2600,20 +2600,20 @@
     ],
     [
       "2026-10-01",
-      310
+      338
     ]
   ],
-  "velocity30d": 360,
-  "velocityPrev30d": 265,
-  "velocityTrendPct": 35.84905660377358,
-  "momentum7d": 127,
-  "momentumScore": 93,
+  "velocity30d": 379,
+  "velocityPrev30d": 267,
+  "velocityTrendPct": 41.947565543071164,
+  "momentum7d": 145,
+  "momentumScore": 94,
   "shipping7d": 13,
   "shipping30d": 16,
-  "focusTop3Pct": 41.272694589250406,
-  "hhi": 0.09613132064726597,
-  "entropy": 4.126362928813092,
-  "entropyNormalized": 0.7652299754057692,
+  "focusTop3Pct": 41.06599892684672,
+  "hhi": 0.09535488036337113,
+  "entropy": 4.135149824319843,
+  "entropyNormalized": 0.7668594965963491,
   "punchcard": [
     [
       25,
@@ -2653,14 +2653,14 @@
       27,
       42,
       47,
-      48,
-      59,
-      50,
-      22,
+      54,
+      63,
+      51,
+      23,
       52,
-      24,
-      31,
-      38,
+      25,
+      39,
+      39,
       38,
       26,
       43,
@@ -2676,9 +2676,9 @@
       2,
       18,
       42,
-      38,
-      53,
-      69,
+      39,
+      55,
+      72,
       67,
       41,
       68,
