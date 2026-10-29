@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="709" viewBox="0 0 880 709" role="img" aria-labelledby="t d">
-<title id="t">Atulya Rai — build activity</title><desc id="d">282-day streak, 5559 commits and 202 releases over the last year; weekly commits by project with release milestones, a weekday-by-hour commit punchcard, and the most active projects of the last 30 days.</desc>
+<title id="t">Atulya Rai — build activity</title><desc id="d">283-day streak, 5562 commits and 202 releases over the last year; weekly commits by project with release milestones, a weekday-by-hour commit punchcard, and the most active projects of the last 30 days.</desc>
 <style>
 @keyframes rise{from{transform:scaleY(0)}to{transform:scaleY(1)}}
 @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
@@ -18,11 +18,11 @@
 </style>
 <rect x="0.5" y="0.5" width="879" height="708" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="28.0" y="44.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#e6edf3" text-anchor="start" >Atulya Rai</text>
-<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end" >@Snehit70 · last 12 months · Oct 28, 2025 – Oct 28, 2026</text>
+<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end" >@Snehit70 · last 12 months · Oct 29, 2025 – Oct 29, 2026</text>
 <line x1="28" y1="62.0" x2="852" y2="62.0" stroke="#21262d"/>
 <g class="fade" style="animation-delay:0ms">
 <text x="28.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">STREAK</text>
-<text x="28.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">282<tspan font-size="14" font-weight="500" fill="#9198a1" dx="3">days</tspan></text>
+<text x="28.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">283<tspan font-size="14" font-weight="500" fill="#9198a1" dx="3">days</tspan></text>
 <circle cx="32.0" cy="146" r="3.5" fill="#3fb950"/>
 <text x="41.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >daily since Jan 20</text>
 </g>
@@ -30,7 +30,7 @@
 <line x1="192.8" y1="88" x2="192.8" y2="150" stroke="#21262d"/>
 <g class="fade" style="animation-delay:70ms">
 <text x="212.8" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">COMMITS</text>
-<text x="212.8" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">5,559</text>
+<text x="212.8" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">5,562</text>
 <text x="212.8" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >in 41 repos</text>
 </g>
 <line x1="357.6" y1="88" x2="357.6" y2="150" stroke="#21262d"/>
@@ -43,13 +43,13 @@
 <g class="fade" style="animation-delay:210ms">
 <text x="542.4" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">ACTIVE DAYS</text>
 <text x="542.4" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">86<tspan font-size="14" font-weight="500" fill="#9198a1" dx="3">%</tspan></text>
-<text x="542.4" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >314 of 366 days</text>
+<text x="542.4" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >315 of 366 days</text>
 </g>
 <line x1="687.2" y1="88" x2="687.2" y2="150" stroke="#21262d"/>
 <g class="fade" style="animation-delay:280ms">
 <text x="707.2" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">LAST 30 DAYS</text>
-<text x="707.2" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">378<tspan font-size="14" font-weight="500" fill="#9198a1" dx="3">commits</tspan></text>
-<text x="707.2" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >+42% on the 30 before</text>
+<text x="707.2" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">372<tspan font-size="14" font-weight="500" fill="#9198a1" dx="3">commits</tspan></text>
+<text x="707.2" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >+44% on the 30 before</text>
 </g>
 <line x1="28" y1="172.0" x2="852" y2="172.0" stroke="#21262d"/>
 <text x="28.0" y="196.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">THE YEAR, WEEK BY WEEK</text>
@@ -67,7 +67,7 @@
 <rect x="616.6" y="213" width="10" height="10" rx="2" fill="#9085e9"/>
 <text x="631.6" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Aceon<tspan dx="5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">287</tspan></text>
 <rect x="734.3" y="213" width="10" height="10" rx="2" fill="#3d444d"/>
-<text x="749.3" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Other<tspan dx="5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">2,304</tspan></text>
+<text x="749.3" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Other<tspan dx="5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">2,307</tspan></text>
 <line x1="62" y1="424.0" x2="852" y2="424.0" stroke="#21262d"/>
 <text x="54.0" y="428.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end" >0</text>
 <line x1="62" y1="349.0" x2="852" y2="349.0" stroke="#21262d"/>
@@ -329,7 +329,7 @@
 </g>
 <g class="rise" style="animation-delay:1082ms">
 <path d="M838.6,422.5 V421.8 Q838.6,421.8 838.6,421.8 H850.5 Q850.5,421.8 850.5,421.8 V422.5 Z" fill="#d95926"  opacity="0.45"/>
-<path d="M838.6,421.8 V411.8 Q838.6,409.8 840.6,409.8 H848.5 Q850.5,409.8 850.5,411.8 V421.8 Z" fill="#3d444d"  opacity="0.45"/>
+<path d="M838.6,421.8 V410.6 Q838.6,408.6 840.6,408.6 H848.5 Q850.5,408.6 850.5,410.6 V421.8 Z" fill="#3d444d"  opacity="0.45"/>
 </g>
 <g class="fade" style="animation-delay:1300ms">
 <line x1="331.4" y1="248.0" x2="331.4" y2="424.0" stroke="#9198a1" stroke-width="1" stroke-dasharray="1 3"/>
@@ -483,14 +483,14 @@
 <g class="rise" style="animation-delay:1050ms"><path d="M134.6,552.0 V552.0 Q134.6,550.8 135.7,550.8 H147.4 Q148.6,550.8 148.6,552.0 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1080ms"><path d="M151.5,552.0 V544.4 Q151.5,542.4 153.5,542.4 H163.5 Q165.5,542.4 165.5,544.4 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1110ms"><path d="M168.4,552.0 V542.8 Q168.4,540.8 170.4,540.8 H180.4 Q182.4,540.8 182.4,542.8 V552.0 Z" fill="#3d444d" /></g>
-<g class="rise" style="animation-delay:1140ms"><path d="M185.3,552.0 V538.1 Q185.3,536.1 187.3,536.1 H197.3 Q199.3,536.1 199.3,538.1 V552.0 Z" fill="#3d444d" /></g>
+<g class="rise" style="animation-delay:1140ms"><path d="M185.3,552.0 V538.0 Q185.3,536.0 187.3,536.0 H197.3 Q199.3,536.0 199.3,538.0 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1170ms"><path d="M202.2,552.0 V530.1 Q202.2,528.1 204.2,528.1 H214.2 Q216.2,528.1 216.2,530.1 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1200ms"><path d="M219.2,552.0 V524.7 Q219.2,522.7 221.2,522.7 H231.2 Q233.2,522.7 233.2,524.7 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1230ms"><path d="M236.1,552.0 V526.1 Q236.1,524.1 238.1,524.1 H248.1 Q250.1,524.1 250.1,526.1 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1260ms"><path d="M253.0,552.0 V520.0 Q253.0,518.0 255.0,518.0 H265.0 Q267.0,518.0 267.0,520.0 V552.0 Z" fill="#e6edf3" /></g>
 <g class="rise" style="animation-delay:1290ms"><path d="M269.9,552.0 V526.3 Q269.9,524.3 271.9,524.3 H281.9 Q283.9,524.3 283.9,526.3 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1320ms"><path d="M286.8,552.0 V528.8 Q286.8,526.8 288.8,526.8 H298.8 Q300.8,526.8 300.8,528.8 V552.0 Z" fill="#3d444d" /></g>
-<g class="rise" style="animation-delay:1350ms"><path d="M303.8,552.0 V530.2 Q303.8,528.2 305.8,528.2 H315.8 Q317.8,528.2 317.8,530.2 V552.0 Z" fill="#3d444d" /></g>
+<g class="rise" style="animation-delay:1350ms"><path d="M303.8,552.0 V530.1 Q303.8,528.1 305.8,528.1 H315.8 Q317.8,528.1 317.8,530.1 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1380ms"><path d="M320.7,552.0 V533.9 Q320.7,531.9 322.7,531.9 H332.7 Q334.7,531.9 334.7,533.9 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1410ms"><path d="M337.6,552.0 V534.1 Q337.6,532.1 339.6,532.1 H349.6 Q351.6,532.1 351.6,534.1 V552.0 Z" fill="#3d444d" /></g>
 <g class="rise" style="animation-delay:1440ms"><path d="M354.5,552.0 V536.2 Q354.5,534.2 356.5,534.2 H366.5 Q368.5,534.2 368.5,536.2 V552.0 Z" fill="#3d444d" /></g>
@@ -571,7 +571,7 @@
 <rect x="253.0" y="594" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1450ms"><title>W 12:00 · 41 commits</title></rect>
 <rect x="269.9" y="594" width="14" height="14" rx="3" fill="#d1d8de" class="show" style="animation-delay:1485ms"><title>W 13:00 · 68 commits</title></rect>
 <rect x="286.8" y="594" width="14" height="14" rx="3" fill="#d1d8de" class="show" style="animation-delay:1520ms"><title>W 14:00 · 84 commits</title></rect>
-<rect x="303.8" y="594" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1555ms"><title>W 15:00 · 45 commits</title></rect>
+<rect x="303.8" y="594" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1555ms"><title>W 15:00 · 47 commits</title></rect>
 <rect x="320.7" y="594" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1590ms"><title>W 16:00 · 51 commits</title></rect>
 <rect x="337.6" y="594" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1625ms"><title>W 17:00 · 51 commits</title></rect>
 <rect x="354.5" y="594" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1660ms"><title>W 18:00 · 31 commits</title></rect>
@@ -580,8 +580,8 @@
 <rect x="405.2" y="594" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1765ms"><title>W 21:00 · 34 commits</title></rect>
 <rect x="422.2" y="594" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1800ms"><title>W 22:00 · 31 commits</title></rect>
 <rect x="439.1" y="594" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1835ms"><title>W 23:00 · 11 commits</title></rect>
-<rect x="464.0" y="598" width="22.4" height="6" rx="3" fill="#3d444d" class="grow" style="animation-delay:1220ms"/>
-<text x="528.0" y="605.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end" >821</text>
+<rect x="464.0" y="598" width="22.5" height="6" rx="3" fill="#3d444d" class="grow" style="animation-delay:1220ms"/>
+<text x="528.0" y="605.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end" >823</text>
 <text x="40.0" y="622.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end" >T</text>
 <rect x="50.0" y="611" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1045ms"><title>T 00:00 · 6 commits</title></rect>
 <rect x="66.9" y="611" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1080ms"><title>T 01:00 · 14 commits</title></rect>
@@ -591,7 +591,7 @@
 <rect x="134.6" y="611" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1220ms"><title>T 05:00 · 1 commits</title></rect>
 <rect x="151.5" y="611" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1255ms"><title>T 06:00 · 20 commits</title></rect>
 <rect x="168.4" y="611" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1290ms"><title>T 07:00 · 18 commits</title></rect>
-<rect x="185.3" y="611" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1325ms"><title>T 08:00 · 46 commits</title></rect>
+<rect x="185.3" y="611" width="14" height="14" rx="3" fill="#9ba1a8" class="show" style="animation-delay:1325ms"><title>T 08:00 · 47 commits</title></rect>
 <rect x="202.2" y="611" width="14" height="14" rx="3" fill="#d1d8de" class="show" style="animation-delay:1360ms"><title>T 09:00 · 82 commits</title></rect>
 <rect x="219.2" y="611" width="14" height="14" rx="3" fill="#d1d8de" class="show" style="animation-delay:1395ms"><title>T 10:00 · 119 commits</title></rect>
 <rect x="236.1" y="611" width="14" height="14" rx="3" fill="#d1d8de" class="show" style="animation-delay:1430ms"><title>T 11:00 · 70 commits</title></rect>
@@ -608,7 +608,7 @@
 <rect x="422.2" y="611" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1815ms"><title>T 22:00 · 38 commits</title></rect>
 <rect x="439.1" y="611" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1850ms"><title>T 23:00 · 33 commits</title></rect>
 <rect x="464.0" y="615" width="28.0" height="6" rx="3" fill="#e6edf3" class="grow" style="animation-delay:1280ms"/>
-<text x="528.0" y="622.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end" >1,025</text>
+<text x="528.0" y="622.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#9198a1" text-anchor="end" >1,026</text>
 <text x="40.0" y="639.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end" >F</text>
 <rect x="50.0" y="628" width="14" height="14" rx="3" fill="#696f76" class="show" style="animation-delay:1060ms"><title>F 00:00 · 26 commits</title></rect>
 <rect x="66.9" y="628" width="14" height="14" rx="3" fill="#40454c" class="show" style="animation-delay:1095ms"><title>F 01:00 · 6 commits</title></rect>
@@ -696,8 +696,8 @@
 <text x="354.5" y="691.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7681" text-anchor="start" >18</text>
 <text x="572.0" y="500.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">BUSIEST PROJECTS · 30 DAYS</text>
 <text x="572.0" y="532.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start" >Pravah</text>
-<text x="852.0" y="532.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >96</text>
-<rect x="676.0" y="525" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="525" width="79.5" height="6" rx="3" fill="#3987e5" class="grow" style="animation-delay:1000ms"/>
+<text x="852.0" y="532.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >88</text>
+<rect x="676.0" y="525" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="525" width="72.9" height="6" rx="3" fill="#3987e5" class="grow" style="animation-delay:1000ms"/>
 <text x="572.0" y="558.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start" >Vidyut</text>
 <text x="852.0" y="558.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >47</text>
 <rect x="676.0" y="551" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="551" width="38.9" height="6" rx="3" fill="#d55181" class="grow" style="animation-delay:1090ms"/>
@@ -705,8 +705,8 @@
 <text x="852.0" y="584.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >24</text>
 <rect x="676.0" y="577" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="577" width="19.9" height="6" rx="3" fill="#9198a1" class="grow" style="animation-delay:1180ms"/>
 <text x="572.0" y="610.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start" >Praxis</text>
-<text x="852.0" y="610.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >16</text>
-<rect x="676.0" y="603" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="603" width="13.2" height="6" rx="3" fill="#9198a1" class="grow" style="animation-delay:1270ms"/>
+<text x="852.0" y="610.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >18</text>
+<rect x="676.0" y="603" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="603" width="14.9" height="6" rx="3" fill="#9198a1" class="grow" style="animation-delay:1270ms"/>
 <text x="572.0" y="636.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start" >Saarthi</text>
 <text x="852.0" y="636.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="end" >13</text>
 <rect x="676.0" y="629" width="130.0" height="6" rx="3" fill="#161b22"/><rect x="676.0" y="629" width="10.8" height="6" rx="3" fill="#9198a1" class="grow" style="animation-delay:1360ms"/>

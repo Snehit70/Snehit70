@@ -1,7 +1,110 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-10-29",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-10-29T03:02:40Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 134166,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 117368,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2678,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-10-28T10:18:45Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1034439,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 31760,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1183,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-10-28T06:04:32Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 42616,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
     {
       "name": "blog",
       "description": "",
@@ -44,109 +147,6 @@
           "node": {
             "name": "MDX",
             "color": "#fcb32c"
-          }
-        }
-      ]
-    },
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-10-28T02:43:27Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 134166,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 117368,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2678,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-10-27T13:16:25Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1030827,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 31760,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 1183,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-10-27T05:25:48Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 42616,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -1669,9 +1669,9 @@
     "commits": 138
   },
   "burstDays": 32,
-  "burstThreshold": 43.69999999999999,
-  "longestGap": 17,
-  "meanGapDays": 1.1118210862619808,
+  "burstThreshold": 43.60000000000002,
+  "longestGap": 16,
+  "meanGapDays": 1.1114649681528663,
   "hourDistribution": [
     91,
     37,
@@ -1681,14 +1681,14 @@
     17,
     142,
     164,
-    234,
+    235,
     352,
     431,
     411,
     501,
     414,
     374,
-    357,
+    359,
     298,
     294,
     263,
@@ -1701,18 +1701,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 177,
-    "morning (06\u201312)": 1734,
-    "afternoon (12\u201318)": 2238,
+    "morning (06\u201312)": 1735,
+    "afternoon (12\u201318)": 2240,
     "evening (18\u201324)": 1442
   },
-  "additionsPct": 82.15708587050584,
-  "avgCommitSize": 498.7252727597925,
+  "additionsPct": 82.15737844601104,
+  "avgCommitSize": 498.4830175187701,
   "prActiveWeeks": 46,
   "prThis4w": 34,
   "prPrev4w": 31,
   "prTrendPct": 9.67741935483871,
   "daily": {
-    "2025-10-28": 0,
     "2025-10-29": 0,
     "2025-10-30": 0,
     "2025-10-31": 0,
@@ -2077,19 +2076,20 @@
     "2026-10-25": 1,
     "2026-10-26": 9,
     "2026-10-27": 23,
-    "2026-10-28": 6
+    "2026-10-28": 8,
+    "2026-10-29": 1
   },
-  "activeDaysPct": 85.79234972677595,
-  "commitTotal": 5591,
-  "commitMean": 15.275956284153006,
+  "activeDaysPct": 86.0655737704918,
+  "commitTotal": 5594,
+  "commitMean": 15.28415300546448,
   "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.805732484076433,
+  "commitActiveMean": 17.75873015873016,
   "commitMax": 138,
-  "currentStreak": 282,
-  "longestStreak": 282,
-  "additions": 2290846,
-  "deletions": 497527,
+  "currentStreak": 283,
+  "longestStreak": 283,
+  "additions": 2290970,
+  "deletions": 497544,
   "prs": 599,
   "mergedPrs": 575,
   "prMergeRatio": 95.99332220367279,
@@ -2206,23 +2206,23 @@
   "topWeek": [
     [
       "vidyut",
-      33
+      27
     ],
     [
       "blog",
       26
     ],
     [
-      "kavach",
-      24
-    ],
-    [
-      "saarthi",
-      13
-    ],
-    [
       "dotfiles",
-      12
+      9
+    ],
+    [
+      "hyprfolio",
+      7
+    ],
+    [
+      "pomo",
+      6
     ]
   ],
   "topMonth": [
@@ -2232,7 +2232,7 @@
     ],
     [
       "pravah",
-      96
+      88
     ],
     [
       "vidyut",
@@ -2262,7 +2262,7 @@
     ],
     [
       "hyprfolio",
-      440
+      441
     ],
     [
       "fateWheel",
@@ -2286,7 +2286,7 @@
     ],
     [
       "praxis",
-      149
+      151
     ],
     [
       "fieldForce",
@@ -2420,7 +2420,7 @@
   "languages": [
     [
       "TypeScript",
-      10893217
+      10896829
     ],
     [
       "HTML",
@@ -2518,11 +2518,11 @@
     ],
     [
       "Web Apps",
-      1217
+      1219
     ],
     [
       "Linux / CLI",
-      1155
+      1156
     ],
     [
       "Other",
@@ -2535,9 +2535,9 @@
   ],
   "weekdayMean": [
     15.807692307692308,
-    13.0,
-    15.49056603773585,
-    19.73076923076923,
+    13.25,
+    15.528301886792454,
+    19.37735849056604,
     14.442307692307692,
     14.961538461538462,
     13.538461538461538
@@ -2546,7 +2546,7 @@
     45,
     46,
     45,
-    44,
+    45,
     45,
     43,
     46
@@ -2600,20 +2600,20 @@
     ],
     [
       "2026-10-01",
-      338
+      341
     ]
   ],
-  "velocity30d": 379,
-  "velocityPrev30d": 267,
-  "velocityTrendPct": 41.947565543071164,
-  "momentum7d": 145,
+  "velocity30d": 373,
+  "velocityPrev30d": 259,
+  "velocityTrendPct": 44.01544401544402,
+  "momentum7d": 85,
   "momentumScore": 94,
-  "shipping7d": 13,
+  "shipping7d": 8,
   "shipping30d": 16,
-  "focusTop3Pct": 41.06599892684672,
-  "hhi": 0.09535488036337113,
-  "entropy": 4.135149824319843,
-  "entropyNormalized": 0.7668594965963491,
+  "focusTop3Pct": 41.0439756882374,
+  "hhi": 0.09529995939006615,
+  "entropy": 4.135454037669219,
+  "entropyNormalized": 0.7669159126649008,
   "punchcard": [
     [
       25,
@@ -2683,7 +2683,7 @@
       41,
       68,
       84,
-      45,
+      47,
       51,
       51,
       31,
@@ -2702,7 +2702,7 @@
       1,
       20,
       18,
-      46,
+      47,
       82,
       119,
       70,
