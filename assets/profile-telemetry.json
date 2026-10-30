@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "windowDays": 366,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-10-29T03:02:40Z",
+      "pushedAt": "2026-10-30T03:07:00Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -37,6 +37,63 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-10-29T07:25:43Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 407735,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 17210,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9537,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2087,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-10-29T06:16:40Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 42616,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -83,24 +140,6 @@
           "node": {
             "name": "HTML",
             "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-10-28T06:04:32Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 42616,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -525,45 +564,6 @@
           "node": {
             "name": "Shell",
             "color": "#89e051"
-          }
-        }
-      ]
-    },
-    {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-10-22T08:00:20Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 407735,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 17210,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9537,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1669,9 +1669,9 @@
     "commits": 138
   },
   "burstDays": 32,
-  "burstThreshold": 43.60000000000002,
-  "longestGap": 16,
-  "meanGapDays": 1.1114649681528663,
+  "burstThreshold": 43.5,
+  "longestGap": 15,
+  "meanGapDays": 1.1111111111111112,
   "hourDistribution": [
     91,
     37,
@@ -1681,7 +1681,7 @@
     17,
     142,
     164,
-    235,
+    236,
     352,
     431,
     411,
@@ -1701,18 +1701,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 177,
-    "morning (06\u201312)": 1735,
+    "morning (06\u201312)": 1736,
     "afternoon (12\u201318)": 2240,
     "evening (18\u201324)": 1442
   },
-  "additionsPct": 82.15737844601104,
-  "avgCommitSize": 498.4830175187701,
+  "additionsPct": 82.15736178047328,
+  "avgCommitSize": 498.39445933869524,
   "prActiveWeeks": 46,
   "prThis4w": 34,
   "prPrev4w": 31,
   "prTrendPct": 9.67741935483871,
   "daily": {
-    "2025-10-29": 0,
     "2025-10-30": 0,
     "2025-10-31": 0,
     "2025-11-01": 0,
@@ -2077,19 +2076,20 @@
     "2026-10-26": 9,
     "2026-10-27": 23,
     "2026-10-28": 8,
-    "2026-10-29": 1
+    "2026-10-29": 1,
+    "2026-10-30": 1
   },
-  "activeDaysPct": 86.0655737704918,
-  "commitTotal": 5594,
-  "commitMean": 15.28415300546448,
+  "activeDaysPct": 86.33879781420765,
+  "commitTotal": 5595,
+  "commitMean": 15.28688524590164,
   "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.75873015873016,
+  "commitActiveMean": 17.705696202531644,
   "commitMax": 138,
-  "currentStreak": 283,
-  "longestStreak": 283,
-  "additions": 2290970,
-  "deletions": 497544,
+  "currentStreak": 284,
+  "longestStreak": 284,
+  "additions": 2290972,
+  "deletions": 497545,
   "prs": 599,
   "mergedPrs": 575,
   "prMergeRatio": 95.99332220367279,
@@ -2205,10 +2205,6 @@
   ],
   "topWeek": [
     [
-      "vidyut",
-      27
-    ],
-    [
       "blog",
       26
     ],
@@ -2223,6 +2219,10 @@
     [
       "pomo",
       6
+    ],
+    [
+      "praxis",
+      5
     ]
   ],
   "topMonth": [
@@ -2232,15 +2232,15 @@
     ],
     [
       "pravah",
-      88
-    ],
-    [
-      "vidyut",
-      47
+      71
     ],
     [
       "hyprfolio",
       36
+    ],
+    [
+      "vidyut",
+      33
     ],
     [
       "kavach",
@@ -2262,7 +2262,7 @@
     ],
     [
       "hyprfolio",
-      441
+      442
     ],
     [
       "fateWheel",
@@ -2522,7 +2522,7 @@
     ],
     [
       "Linux / CLI",
-      1156
+      1157
     ],
     [
       "Other",
@@ -2536,9 +2536,9 @@
   "weekdayMean": [
     15.807692307692308,
     13.25,
-    15.528301886792454,
+    15.826923076923077,
     19.37735849056604,
-    14.442307692307692,
+    14.18867924528302,
     14.961538461538462,
     13.538461538461538
   ],
@@ -2547,7 +2547,7 @@
     46,
     45,
     45,
-    45,
+    46,
     43,
     46
   ],
@@ -2600,20 +2600,20 @@
     ],
     [
       "2026-10-01",
-      341
+      342
     ]
   ],
-  "velocity30d": 373,
-  "velocityPrev30d": 259,
-  "velocityTrendPct": 44.01544401544402,
-  "momentum7d": 85,
-  "momentumScore": 94,
-  "shipping7d": 8,
+  "velocity30d": 342,
+  "velocityPrev30d": 262,
+  "velocityTrendPct": 30.53435114503817,
+  "momentum7d": 53,
+  "momentumScore": 92,
+  "shipping7d": 5,
   "shipping30d": 16,
-  "focusTop3Pct": 41.0439756882374,
-  "hhi": 0.09529995939006615,
-  "entropy": 4.135454037669219,
-  "entropyNormalized": 0.7669159126649008,
+  "focusTop3Pct": 41.036639857015196,
+  "hhi": 0.09529410355377624,
+  "entropy": 4.135369689165928,
+  "entropyNormalized": 0.7669002703173389,
   "punchcard": [
     [
       25,
@@ -2728,7 +2728,7 @@
       0,
       17,
       21,
-      53,
+      54,
       48,
       64,
       72,
