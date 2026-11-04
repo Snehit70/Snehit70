@@ -1,58 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "windowDays": 366,
   "repos": [
-    {
-      "name": "blog",
-      "description": "",
-      "url": "https://github.com/Snehit70/blog",
-      "pushedAt": "2026-11-03T06:37:25Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 174759,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 74607,
-          "node": {
-            "name": "Astro",
-            "color": "#ff5a03"
-          }
-        },
-        {
-          "size": 65306,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 45540,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 16811,
-          "node": {
-            "name": "MDX",
-            "color": "#fcb32c"
-          }
-        }
-      ]
-    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-03T04:12:13Z",
+      "pushedAt": "2026-11-04T05:30:10Z",
       "isPrivate": true,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -88,10 +42,56 @@
       ]
     },
     {
+      "name": "blog",
+      "description": "",
+      "url": "https://github.com/Snehit70/blog",
+      "pushedAt": "2026-11-03T17:20:56Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 208562,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 121135,
+          "node": {
+            "name": "Astro",
+            "color": "#ff5a03"
+          }
+        },
+        {
+          "size": 84013,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 56712,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 16811,
+          "node": {
+            "name": "MDX",
+            "color": "#fcb32c"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-02T06:38:47Z",
+      "pushedAt": "2026-11-03T07:08:42Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -1668,10 +1668,10 @@
     "date": "2026-01-22",
     "commits": 138
   },
-  "burstDays": 32,
-  "burstThreshold": 43.10000000000002,
+  "burstDays": 37,
+  "burstThreshold": 43,
   "longestGap": 13,
-  "meanGapDays": 1.109717868338558,
+  "meanGapDays": 1.109375,
   "hourDistribution": [
     91,
     37,
@@ -1682,37 +1682,36 @@
     142,
     164,
     239,
-    353,
+    354,
     432,
     417,
-    506,
-    414,
-    374,
+    507,
+    417,
+    375,
     359,
     298,
     294,
-    263,
+    264,
     306,
-    225,
-    222,
-    261,
+    231,
+    231,
+    265,
     169
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1747,
-    "afternoon (12\u201318)": 2245,
-    "evening (18\u201324)": 1446
+    "morning (06\u201312)": 1748,
+    "afternoon (12\u201318)": 2250,
+    "evening (18\u201324)": 1466
   },
-  "additionsPct": 82.15498571944289,
-  "avgCommitSize": 496.6981837606838,
-  "prActiveWeeks": 46,
-  "prThis4w": 28,
+  "additionsPct": 82.15020230109444,
+  "avgCommitSize": 495.3640552995392,
+  "prActiveWeeks": 47,
+  "prThis4w": 30,
   "prPrev4w": 35,
-  "prTrendPct": -20.0,
+  "prTrendPct": -14.285714285714285,
   "daily": {
-    "2025-11-03": 0,
     "2025-11-04": 0,
     "2025-11-05": 0,
     "2025-11-06": 0,
@@ -2077,25 +2076,26 @@
     "2026-10-31": 1,
     "2026-11-01": 1,
     "2026-11-02": 7,
-    "2026-11-03": 12
+    "2026-11-03": 37,
+    "2026-11-04": 1
   },
-  "activeDaysPct": 87.43169398907104,
-  "commitTotal": 5616,
-  "commitMean": 15.344262295081966,
+  "activeDaysPct": 87.70491803278688,
+  "commitTotal": 5642,
+  "commitMean": 15.415300546448087,
   "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.55,
+  "commitActiveMean": 17.57632398753894,
   "commitMax": 138,
-  "currentStreak": 288,
-  "longestStreak": 288,
-  "additions": 2291678,
-  "deletions": 497779,
-  "prs": 600,
+  "currentStreak": 289,
+  "longestStreak": 289,
+  "additions": 2295970,
+  "deletions": 498874,
+  "prs": 602,
   "mergedPrs": 575,
-  "prMergeRatio": 95.83333333333334,
-  "prWeeklyMean": 13.043478260869565,
-  "prWeeklyMedian": 10.0,
-  "prWeeklyP95": 33.75,
+  "prMergeRatio": 95.51495016611295,
+  "prWeeklyMean": 12.808510638297872,
+  "prWeeklyMedian": 10,
+  "prWeeklyP95": 33.49999999999998,
   "prWeeklyMax": 85,
   "prRecent": [
     [
@@ -2200,35 +2200,31 @@
     ],
     [
       "2026-11-02",
-      0
+      2
     ]
   ],
   "topWeek": [
     [
       "blog",
-      22
+      42
     ],
     [
       "hyprfolio",
       7
-    ],
-    [
-      "praxis",
-      2
     ]
   ],
   "topMonth": [
     [
       "blog",
-      116
-    ],
-    [
-      "pravah",
-      39
+      141
     ],
     [
       "hyprfolio",
       36
+    ],
+    [
+      "pravah",
+      33
     ],
     [
       "vidyut",
@@ -2254,7 +2250,7 @@
     ],
     [
       "hyprfolio",
-      446
+      447
     ],
     [
       "fateWheel",
@@ -2281,12 +2277,12 @@
       151
     ],
     [
-      "fieldForce",
-      140
+      "blog",
+      143
     ],
     [
-      "blog",
-      118
+      "fieldForce",
+      140
     ],
     [
       "PLMPRO",
@@ -2412,7 +2408,7 @@
   "languages": [
     [
       "TypeScript",
-      10898828
+      10932631
     ],
     [
       "HTML",
@@ -2420,7 +2416,7 @@
     ],
     [
       "JavaScript",
-      1307055
+      1318227
     ],
     [
       "Dart",
@@ -2435,12 +2431,12 @@
       1136905
     ],
     [
-      "Vue",
-      648936
+      "CSS",
+      664352
     ],
     [
-      "CSS",
-      645645
+      "Vue",
+      648936
     ],
     [
       "Shell",
@@ -2451,16 +2447,16 @@
       276646
     ],
     [
+      "Astro",
+      232230
+    ],
+    [
       "Svelte",
       203726
     ],
     [
       "Go",
       196708
-    ],
-    [
-      "Astro",
-      185702
     ],
     [
       "Lua",
@@ -2514,11 +2510,11 @@
     ],
     [
       "Linux / CLI",
-      1161
+      1162
     ],
     [
       "Other",
-      822
+      847
     ],
     [
       "Mobile",
@@ -2526,9 +2522,9 @@
     ]
   ],
   "weekdayMean": [
-    15.641509433962264,
-    13.226415094339623,
-    15.826923076923077,
+    15.942307692307692,
+    13.69811320754717,
+    15.547169811320755,
     19.75,
     14.461538461538462,
     14.98076923076923,
@@ -2537,14 +2533,14 @@
   "weekdayActive": [
     46,
     47,
-    45,
+    46,
     45,
     46,
     44,
     47
   ],
   "bestWeekday": 3,
-  "quietWeekday": 1,
+  "quietWeekday": 6,
   "monthly": [
     [
       "2025-12-01",
@@ -2592,20 +2588,20 @@
     ],
     [
       "2026-11-01",
-      20
+      46
     ]
   ],
-  "velocity30d": 323,
-  "velocityPrev30d": 283,
-  "velocityTrendPct": 14.13427561837456,
-  "momentum7d": 31,
-  "momentumScore": 89,
-  "shipping7d": 3,
-  "shipping30d": 16,
-  "focusTop3Pct": 40.883190883190885,
-  "hhi": 0.09481342988287432,
-  "entropy": 4.139703386605387,
-  "entropyNormalized": 0.7677039502752643,
+  "velocity30d": 341,
+  "velocityPrev30d": 288,
+  "velocityTrendPct": 18.40277777777778,
+  "momentum7d": 49,
+  "momentumScore": 90,
+  "shipping7d": 2,
+  "shipping30d": 15,
+  "focusTop3Pct": 40.69478908188586,
+  "hhi": 0.09417462161856165,
+  "entropy": 4.145348202890843,
+  "entropyNormalized": 0.7687507759427613,
   "punchcard": [
     [
       25,
@@ -2646,17 +2642,17 @@
       43,
       47,
       60,
-      68,
-      51,
-      23,
+      69,
+      54,
+      24,
       52,
       25,
       39,
-      39,
+      40,
       38,
-      26,
-      43,
+      32,
       52,
+      56,
       30
     ],
     [
@@ -2669,7 +2665,7 @@
       18,
       42,
       39,
-      55,
+      56,
       72,
       67,
       41,
