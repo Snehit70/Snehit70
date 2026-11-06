@@ -1,7 +1,149 @@
 {
-  "generated": "2026-11-05",
+  "generated": "2026-11-06",
   "windowDays": 366,
   "repos": [
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-11-06T07:01:30Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 134166,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 117368,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 2678,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-11-06T06:18:39Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1034439,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 31760,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1183,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-11-05T07:25:10Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 407735,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 17210,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9537,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2087,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-11-05T07:13:06Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 42616,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
     {
       "name": "pomo",
       "description": "Local-first Android Pomodoro timer with phone-owned state and optional LAN desktop control",
@@ -77,63 +219,6 @@
       ]
     },
     {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-05T03:52:17Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 134166,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 117368,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 2678,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-04T06:54:42Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 42616,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
       "name": "blog",
       "description": "",
       "url": "https://github.com/Snehit70/blog",
@@ -175,91 +260,6 @@
           "node": {
             "name": "MDX",
             "color": "#fcb32c"
-          }
-        }
-      ]
-    },
-    {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-10-29T07:25:43Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 407735,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 17210,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9537,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-10-28T10:18:45Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1034439,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 31760,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 1183,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1671,7 +1671,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 13,
-  "meanGapDays": 1.1090342679127725,
+  "meanGapDays": 1.108695652173913,
   "hourDistribution": [
     91,
     37,
@@ -1682,7 +1682,7 @@
     142,
     164,
     239,
-    355,
+    356,
     434,
     418,
     507,
@@ -1701,18 +1701,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1752,
+    "morning (06\u201312)": 1753,
     "afternoon (12\u201318)": 2250,
     "evening (18\u201324)": 1466
   },
-  "additionsPct": 82.15333762754322,
-  "avgCommitSize": 495.2201558625576,
+  "additionsPct": 82.15332101103856,
+  "avgCommitSize": 495.1329909686559,
   "prActiveWeeks": 47,
-  "prThis4w": 31,
+  "prThis4w": 33,
   "prPrev4w": 35,
-  "prTrendPct": -11.428571428571429,
+  "prTrendPct": -5.714285714285714,
   "daily": {
-    "2025-11-05": 0,
     "2025-11-06": 0,
     "2025-11-07": 0,
     "2025-11-08": 0,
@@ -2077,23 +2076,24 @@
     "2026-11-02": 7,
     "2026-11-03": 37,
     "2026-11-04": 1,
-    "2026-11-05": 4
+    "2026-11-05": 4,
+    "2026-11-06": 1
   },
-  "activeDaysPct": 87.97814207650273,
-  "commitTotal": 5646,
-  "commitMean": 15.426229508196721,
+  "activeDaysPct": 88.25136612021858,
+  "commitTotal": 5647,
+  "commitMean": 15.42896174863388,
   "commitMedian": 9.0,
   "commitP95": 50.0,
-  "commitActiveMean": 17.53416149068323,
+  "commitActiveMean": 17.48297213622291,
   "commitMax": 138,
-  "currentStreak": 290,
-  "longestStreak": 290,
-  "additions": 2297018,
-  "deletions": 498995,
-  "prs": 603,
+  "currentStreak": 291,
+  "longestStreak": 291,
+  "additions": 2297020,
+  "deletions": 498996,
+  "prs": 605,
   "mergedPrs": 576,
-  "prMergeRatio": 95.52238805970148,
-  "prWeeklyMean": 12.829787234042554,
+  "prMergeRatio": 95.20661157024793,
+  "prWeeklyMean": 12.872340425531915,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 33.49999999999998,
   "prWeeklyMax": 85,
@@ -2200,7 +2200,7 @@
     ],
     [
       "2026-11-02",
-      3
+      5
     ]
   ],
   "topWeek": [
@@ -2254,7 +2254,7 @@
     ],
     [
       "hyprfolio",
-      448
+      449
     ],
     [
       "fateWheel",
@@ -2514,7 +2514,7 @@
     ],
     [
       "Linux / CLI",
-      1163
+      1164
     ],
     [
       "Other",
@@ -2528,9 +2528,9 @@
   "weekdayMean": [
     15.942307692307692,
     13.961538461538462,
-    15.547169811320755,
+    15.846153846153847,
     19.452830188679247,
-    14.461538461538462,
+    14.20754716981132,
     14.98076923076923,
     13.557692307692308
   ],
@@ -2539,7 +2539,7 @@
     47,
     46,
     46,
-    46,
+    47,
     44,
     47
   ],
@@ -2592,20 +2592,20 @@
     ],
     [
       "2026-11-01",
-      50
+      51
     ]
   ],
-  "velocity30d": 343,
-  "velocityPrev30d": 273,
-  "velocityTrendPct": 25.64102564102564,
+  "velocity30d": 335,
+  "velocityPrev30d": 268,
+  "velocityTrendPct": 25.0,
   "momentum7d": 52,
   "momentumScore": 92,
   "shipping7d": 3,
-  "shipping30d": 15,
-  "focusTop3Pct": 40.71909316330145,
-  "hhi": 0.094159558477257,
-  "entropy": 4.1449491094849185,
-  "entropyNormalized": 0.768676764460381,
+  "shipping30d": 14,
+  "focusTop3Pct": 40.71188241544183,
+  "hhi": 0.09415434207243095,
+  "entropy": 4.144862201070349,
+  "entropyNormalized": 0.7686606473797725,
   "punchcard": [
     [
       25,
@@ -2721,7 +2721,7 @@
       17,
       21,
       54,
-      48,
+      49,
       64,
       72,
       55,
