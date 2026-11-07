@@ -1,719 +1,589 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="709" viewBox="0 0 880 709" role="img" aria-labelledby="t d">
-<title id="t">Atulya Rai — build activity</title><desc id="d">292-day streak, 5650 commits and 203 releases over the last year; weekly commits by project with release milestones, a weekday-by-hour commit punchcard, and the most active projects of the last 30 days.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="736" viewBox="0 0 880 736" role="img" aria-labelledby="t d">
+<title id="t">Atulya Rai — build activity</title><desc id="d">5,379 commits and 203 releases over the last year; weekly commits by project and releases per week, commits by hour of day, and the most active projects of the last 30 days.</desc>
 <style>
 @keyframes rise{from{transform:scaleY(0)}to{transform:scaleY(1)}}
 @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 @keyframes pop{from{transform:scale(0);opacity:0}}
 @keyframes fade{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
 @keyframes show{from{opacity:0}}
-@keyframes pulse{from{transform:scale(1);opacity:.7}to{transform:scale(3.4);opacity:0}}
-.rise,.grow,.pop,.fade,.pulse{transform-box:fill-box}
+.rise,.hang,.grow,.pop,.fade{transform-box:fill-box}
 .rise{transform-origin:50% 100%;animation:rise .7s cubic-bezier(.2,.7,.2,1) both}
+.hang{transform-origin:50% 0;animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
 .grow{transform-origin:0 50%;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
 .pop{transform-origin:50% 50%;animation:pop .5s cubic-bezier(.3,1.5,.5,1) both}
 .fade{animation:fade .6s ease-out both}
 .show{animation:show .5s ease-out both}
-.pulse{transform-origin:50% 50%;animation:pulse 2.4s ease-out 2s infinite}
-@media (prefers-reduced-motion: reduce){.rise,.grow,.pop,.fade,.show,.pulse{animation:none}}
+@media (prefers-reduced-motion: reduce){.rise,.hang,.grow,.pop,.fade,.show{animation:none}}
 </style>
-<rect x="0.5" y="0.5" width="879" height="708" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="28.0" y="44.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" text-anchor="start" >Atulya Rai</text>
-<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >@Snehit70 · last 12 months · Nov 7, 2025 – Nov 7, 2026</text>
+<rect x="0.5" y="0.5" width="879" height="735" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="28.0" y="44.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" text-anchor="start" >Build activity</text>
+<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7781" text-anchor="end" >Nov 8, 2025 – Nov 7, 2026</text>
 <line x1="28" y1="62.0" x2="852" y2="62.0" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:0ms">
-<text x="28.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">STREAK</text>
-<text x="28.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">292<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">days</tspan></text>
-<circle cx="32.0" cy="146" r="3.5" fill="#1a7f37"/>
-<text x="41.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >daily since Jan 20</text>
+<text x="28.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">RELEASES</text>
+<text x="28.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">203</text>
+<text x="28.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >~4 a week · 7 apps</text>
 </g>
-<circle cx="32.0" cy="146" r="3.5" fill="#1a7f37" class="pulse"/>
-<line x1="192.8" y1="88" x2="192.8" y2="150" stroke="#eff2f5"/>
+<line x1="234.0" y1="88" x2="234.0" y2="150" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:70ms">
-<text x="212.8" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">COMMITS</text>
-<text x="212.8" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">5,650</text>
-<text x="212.8" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >in 41 repos</text>
+<text x="254.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">ACTIVE DAYS</text>
+<text x="254.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">87<tspan font-size="14" font-weight="500" fill="#59636e" dx="1">%</tspan></text>
+<text x="254.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >319 of 365 days</text>
 </g>
-<line x1="357.6" y1="88" x2="357.6" y2="150" stroke="#eff2f5"/>
+<line x1="440.0" y1="88" x2="440.0" y2="150" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:140ms">
-<text x="377.6" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">RELEASES</text>
-<text x="377.6" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">203</text>
-<text x="377.6" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >across 7 apps</text>
+<text x="460.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">LAST 30 DAYS</text>
+<text x="460.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">349<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">commits</tspan></text>
+<text x="460.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >+38% on the 30 before</text>
 </g>
-<line x1="522.4" y1="88" x2="522.4" y2="150" stroke="#eff2f5"/>
+<line x1="646.0" y1="88" x2="646.0" y2="150" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:210ms">
-<text x="542.4" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">ACTIVE DAYS</text>
-<text x="542.4" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">89<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">%</tspan></text>
-<text x="542.4" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >324 of 366 days</text>
-</g>
-<line x1="687.2" y1="88" x2="687.2" y2="150" stroke="#eff2f5"/>
-<g class="fade" style="animation-delay:280ms">
-<text x="707.2" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">LAST 30 DAYS</text>
-<text x="707.2" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">363<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">commits</tspan></text>
-<text x="707.2" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >+33% on the 30 before</text>
+<text x="666.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">COMMITS</text>
+<text x="666.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">5,379</text>
+<text x="666.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >in 39 repos</text>
 </g>
 <line x1="28" y1="172.0" x2="852" y2="172.0" stroke="#eff2f5"/>
 <text x="28.0" y="196.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">THE YEAR, WEEK BY WEEK</text>
-<text x="852.0" y="196.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >commits per week · releases marked under the axis</text>
+<text x="852.0" y="196.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="end" >commits per week · releases per week below</text>
 <rect x="28.0" y="213" width="10" height="10" rx="2" fill="#2a78d6"/>
-<text x="43.0" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pravah<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">1,359</tspan></text>
-<rect x="145.7" y="213" width="10" height="10" rx="2" fill="#eb6834"/>
-<text x="160.7" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pomo<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">481</tspan></text>
-<rect x="263.4" y="213" width="10" height="10" rx="2" fill="#1baf7a"/>
-<text x="278.4" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Hyprvox<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">459</tspan></text>
-<rect x="381.1" y="213" width="10" height="10" rx="2" fill="#eda100"/>
-<text x="396.1" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">FateWheel<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">354</tspan></text>
-<rect x="498.9" y="213" width="10" height="10" rx="2" fill="#e87ba4"/>
-<text x="513.9" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Vidyut<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">318</tspan></text>
-<rect x="616.6" y="213" width="10" height="10" rx="2" fill="#6250d6"/>
-<text x="631.6" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Aceon<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">287</tspan></text>
-<rect x="734.3" y="213" width="10" height="10" rx="2" fill="#d1d9e0"/>
-<text x="749.3" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Other<tspan dx="5" fill="#818b98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">2,392</tspan></text>
-<line x1="62" y1="424.0" x2="852" y2="424.0" stroke="#eff2f5"/>
-<text x="54.0" y="428.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >0</text>
-<line x1="62" y1="349.0" x2="852" y2="349.0" stroke="#eff2f5"/>
-<text x="54.0" y="353.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >200</text>
-<line x1="62" y1="274.0" x2="852" y2="274.0" stroke="#eff2f5"/>
-<text x="54.0" y="278.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >400</text>
-<g class="rise" style="animation-delay:250ms">
+<text x="43.0" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pravah<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">1,359</tspan></text>
+<rect x="192.8" y="213" width="10" height="10" rx="2" fill="#1690b3"/>
+<text x="207.8" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Hyprfolio<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">482</tspan></text>
+<rect x="357.6" y="213" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="372.6" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pomo<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">481</tspan></text>
+<rect x="522.4" y="213" width="10" height="10" rx="2" fill="#1baf7a"/>
+<text x="537.4" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Hyprvox<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">459</tspan></text>
+<rect x="687.2" y="213" width="10" height="10" rx="2" fill="#eda100"/>
+<text x="702.2" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">FateWheel<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">354</tspan></text>
+<rect x="28.0" y="237" width="10" height="10" rx="2" fill="#e87ba4"/>
+<text x="43.0" y="246.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Vidyut<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">318</tspan></text>
+<rect x="192.8" y="237" width="10" height="10" rx="2" fill="#6250d6"/>
+<text x="207.8" y="246.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Aceon<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">287</tspan></text>
+<rect x="357.6" y="237" width="10" height="10" rx="2" fill="#7a8c12"/>
+<text x="372.6" y="246.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Blog<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">143</tspan></text>
+<rect x="522.4" y="237" width="10" height="10" rx="2" fill="#b4bcc5"/>
+<text x="537.4" y="246.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">31 more repos<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">1,496</tspan></text>
+<line x1="62" y1="448.0" x2="852" y2="448.0" stroke="#eff2f5"/>
+<text x="54.0" y="452.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="end" >0</text>
+<line x1="62" y1="373.0" x2="852" y2="373.0" stroke="#eff2f5"/>
+<text x="54.0" y="377.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="end" >200</text>
+<line x1="62" y1="298.0" x2="852" y2="298.0" stroke="#eff2f5"/>
+<text x="54.0" y="302.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="end" >400</text>
+<g class="rise" style="animation-delay:200ms">
 </g>
-<g class="rise" style="animation-delay:266ms">
-<path d="M78.4,424.0 V422.2 Q78.4,420.2 80.4,420.2 H88.3 Q90.3,420.2 90.3,422.2 V424.0 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:208ms">
+<path d="M78.4,448.0 V446.2 Q78.4,444.2 80.4,444.2 H88.3 Q90.3,444.2 90.3,446.2 V448.0 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:282ms">
+<g class="rise" style="animation-delay:216ms">
 </g>
-<g class="rise" style="animation-delay:298ms">
-<path d="M108.2,424.0 V424.0 Q108.2,423.2 109.0,423.2 H119.4 Q120.1,423.2 120.1,424.0 V424.0 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:224ms">
+<path d="M108.2,448.0 V448.0 Q108.2,447.2 109.0,447.2 H119.4 Q120.1,447.2 120.1,448.0 V448.0 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:314ms">
-<path d="M123.1,424.0 V381.4 Q123.1,379.4 125.1,379.4 H133.0 Q135.0,379.4 135.0,381.4 V424.0 Z" fill="#eda100" />
+<g class="rise" style="animation-delay:232ms">
+<path d="M123.1,448.0 V405.4 Q123.1,403.4 125.1,403.4 H133.0 Q135.0,403.4 135.0,405.4 V448.0 Z" fill="#eda100" />
 </g>
-<g class="rise" style="animation-delay:330ms">
-<path d="M138.0,424.0 V397.1 Q138.0,395.1 140.0,395.1 H147.9 Q149.9,395.1 149.9,397.1 V424.0 Z" fill="#eda100" />
+<g class="rise" style="animation-delay:240ms">
+<path d="M138.0,448.0 V421.1 Q138.0,419.1 140.0,419.1 H147.9 Q149.9,419.1 149.9,421.1 V448.0 Z" fill="#eda100" />
 </g>
-<g class="rise" style="animation-delay:346ms">
+<g class="rise" style="animation-delay:248ms">
 </g>
-<g class="rise" style="animation-delay:362ms">
-<path d="M167.8,424.0 V424.0 Q167.8,422.9 169.0,422.9 H178.6 Q179.7,422.9 179.7,424.0 V424.0 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:256ms">
+<path d="M167.8,448.0 V448.0 Q167.8,446.9 169.0,446.9 H178.6 Q179.7,446.9 179.7,448.0 V448.0 Z" fill="#1690b3" />
 </g>
-<g class="rise" style="animation-delay:378ms">
-
-<path d="M182.7,422.9 V416.6 Q182.7,414.6 184.7,414.6 H192.7 Q194.7,414.6 194.7,416.6 V422.9 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:264ms">
+<path d="M182.7,446.5 V443.9 Q182.7,443.9 182.7,443.9 H194.7 Q194.7,443.9 194.7,443.9 V446.5 Z" fill="#1690b3" />
+<path d="M182.7,443.9 V443.9 Q182.7,442.8 183.9,442.8 H193.5 Q194.7,442.8 194.7,443.9 V443.9 Z" fill="#eb6834" />
 </g>
-<g class="rise" style="animation-delay:394ms">
-<path d="M197.7,422.5 V417.6 Q197.7,417.6 197.7,417.6 H209.6 Q209.6,417.6 209.6,417.6 V422.5 Z" fill="#eb6834" />
-<path d="M197.7,417.6 V394.5 Q197.7,392.5 199.7,392.5 H207.6 Q209.6,392.5 209.6,394.5 V417.6 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:272ms">
+<path d="M197.7,446.5 V445.0 Q197.7,445.0 197.7,445.0 H209.6 Q209.6,445.0 209.6,445.0 V446.5 Z" fill="#1690b3" />
+<path d="M197.7,443.5 V438.6 Q197.7,438.6 197.7,438.6 H209.6 Q209.6,438.6 209.6,438.6 V443.5 Z" fill="#eb6834" />
+<path d="M197.7,438.6 V420.0 Q197.7,418.0 199.7,418.0 H207.6 Q209.6,418.0 209.6,420.0 V438.6 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:410ms">
-
-<path d="M212.6,422.1 V419.5 Q212.6,419.5 212.6,419.5 H224.5 Q224.5,419.5 224.5,419.5 V422.1 Z" fill="#6250d6" />
-<path d="M212.6,419.5 V403.1 Q212.6,401.1 214.6,401.1 H222.5 Q224.5,401.1 224.5,403.1 V419.5 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:426ms">
-<path d="M227.5,422.5 V370.4 Q227.5,370.4 227.5,370.4 H239.4 Q239.4,370.4 239.4,370.4 V422.5 Z" fill="#1baf7a" />
-<path d="M227.5,368.9 V347.1 Q227.5,347.1 227.5,347.1 H239.4 Q239.4,347.1 239.4,347.1 V368.9 Z" fill="#6250d6" />
-<path d="M227.5,347.1 V339.8 Q227.5,337.8 229.5,337.8 H237.4 Q239.4,337.8 239.4,339.8 V347.1 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:442ms">
-<path d="M242.4,422.5 V416.9 Q242.4,416.9 242.4,416.9 H254.3 Q254.3,416.9 254.3,416.9 V422.5 Z" fill="#1baf7a" />
-<path d="M242.4,415.4 V371.1 Q242.4,371.1 242.4,371.1 H254.3 Q254.3,371.1 254.3,371.1 V415.4 Z" fill="#eda100" />
-<path d="M242.4,369.6 V334.4 Q242.4,334.4 242.4,334.4 H254.3 Q254.3,334.4 254.3,334.4 V369.6 Z" fill="#6250d6" />
-<path d="M242.4,334.4 V284.6 Q242.4,282.6 244.4,282.6 H252.3 Q254.3,282.6 254.3,284.6 V334.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:458ms">
-<path d="M257.3,422.5 V421.8 Q257.3,421.8 257.3,421.8 H269.2 Q269.2,421.8 269.2,421.8 V422.5 Z" fill="#1baf7a" />
-<path d="M257.3,420.2 V415.4 Q257.3,415.4 257.3,415.4 H269.2 Q269.2,415.4 269.2,415.4 V420.2 Z" fill="#6250d6" />
-<path d="M257.3,415.4 V399.0 Q257.3,397.0 259.3,397.0 H267.2 Q269.2,397.0 269.2,399.0 V415.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:474ms">
-<path d="M272.2,422.5 V417.6 Q272.2,417.6 272.2,417.6 H284.1 Q284.1,417.6 284.1,417.6 V422.5 Z" fill="#1baf7a" />
-
-<path d="M272.2,416.9 V396.8 Q272.2,394.8 274.2,394.8 H282.1 Q284.1,394.8 284.1,396.8 V416.9 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:490ms">
-<path d="M287.1,422.5 V403.4 Q287.1,403.4 287.1,403.4 H299.0 Q299.0,403.4 299.0,403.4 V422.5 Z" fill="#1baf7a" />
-<path d="M287.1,403.4 V325.9 Q287.1,323.9 289.1,323.9 H297.0 Q299.0,323.9 299.0,325.9 V403.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:506ms">
+<g class="rise" style="animation-delay:280ms">
 
 
-<path d="M302.0,421.0 V361.1 Q302.0,359.1 304.0,359.1 H311.9 Q313.9,359.1 313.9,361.1 V421.0 Z" fill="#d1d9e0" />
+<path d="M212.6,445.4 V442.8 Q212.6,442.8 212.6,442.8 H224.5 Q224.5,442.8 224.5,442.8 V445.4 Z" fill="#6250d6" />
+<path d="M212.6,442.8 V436.1 Q212.6,434.1 214.6,434.1 H222.5 Q224.5,434.1 224.5,436.1 V442.8 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:522ms">
+<g class="rise" style="animation-delay:288ms">
+<path d="M227.5,446.5 V394.4 Q227.5,394.4 227.5,394.4 H239.4 Q239.4,394.4 239.4,394.4 V446.5 Z" fill="#1baf7a" />
+<path d="M227.5,392.9 V371.1 Q227.5,371.1 227.5,371.1 H239.4 Q239.4,371.1 239.4,371.1 V392.9 Z" fill="#6250d6" />
+<path d="M227.5,371.1 V367.5 Q227.5,365.5 229.5,365.5 H237.4 Q239.4,365.5 239.4,367.5 V371.1 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:296ms">
+<path d="M242.4,446.5 V445.4 Q242.4,445.4 242.4,445.4 H254.3 Q254.3,445.4 254.3,445.4 V446.5 Z" fill="#1690b3" />
+<path d="M242.4,443.9 V438.2 Q242.4,438.2 242.4,438.2 H254.3 Q254.3,438.2 254.3,438.2 V443.9 Z" fill="#1baf7a" />
+<path d="M242.4,436.8 V392.5 Q242.4,392.5 242.4,392.5 H254.3 Q254.3,392.5 254.3,392.5 V436.8 Z" fill="#eda100" />
+<path d="M242.4,391.0 V355.8 Q242.4,355.8 242.4,355.8 H254.3 Q254.3,355.8 254.3,355.8 V391.0 Z" fill="#6250d6" />
+<path d="M242.4,355.8 V310.1 Q242.4,308.1 244.4,308.1 H252.3 Q254.3,308.1 254.3,310.1 V355.8 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:304ms">
+
+<path d="M257.3,445.4 V444.6 Q257.3,444.6 257.3,444.6 H269.2 Q269.2,444.6 269.2,444.6 V445.4 Z" fill="#1baf7a" />
+<path d="M257.3,443.1 V438.2 Q257.3,438.2 257.3,438.2 H269.2 Q269.2,438.2 269.2,438.2 V443.1 Z" fill="#6250d6" />
+<path d="M257.3,438.2 V424.1 Q257.3,422.1 259.3,422.1 H267.2 Q269.2,422.1 269.2,424.1 V438.2 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:312ms">
+<path d="M272.2,446.5 V445.4 Q272.2,445.4 272.2,445.4 H284.1 Q284.1,445.4 284.1,445.4 V446.5 Z" fill="#1690b3" />
+<path d="M272.2,443.9 V439.0 Q272.2,439.0 272.2,439.0 H284.1 Q284.1,439.0 284.1,439.0 V443.9 Z" fill="#1baf7a" />
+
+<path d="M272.2,438.2 V424.5 Q272.2,422.5 274.2,422.5 H282.1 Q284.1,422.5 284.1,424.5 V438.2 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:320ms">
+<path d="M287.1,446.5 V441.6 Q287.1,441.6 287.1,441.6 H299.0 Q299.0,441.6 299.0,441.6 V446.5 Z" fill="#1690b3" />
+<path d="M287.1,440.1 V421.0 Q287.1,421.0 287.1,421.0 H299.0 Q299.0,421.0 299.0,421.0 V440.1 Z" fill="#1baf7a" />
+<path d="M287.1,421.0 V353.2 Q287.1,351.2 289.1,351.2 H297.0 Q299.0,351.2 299.0,353.2 V421.0 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:328ms">
 
 
-<path d="M316.9,422.5 V381.4 Q316.9,379.4 318.9,379.4 H326.8 Q328.8,379.4 328.8,381.4 V422.5 Z" fill="#d1d9e0" />
+<path d="M302.0,445.0 V389.6 Q302.0,387.6 304.0,387.6 H311.9 Q313.9,387.6 313.9,389.6 V445.0 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:538ms">
-<path d="M331.8,422.5 V415.4 Q331.8,415.4 331.8,415.4 H343.7 Q343.7,415.4 343.7,415.4 V422.5 Z" fill="#1baf7a" />
-<path d="M331.8,415.4 V394.5 Q331.8,392.5 333.8,392.5 H341.7 Q343.7,392.5 343.7,394.5 V415.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:554ms">
-
-<path d="M346.7,422.5 V370.1 Q346.7,368.1 348.7,368.1 H356.6 Q358.6,368.1 358.6,370.1 V422.5 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:570ms">
-<path d="M361.6,422.5 V421.4 Q361.6,421.4 361.6,421.4 H373.5 Q373.5,421.4 373.5,421.4 V422.5 Z" fill="#1baf7a" />
-<path d="M361.6,421.4 V403.9 Q361.6,401.9 363.6,401.9 H371.5 Q373.5,401.9 373.5,403.9 V421.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:586ms">
-
-<path d="M376.5,420.6 V412.0 Q376.5,412.0 376.5,412.0 H388.4 Q388.4,412.0 388.4,412.0 V420.6 Z" fill="#eda100" />
-<path d="M376.5,412.0 V385.1 Q376.5,383.1 378.5,383.1 H386.4 Q388.4,383.1 388.4,385.1 V412.0 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:602ms">
-<path d="M391.4,422.5 V377.9 Q391.4,377.9 391.4,377.9 H403.3 Q403.3,377.9 403.3,377.9 V422.5 Z" fill="#2a78d6" />
-<path d="M391.4,376.4 V372.6 Q391.4,372.6 391.4,372.6 H403.3 Q403.3,372.6 403.3,372.6 V376.4 Z" fill="#1baf7a" />
-<path d="M391.4,372.6 V358.9 Q391.4,356.9 393.4,356.9 H401.3 Q403.3,356.9 403.3,358.9 V372.6 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:618ms">
-<path d="M406.3,422.5 V402.6 Q406.3,402.6 406.3,402.6 H418.2 Q418.2,402.6 418.2,402.6 V422.5 Z" fill="#2a78d6" />
-
-<path d="M406.3,400.4 V399.2 Q406.3,399.2 406.3,399.2 H418.2 Q418.2,399.2 418.2,399.2 V400.4 Z" fill="#eda100" />
-<path d="M406.3,399.2 V375.0 Q406.3,373.0 408.3,373.0 H416.2 Q418.2,373.0 418.2,375.0 V399.2 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:634ms">
-<path d="M421.2,422.5 V396.6 Q421.2,396.6 421.2,396.6 H433.1 Q433.1,396.6 433.1,396.6 V422.5 Z" fill="#2a78d6" />
-<path d="M421.2,396.6 V384.4 Q421.2,382.4 423.2,382.4 H431.1 Q433.1,382.4 433.1,384.4 V396.6 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:650ms">
-<path d="M436.1,422.5 V384.2 Q436.1,384.2 436.1,384.2 H448.0 Q448.0,384.2 448.0,384.2 V422.5 Z" fill="#2a78d6" />
-<path d="M436.1,384.2 V374.6 Q436.1,372.6 438.1,372.6 H446.0 Q448.0,372.6 448.0,374.6 V384.2 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:666ms">
-<path d="M451.0,422.5 V413.9 Q451.0,413.9 451.0,413.9 H463.0 Q463.0,413.9 463.0,413.9 V422.5 Z" fill="#2a78d6" />
-<path d="M451.0,412.4 V392.1 Q451.0,392.1 451.0,392.1 H463.0 Q463.0,392.1 463.0,392.1 V412.4 Z" fill="#eb6834" />
-<path d="M451.0,390.6 V389.9 Q451.0,389.9 451.0,389.9 H463.0 Q463.0,389.9 463.0,389.9 V390.6 Z" fill="#1baf7a" />
-
-<path d="M451.0,389.1 V382.5 Q451.0,380.5 453.0,380.5 H461.0 Q463.0,380.5 463.0,382.5 V389.1 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:682ms">
-<path d="M466.0,422.5 V403.0 Q466.0,403.0 466.0,403.0 H477.9 Q477.9,403.0 477.9,403.0 V422.5 Z" fill="#2a78d6" />
-<path d="M466.0,401.5 V398.5 Q466.0,398.5 466.0,398.5 H477.9 Q477.9,398.5 477.9,398.5 V401.5 Z" fill="#eb6834" />
-<path d="M466.0,397.0 V386.1 Q466.0,386.1 466.0,386.1 H477.9 Q477.9,386.1 477.9,386.1 V397.0 Z" fill="#1baf7a" />
-<path d="M466.0,386.1 V342.0 Q466.0,340.0 468.0,340.0 H475.9 Q477.9,340.0 477.9,342.0 V386.1 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:698ms">
-<path d="M480.9,422.5 V374.9 Q480.9,374.9 480.9,374.9 H492.8 Q492.8,374.9 492.8,374.9 V422.5 Z" fill="#2a78d6" />
-
-<path d="M480.9,371.5 V370.0 Q480.9,370.0 480.9,370.0 H492.8 Q492.8,370.0 492.8,370.0 V371.5 Z" fill="#1baf7a" />
-<path d="M480.9,368.5 V356.1 Q480.9,356.1 480.9,356.1 H492.8 Q492.8,356.1 492.8,356.1 V368.5 Z" fill="#6250d6" />
-<path d="M480.9,356.1 V324.0 Q480.9,322.0 482.9,322.0 H490.8 Q492.8,322.0 492.8,324.0 V356.1 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:714ms">
-<path d="M495.8,422.5 V411.2 Q495.8,411.2 495.8,411.2 H507.7 Q507.7,411.2 507.7,411.2 V422.5 Z" fill="#2a78d6" />
-<path d="M495.8,409.8 V395.9 Q495.8,395.9 495.8,395.9 H507.7 Q507.7,395.9 507.7,395.9 V409.8 Z" fill="#1baf7a" />
-<path d="M495.8,394.4 V386.9 Q495.8,386.9 495.8,386.9 H507.7 Q507.7,386.9 507.7,386.9 V394.4 Z" fill="#6250d6" />
-<path d="M495.8,386.9 V358.1 Q495.8,356.1 497.8,356.1 H505.7 Q507.7,356.1 507.7,358.1 V386.9 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:730ms">
-<path d="M510.7,422.5 V401.5 Q510.7,401.5 510.7,401.5 H522.6 Q522.6,401.5 522.6,401.5 V422.5 Z" fill="#2a78d6" />
-
-<path d="M510.7,398.1 V396.6 Q510.7,396.6 510.7,396.6 H522.6 Q522.6,396.6 522.6,396.6 V398.1 Z" fill="#1baf7a" />
-
-<path d="M510.7,394.4 V388.0 Q510.7,388.0 510.7,388.0 H522.6 Q522.6,388.0 522.6,388.0 V394.4 Z" fill="#6250d6" />
-<path d="M510.7,388.0 V370.1 Q510.7,368.1 512.7,368.1 H520.6 Q522.6,368.1 522.6,370.1 V388.0 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:746ms">
-<path d="M525.6,422.5 V420.6 Q525.6,420.6 525.6,420.6 H537.5 Q537.5,420.6 537.5,420.6 V422.5 Z" fill="#2a78d6" />
-<path d="M525.6,420.6 V418.1 Q525.6,416.1 527.6,416.1 H535.5 Q537.5,416.1 537.5,418.1 V420.6 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:762ms">
-<path d="M540.5,422.5 V392.1 Q540.5,392.1 540.5,392.1 H552.4 Q552.4,392.1 552.4,392.1 V422.5 Z" fill="#2a78d6" />
-<path d="M540.5,390.6 V376.4 Q540.5,376.4 540.5,376.4 H552.4 Q552.4,376.4 552.4,376.4 V390.6 Z" fill="#eb6834" />
-<path d="M540.5,374.9 V367.4 Q540.5,367.4 540.5,367.4 H552.4 Q552.4,367.4 552.4,367.4 V374.9 Z" fill="#1baf7a" />
-<path d="M540.5,367.4 V358.1 Q540.5,356.1 542.5,356.1 H550.4 Q552.4,356.1 552.4,358.1 V367.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:778ms">
-<path d="M555.4,422.5 V419.1 Q555.4,419.1 555.4,419.1 H567.3 Q567.3,419.1 567.3,419.1 V422.5 Z" fill="#2a78d6" />
-<path d="M555.4,417.6 V409.4 Q555.4,409.4 555.4,409.4 H567.3 Q567.3,409.4 567.3,409.4 V417.6 Z" fill="#eb6834" />
-<path d="M555.4,409.4 V407.2 Q555.4,405.2 557.4,405.2 H565.3 Q567.3,405.2 567.3,407.2 V409.4 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:794ms">
-<path d="M570.3,422.5 V379.8 Q570.3,379.8 570.3,379.8 H582.2 Q582.2,379.8 582.2,379.8 V422.5 Z" fill="#2a78d6" />
+<g class="rise" style="animation-delay:336ms">
+<path d="M316.9,446.5 V440.1 Q316.9,440.1 316.9,440.1 H328.8 Q328.8,440.1 328.8,440.1 V446.5 Z" fill="#1690b3" />
 
 
-<path d="M570.3,378.6 V378.0 Q570.3,376.0 572.3,376.0 H580.2 Q582.2,376.0 582.2,378.0 V378.6 Z" fill="#d1d9e0" />
+<path d="M316.9,438.6 V421.5 Q316.9,419.5 318.9,419.5 H326.8 Q328.8,419.5 328.8,421.5 V438.6 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:810ms">
-<path d="M585.2,422.5 V419.1 Q585.2,419.1 585.2,419.1 H597.1 Q597.1,419.1 597.1,419.1 V422.5 Z" fill="#2a78d6" />
-<path d="M585.2,417.6 V397.4 Q585.2,397.4 585.2,397.4 H597.1 Q597.1,397.4 597.1,397.4 V417.6 Z" fill="#e87ba4" />
-<path d="M585.2,397.4 V386.2 Q585.2,384.2 587.2,384.2 H595.1 Q597.1,384.2 597.1,386.2 V397.4 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:344ms">
+<path d="M331.8,446.5 V445.4 Q331.8,445.4 331.8,445.4 H343.7 Q343.7,445.4 343.7,445.4 V446.5 Z" fill="#1690b3" />
+<path d="M331.8,443.9 V436.8 Q331.8,436.8 331.8,436.8 H343.7 Q343.7,436.8 343.7,436.8 V443.9 Z" fill="#1baf7a" />
+<path d="M331.8,436.8 V429.8 Q331.8,427.8 333.8,427.8 H341.7 Q343.7,427.8 343.7,429.8 V436.8 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:826ms">
-<path d="M600.1,422.5 V400.0 Q600.1,400.0 600.1,400.0 H612.0 Q612.0,400.0 612.0,400.0 V422.5 Z" fill="#2a78d6" />
-<path d="M600.1,398.5 V380.5 Q600.1,380.5 600.1,380.5 H612.0 Q612.0,380.5 612.0,380.5 V398.5 Z" fill="#eb6834" />
-<path d="M600.1,379.0 V366.2 Q600.1,366.2 600.1,366.2 H612.0 Q612.0,366.2 612.0,366.2 V379.0 Z" fill="#1baf7a" />
-<path d="M600.1,366.2 V365.2 Q600.1,363.2 602.1,363.2 H610.0 Q612.0,363.2 612.0,365.2 V366.2 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:842ms">
-<path d="M615.0,422.5 V388.4 Q615.0,388.4 615.0,388.4 H626.9 Q626.9,388.4 626.9,388.4 V422.5 Z" fill="#2a78d6" />
-<path d="M615.0,386.9 V374.9 Q615.0,374.9 615.0,374.9 H626.9 Q626.9,374.9 626.9,374.9 V386.9 Z" fill="#eb6834" />
+<g class="rise" style="animation-delay:352ms">
+<path d="M346.7,446.5 V441.2 Q346.7,441.2 346.7,441.2 H358.6 Q358.6,441.2 358.6,441.2 V446.5 Z" fill="#1690b3" />
 
+<path d="M346.7,439.8 V394.5 Q346.7,392.5 348.7,392.5 H356.6 Q358.6,392.5 358.6,394.5 V439.8 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:360ms">
+<path d="M361.6,446.5 V442.8 Q361.6,442.8 361.6,442.8 H373.5 Q373.5,442.8 373.5,442.8 V446.5 Z" fill="#1690b3" />
+<path d="M361.6,441.2 V440.1 Q361.6,440.1 361.6,440.1 H373.5 Q373.5,440.1 373.5,440.1 V441.2 Z" fill="#1baf7a" />
+<path d="M361.6,440.1 V429.0 Q361.6,427.0 363.6,427.0 H371.5 Q373.5,427.0 373.5,429.0 V440.1 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:368ms">
+<path d="M376.5,446.5 V429.6 Q376.5,429.6 376.5,429.6 H388.4 Q388.4,429.6 388.4,429.6 V446.5 Z" fill="#1690b3" />
 
-<path d="M615.0,373.8 V372.8 Q615.0,370.8 617.0,370.8 H624.9 Q626.9,370.8 626.9,372.8 V373.8 Z" fill="#d1d9e0" />
+<path d="M376.5,426.2 V417.6 Q376.5,417.6 376.5,417.6 H388.4 Q388.4,417.6 388.4,417.6 V426.2 Z" fill="#eda100" />
+<path d="M376.5,417.6 V410.2 Q376.5,408.2 378.5,408.2 H386.4 Q388.4,408.2 388.4,410.2 V417.6 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:858ms">
+<g class="rise" style="animation-delay:376ms">
+<path d="M391.4,446.5 V401.9 Q391.4,401.9 391.4,401.9 H403.3 Q403.3,401.9 403.3,401.9 V446.5 Z" fill="#2a78d6" />
+<path d="M391.4,400.4 V398.9 Q391.4,398.9 391.4,398.9 H403.3 Q403.3,398.9 403.3,398.9 V400.4 Z" fill="#1690b3" />
+<path d="M391.4,397.4 V393.6 Q391.4,393.6 391.4,393.6 H403.3 Q403.3,393.6 403.3,393.6 V397.4 Z" fill="#1baf7a" />
+<path d="M391.4,393.6 V384.0 Q391.4,382.0 393.4,382.0 H401.3 Q403.3,382.0 403.3,384.0 V393.6 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:384ms">
+<path d="M406.3,446.5 V426.6 Q406.3,426.6 406.3,426.6 H418.2 Q418.2,426.6 418.2,426.6 V446.5 Z" fill="#2a78d6" />
+<path d="M406.3,425.1 V419.5 Q406.3,419.5 406.3,419.5 H418.2 Q418.2,419.5 418.2,419.5 V425.1 Z" fill="#1690b3" />
 
-<path d="M629.9,421.4 V418.0 Q629.9,418.0 629.9,418.0 H641.8 Q641.8,418.0 641.8,418.0 V421.4 Z" fill="#eb6834" />
-<path d="M629.9,416.5 V403.8 Q629.9,403.8 629.9,403.8 H641.8 Q641.8,403.8 641.8,403.8 V416.5 Z" fill="#e87ba4" />
-<path d="M629.9,403.8 V400.1 Q629.9,398.1 631.9,398.1 H639.8 Q641.8,398.1 641.8,400.1 V403.8 Z" fill="#d1d9e0" />
+<path d="M406.3,417.2 V416.1 Q406.3,416.1 406.3,416.1 H418.2 Q418.2,416.1 418.2,416.1 V417.2 Z" fill="#eda100" />
+<path d="M406.3,416.1 V399.4 Q406.3,397.4 408.3,397.4 H416.2 Q418.2,397.4 418.2,399.4 V416.1 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:874ms">
-<path d="M644.8,422.5 V391.8 Q644.8,391.8 644.8,391.8 H656.7 Q656.7,391.8 656.7,391.8 V422.5 Z" fill="#2a78d6" />
-<path d="M644.8,390.2 V369.6 Q644.8,369.6 644.8,369.6 H656.7 Q656.7,369.6 656.7,369.6 V390.2 Z" fill="#eb6834" />
-<path d="M644.8,368.1 V346.8 Q644.8,346.8 644.8,346.8 H656.7 Q656.7,346.8 656.7,346.8 V368.1 Z" fill="#e87ba4" />
-<path d="M644.8,346.8 V346.1 Q644.8,344.1 646.8,344.1 H654.7 Q656.7,344.1 656.7,346.1 V346.8 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:392ms">
+<path d="M421.2,446.5 V420.6 Q421.2,420.6 421.2,420.6 H433.1 Q433.1,420.6 433.1,420.6 V446.5 Z" fill="#2a78d6" />
+<path d="M421.2,419.1 V416.9 Q421.2,416.9 421.2,416.9 H433.1 Q433.1,416.9 433.1,416.9 V419.1 Z" fill="#1690b3" />
+<path d="M421.2,416.9 V408.8 Q421.2,406.8 423.2,406.8 H431.1 Q433.1,406.8 433.1,408.8 V416.9 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:890ms">
-<path d="M659.7,422.5 V406.8 Q659.7,406.8 659.7,406.8 H671.6 Q671.6,406.8 671.6,406.8 V422.5 Z" fill="#2a78d6" />
+<g class="rise" style="animation-delay:400ms">
+<path d="M436.1,446.5 V408.2 Q436.1,408.2 436.1,408.2 H448.0 Q448.0,408.2 448.0,408.2 V446.5 Z" fill="#2a78d6" />
+<path d="M436.1,406.8 V405.6 Q436.1,405.6 436.1,405.6 H448.0 Q448.0,405.6 448.0,405.6 V406.8 Z" fill="#1690b3" />
+<path d="M436.1,405.6 V400.5 Q436.1,398.5 438.1,398.5 H446.0 Q448.0,398.5 448.0,400.5 V405.6 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:408ms">
+<path d="M451.0,446.5 V437.9 Q451.0,437.9 451.0,437.9 H463.0 Q463.0,437.9 463.0,437.9 V446.5 Z" fill="#2a78d6" />
+<path d="M451.0,436.4 V435.2 Q451.0,435.2 451.0,435.2 H463.0 Q463.0,435.2 463.0,435.2 V436.4 Z" fill="#1690b3" />
+<path d="M451.0,433.8 V413.5 Q451.0,413.5 451.0,413.5 H463.0 Q463.0,413.5 463.0,413.5 V433.8 Z" fill="#eb6834" />
+<path d="M451.0,412.0 V411.2 Q451.0,411.2 451.0,411.2 H463.0 Q463.0,411.2 463.0,411.2 V412.0 Z" fill="#1baf7a" />
 
-<path d="M659.7,404.9 V389.9 Q659.7,389.9 659.7,389.9 H671.6 Q671.6,389.9 671.6,389.9 V404.9 Z" fill="#e87ba4" />
-<path d="M659.7,389.9 V389.2 Q659.7,387.2 661.7,387.2 H669.6 Q671.6,387.2 671.6,389.2 V389.9 Z" fill="#d1d9e0" />
+<path d="M451.0,410.5 V407.2 Q451.0,405.2 453.0,405.2 H461.0 Q463.0,405.2 463.0,407.2 V410.5 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:906ms">
-<path d="M674.6,422.5 V420.6 Q674.6,420.6 674.6,420.6 H686.5 Q686.5,420.6 686.5,420.6 V422.5 Z" fill="#2a78d6" />
-<path d="M674.6,419.1 V385.0 Q674.6,385.0 674.6,385.0 H686.5 Q686.5,385.0 686.5,385.0 V419.1 Z" fill="#eb6834" />
-<path d="M674.6,385.0 V384.4 Q674.6,382.4 676.6,382.4 H684.5 Q686.5,382.4 686.5,384.4 V385.0 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:416ms">
+<path d="M466.0,446.5 V427.0 Q466.0,427.0 466.0,427.0 H477.9 Q477.9,427.0 477.9,427.0 V446.5 Z" fill="#2a78d6" />
+<path d="M466.0,425.5 V424.4 Q466.0,424.4 466.0,424.4 H477.9 Q477.9,424.4 477.9,424.4 V425.5 Z" fill="#1690b3" />
+<path d="M466.0,422.9 V419.9 Q466.0,419.9 466.0,419.9 H477.9 Q477.9,419.9 477.9,419.9 V422.9 Z" fill="#eb6834" />
+<path d="M466.0,418.4 V407.5 Q466.0,407.5 466.0,407.5 H477.9 Q477.9,407.5 477.9,407.5 V418.4 Z" fill="#1baf7a" />
+<path d="M466.0,407.5 V367.1 Q466.0,365.1 468.0,365.1 H475.9 Q477.9,365.1 477.9,367.1 V407.5 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:922ms">
+<g class="rise" style="animation-delay:424ms">
+<path d="M480.9,446.5 V398.9 Q480.9,398.9 480.9,398.9 H492.8 Q492.8,398.9 492.8,398.9 V446.5 Z" fill="#2a78d6" />
+<path d="M480.9,397.4 V396.2 Q480.9,396.2 480.9,396.2 H492.8 Q492.8,396.2 492.8,396.2 V397.4 Z" fill="#1690b3" />
 
-<path d="M689.5,420.6 V417.2 Q689.5,417.2 689.5,417.2 H701.4 Q701.4,417.2 701.4,417.2 V420.6 Z" fill="#eb6834" />
-<path d="M689.5,415.8 V409.0 Q689.5,409.0 689.5,409.0 H701.4 Q701.4,409.0 701.4,409.0 V415.8 Z" fill="#e87ba4" />
-<path d="M689.5,409.0 V408.4 Q689.5,406.4 691.5,406.4 H699.4 Q701.4,406.4 701.4,408.4 V409.0 Z" fill="#d1d9e0" />
+<path d="M480.9,392.9 V391.4 Q480.9,391.4 480.9,391.4 H492.8 Q492.8,391.4 492.8,391.4 V392.9 Z" fill="#1baf7a" />
+<path d="M480.9,389.9 V377.5 Q480.9,377.5 480.9,377.5 H492.8 Q492.8,377.5 492.8,377.5 V389.9 Z" fill="#6250d6" />
+<path d="M480.9,377.5 V348.8 Q480.9,346.8 482.9,346.8 H490.8 Q492.8,346.8 492.8,348.8 V377.5 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:938ms">
+<g class="rise" style="animation-delay:432ms">
+<path d="M495.8,446.5 V435.2 Q495.8,435.2 495.8,435.2 H507.7 Q507.7,435.2 507.7,435.2 V446.5 Z" fill="#2a78d6" />
+<path d="M495.8,433.8 V432.6 Q495.8,432.6 495.8,432.6 H507.7 Q507.7,432.6 507.7,432.6 V433.8 Z" fill="#1690b3" />
+<path d="M495.8,431.1 V417.2 Q495.8,417.2 495.8,417.2 H507.7 Q507.7,417.2 507.7,417.2 V431.1 Z" fill="#1baf7a" />
+<path d="M495.8,415.8 V408.2 Q495.8,408.2 495.8,408.2 H507.7 Q507.7,408.2 507.7,408.2 V415.8 Z" fill="#6250d6" />
+<path d="M495.8,408.2 V382.5 Q495.8,380.5 497.8,380.5 H505.7 Q507.7,380.5 507.7,382.5 V408.2 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:440ms">
+<path d="M510.7,446.5 V425.5 Q510.7,425.5 510.7,425.5 H522.6 Q522.6,425.5 522.6,425.5 V446.5 Z" fill="#2a78d6" />
+<path d="M510.7,424.0 V422.9 Q510.7,422.9 510.7,422.9 H522.6 Q522.6,422.9 522.6,422.9 V424.0 Z" fill="#1690b3" />
 
-<path d="M704.4,422.1 V421.0 Q704.4,421.0 704.4,421.0 H716.3 Q716.3,421.0 716.3,421.0 V422.1 Z" fill="#eb6834" />
+<path d="M510.7,419.5 V418.0 Q510.7,418.0 510.7,418.0 H522.6 Q522.6,418.0 522.6,418.0 V419.5 Z" fill="#1baf7a" />
 
-<path d="M704.4,420.6 V400.5 Q704.4,398.5 706.4,398.5 H714.3 Q716.3,398.5 716.3,400.5 V420.6 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:954ms">
-<path d="M719.3,422.5 V417.6 Q719.3,417.6 719.3,417.6 H731.3 Q731.3,417.6 731.3,417.6 V422.5 Z" fill="#eb6834" />
-<path d="M719.3,416.1 V412.8 Q719.3,412.8 719.3,412.8 H731.3 Q731.3,412.8 731.3,412.8 V416.1 Z" fill="#e87ba4" />
-<path d="M719.3,412.8 V408.4 Q719.3,406.4 721.3,406.4 H729.3 Q731.3,406.4 731.3,408.4 V412.8 Z" fill="#d1d9e0" />
-</g>
-<g class="rise" style="animation-delay:970ms">
-<path d="M734.3,422.5 V420.6 Q734.3,420.6 734.3,420.6 H746.2 Q746.2,420.6 746.2,420.6 V422.5 Z" fill="#2a78d6" />
-<path d="M734.3,419.1 V417.2 Q734.3,417.2 734.3,417.2 H746.2 Q746.2,417.2 746.2,417.2 V419.1 Z" fill="#eb6834" />
+<path d="M510.7,415.8 V409.4 Q510.7,409.4 510.7,409.4 H522.6 Q522.6,409.4 522.6,409.4 V415.8 Z" fill="#6250d6" />
 
-<path d="M734.3,416.5 V405.0 Q734.3,403.0 736.3,403.0 H744.2 Q746.2,403.0 746.2,405.0 V416.5 Z" fill="#d1d9e0" />
+<path d="M510.7,408.6 V400.9 Q510.7,398.9 512.7,398.9 H520.6 Q522.6,398.9 522.6,400.9 V408.6 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:986ms">
-<path d="M749.2,422.5 V412.0 Q749.2,412.0 749.2,412.0 H761.1 Q761.1,412.0 761.1,412.0 V422.5 Z" fill="#2a78d6" />
+<g class="rise" style="animation-delay:448ms">
+<path d="M525.6,446.5 V444.6 Q525.6,444.6 525.6,444.6 H537.5 Q537.5,444.6 537.5,444.6 V446.5 Z" fill="#2a78d6" />
+<path d="M525.6,443.1 V442.0 Q525.6,442.0 525.6,442.0 H537.5 Q537.5,442.0 537.5,442.0 V443.1 Z" fill="#1690b3" />
+<path d="M525.6,442.0 V442.0 Q525.6,441.2 526.3,441.2 H536.7 Q537.5,441.2 537.5,442.0 V442.0 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:456ms">
+<path d="M540.5,446.5 V416.1 Q540.5,416.1 540.5,416.1 H552.4 Q552.4,416.1 552.4,416.1 V446.5 Z" fill="#2a78d6" />
+<path d="M540.5,414.6 V413.5 Q540.5,413.5 540.5,413.5 H552.4 Q552.4,413.5 552.4,413.5 V414.6 Z" fill="#1690b3" />
+<path d="M540.5,412.0 V397.8 Q540.5,397.8 540.5,397.8 H552.4 Q552.4,397.8 552.4,397.8 V412.0 Z" fill="#eb6834" />
+<path d="M540.5,396.2 V388.8 Q540.5,388.8 540.5,388.8 H552.4 Q552.4,388.8 552.4,388.8 V396.2 Z" fill="#1baf7a" />
+<path d="M540.5,388.8 V382.5 Q540.5,380.5 542.5,380.5 H550.4 Q552.4,380.5 552.4,382.5 V388.8 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:464ms">
+<path d="M555.4,446.5 V443.1 Q555.4,443.1 555.4,443.1 H567.3 Q567.3,443.1 567.3,443.1 V446.5 Z" fill="#2a78d6" />
+<path d="M555.4,441.6 V440.1 Q555.4,440.1 555.4,440.1 H567.3 Q567.3,440.1 567.3,440.1 V441.6 Z" fill="#1690b3" />
+<path d="M555.4,438.6 V430.4 Q555.4,430.4 555.4,430.4 H567.3 Q567.3,430.4 567.3,430.4 V438.6 Z" fill="#eb6834" />
+<path d="M555.4,430.4 V430.4 Q555.4,429.6 556.1,429.6 H566.5 Q567.3,429.6 567.3,430.4 V430.4 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:472ms">
+<path d="M570.3,446.5 V403.8 Q570.3,403.8 570.3,403.8 H582.2 Q582.2,403.8 582.2,403.8 V446.5 Z" fill="#2a78d6" />
+<path d="M570.3,402.2 V401.1 Q570.3,401.1 570.3,401.1 H582.2 Q582.2,401.1 582.2,401.1 V402.2 Z" fill="#1690b3" />
 
-<path d="M749.2,410.1 V400.8 Q749.2,400.8 749.2,400.8 H761.1 Q761.1,400.8 761.1,400.8 V410.1 Z" fill="#e87ba4" />
-<path d="M749.2,400.8 V399.8 Q749.2,397.8 751.2,397.8 H759.1 Q761.1,397.8 761.1,399.8 V400.8 Z" fill="#d1d9e0" />
+<path d="M570.3,400.8 V400.8 Q570.3,400.0 571.0,400.0 H581.4 Q582.2,400.0 582.2,400.8 V400.8 Z" fill="#6250d6" />
 </g>
-<g class="rise" style="animation-delay:1002ms">
-<path d="M764.1,422.5 V399.6 Q764.1,399.6 764.1,399.6 H776.0 Q776.0,399.6 776.0,399.6 V422.5 Z" fill="#2a78d6" />
-<path d="M764.1,398.1 V394.4 Q764.1,394.4 764.1,394.4 H776.0 Q776.0,394.4 776.0,394.4 V398.1 Z" fill="#e87ba4" />
-<path d="M764.1,394.4 V392.2 Q764.1,390.2 766.1,390.2 H774.0 Q776.0,390.2 776.0,392.2 V394.4 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:480ms">
+<path d="M585.2,446.5 V443.1 Q585.2,443.1 585.2,443.1 H597.1 Q597.1,443.1 597.1,443.1 V446.5 Z" fill="#2a78d6" />
+<path d="M585.2,441.6 V440.5 Q585.2,440.5 585.2,440.5 H597.1 Q597.1,440.5 597.1,440.5 V441.6 Z" fill="#1690b3" />
+<path d="M585.2,439.0 V418.8 Q585.2,418.8 585.2,418.8 H597.1 Q597.1,418.8 597.1,418.8 V439.0 Z" fill="#e87ba4" />
+<path d="M585.2,418.8 V418.8 Q585.2,418.0 585.9,418.0 H596.4 Q597.1,418.0 597.1,418.8 V418.8 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:1018ms">
-<path d="M779.0,422.5 V421.0 Q779.0,421.0 779.0,421.0 H790.9 Q790.9,421.0 790.9,421.0 V422.5 Z" fill="#2a78d6" />
+<g class="rise" style="animation-delay:488ms">
+<path d="M600.1,446.5 V424.0 Q600.1,424.0 600.1,424.0 H612.0 Q612.0,424.0 612.0,424.0 V446.5 Z" fill="#2a78d6" />
+<path d="M600.1,422.5 V421.4 Q600.1,421.4 600.1,421.4 H612.0 Q612.0,421.4 612.0,421.4 V422.5 Z" fill="#1690b3" />
+<path d="M600.1,419.9 V401.9 Q600.1,401.9 600.1,401.9 H612.0 Q612.0,401.9 612.0,401.9 V419.9 Z" fill="#eb6834" />
+<path d="M600.1,401.9 V389.6 Q600.1,387.6 602.1,387.6 H610.0 Q612.0,387.6 612.0,389.6 V401.9 Z" fill="#1baf7a" />
+</g>
+<g class="rise" style="animation-delay:496ms">
+<path d="M615.0,446.5 V412.4 Q615.0,412.4 615.0,412.4 H626.9 Q626.9,412.4 626.9,412.4 V446.5 Z" fill="#2a78d6" />
+<path d="M615.0,410.9 V409.8 Q615.0,409.8 615.0,409.8 H626.9 Q626.9,409.8 626.9,409.8 V410.9 Z" fill="#1690b3" />
+<path d="M615.0,408.2 V396.2 Q615.0,396.2 615.0,396.2 H626.9 Q626.9,396.2 626.9,396.2 V408.2 Z" fill="#eb6834" />
 
-<path d="M779.0,420.6 V413.2 Q779.0,411.2 781.0,411.2 H788.9 Q790.9,411.2 790.9,413.2 V420.6 Z" fill="#d1d9e0" />
+<path d="M615.0,395.9 V395.9 Q615.0,395.1 615.8,395.1 H626.2 Q626.9,395.1 626.9,395.9 V395.9 Z" fill="#e87ba4" />
 </g>
-<g class="rise" style="animation-delay:1034ms">
-<path d="M793.9,422.5 V416.9 Q793.9,416.9 793.9,416.9 H805.8 Q805.8,416.9 805.8,416.9 V422.5 Z" fill="#2a78d6" />
+<g class="rise" style="animation-delay:504ms">
 
-<path d="M793.9,416.5 V391.5 Q793.9,389.5 795.9,389.5 H803.8 Q805.8,389.5 805.8,391.5 V416.5 Z" fill="#d1d9e0" />
+<path d="M629.9,445.4 V444.2 Q629.9,444.2 629.9,444.2 H641.8 Q641.8,444.2 641.8,444.2 V445.4 Z" fill="#1690b3" />
+<path d="M629.9,442.8 V439.4 Q629.9,439.4 629.9,439.4 H641.8 Q641.8,439.4 641.8,439.4 V442.8 Z" fill="#eb6834" />
+<path d="M629.9,437.9 V425.1 Q629.9,425.1 629.9,425.1 H641.8 Q641.8,425.1 641.8,425.1 V437.9 Z" fill="#e87ba4" />
+<path d="M629.9,425.1 V424.1 Q629.9,422.1 631.9,422.1 H639.8 Q641.8,422.1 641.8,424.1 V425.1 Z" fill="#b4bcc5" />
 </g>
-<g class="rise" style="animation-delay:1050ms">
-<path d="M808.8,422.5 V419.5 Q808.8,419.5 808.8,419.5 H820.7 Q820.7,419.5 820.7,419.5 V422.5 Z" fill="#2a78d6" />
-<path d="M808.8,418.0 V407.1 Q808.8,407.1 808.8,407.1 H820.7 Q820.7,407.1 820.7,407.1 V418.0 Z" fill="#e87ba4" />
+<g class="rise" style="animation-delay:512ms">
+<path d="M644.8,446.5 V415.8 Q644.8,415.8 644.8,415.8 H656.7 Q656.7,415.8 656.7,415.8 V446.5 Z" fill="#2a78d6" />
+<path d="M644.8,414.2 V413.1 Q644.8,413.1 644.8,413.1 H656.7 Q656.7,413.1 656.7,413.1 V414.2 Z" fill="#1690b3" />
+<path d="M644.8,411.6 V391.0 Q644.8,391.0 644.8,391.0 H656.7 Q656.7,391.0 656.7,391.0 V411.6 Z" fill="#eb6834" />
+<path d="M644.8,391.0 V370.1 Q644.8,368.1 646.8,368.1 H654.7 Q656.7,368.1 656.7,370.1 V391.0 Z" fill="#e87ba4" />
+</g>
+<g class="rise" style="animation-delay:520ms">
+<path d="M659.7,446.5 V430.8 Q659.7,430.8 659.7,430.8 H671.6 Q671.6,430.8 671.6,430.8 V446.5 Z" fill="#2a78d6" />
+<path d="M659.7,429.2 V428.1 Q659.7,428.1 659.7,428.1 H671.6 Q671.6,428.1 671.6,428.1 V429.2 Z" fill="#1690b3" />
 
-<path d="M808.8,406.4 V376.1 Q808.8,374.1 810.8,374.1 H818.7 Q820.7,374.1 820.7,376.1 V406.4 Z" fill="#d1d9e0" />
+<path d="M659.7,427.8 V413.2 Q659.7,411.2 661.7,411.2 H669.6 Q671.6,411.2 671.6,413.2 V427.8 Z" fill="#e87ba4" />
 </g>
-<g class="rise" style="animation-delay:1066ms">
-<path d="M823.7,422.5 V421.8 Q823.7,421.8 823.7,421.8 H835.6 Q835.6,421.8 835.6,421.8 V422.5 Z" fill="#eb6834" />
-<path d="M823.7,421.8 V409.5 Q823.7,407.5 825.7,407.5 H833.6 Q835.6,407.5 835.6,409.5 V421.8 Z" fill="#d1d9e0" />
+<g class="rise" style="animation-delay:528ms">
+<path d="M674.6,446.5 V444.6 Q674.6,444.6 674.6,444.6 H686.5 Q686.5,444.6 686.5,444.6 V446.5 Z" fill="#2a78d6" />
+<path d="M674.6,443.1 V442.0 Q674.6,442.0 674.6,442.0 H686.5 Q686.5,442.0 686.5,442.0 V443.1 Z" fill="#1690b3" />
+<path d="M674.6,442.0 V408.4 Q674.6,406.4 676.6,406.4 H684.5 Q686.5,406.4 686.5,408.4 V442.0 Z" fill="#eb6834" />
 </g>
-<g class="rise" style="animation-delay:1082ms">
+<g class="rise" style="animation-delay:536ms">
 
-<path d="M838.6,422.9 V394.1 Q838.6,392.1 840.6,392.1 H848.5 Q850.5,392.1 850.5,394.1 V422.9 Z" fill="#d1d9e0"  opacity="0.45"/>
+<path d="M689.5,444.6 V443.5 Q689.5,443.5 689.5,443.5 H701.4 Q701.4,443.5 701.4,443.5 V444.6 Z" fill="#1690b3" />
+<path d="M689.5,442.0 V438.6 Q689.5,438.6 689.5,438.6 H701.4 Q701.4,438.6 701.4,438.6 V442.0 Z" fill="#eb6834" />
+<path d="M689.5,438.6 V432.4 Q689.5,430.4 691.5,430.4 H699.4 Q701.4,430.4 701.4,432.4 V438.6 Z" fill="#e87ba4" />
 </g>
-<g class="fade" style="animation-delay:1300ms">
-<line x1="316.5" y1="248.0" x2="316.5" y2="424.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
-<circle cx="316.5" cy="244.0" r="3.5" fill="#6250d6" stroke="#ffffff" stroke-width="1.5"/>
-<text x="324.5" y="248.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Aceon 0.8</text>
+<g class="rise" style="animation-delay:544ms">
+
+<path d="M704.4,446.1 V431.5 Q704.4,431.5 704.4,431.5 H716.3 Q716.3,431.5 716.3,431.5 V446.1 Z" fill="#1690b3" />
+<path d="M704.4,430.0 V428.9 Q704.4,428.9 704.4,428.9 H716.3 Q716.3,428.9 716.3,428.9 V430.0 Z" fill="#eb6834" />
+
+<path d="M704.4,428.5 V424.5 Q704.4,422.5 706.4,422.5 H714.3 Q716.3,422.5 716.3,424.5 V428.5 Z" fill="#b4bcc5" />
 </g>
-<g class="fade" style="animation-delay:1450ms">
-<line x1="459.1" y1="263.0" x2="459.1" y2="424.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
-<circle cx="459.1" cy="259.0" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
-<text x="467.1" y="263.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Pravah 1.0</text>
+<g class="rise" style="animation-delay:552ms">
+<path d="M719.3,446.5 V445.4 Q719.3,445.4 719.3,445.4 H731.3 Q731.3,445.4 731.3,445.4 V446.5 Z" fill="#1690b3" />
+<path d="M719.3,443.9 V439.0 Q719.3,439.0 719.3,439.0 H731.3 Q731.3,439.0 731.3,439.0 V443.9 Z" fill="#eb6834" />
+<path d="M719.3,439.0 V436.1 Q719.3,434.1 721.3,434.1 H729.3 Q731.3,434.1 731.3,436.1 V439.0 Z" fill="#e87ba4" />
 </g>
-<g class="fade" style="animation-delay:1600ms">
-<line x1="567.7" y1="248.0" x2="567.7" y2="424.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
-<circle cx="567.7" cy="244.0" r="3.5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
-<text x="575.7" y="248.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Pomo 2.0</text>
+<g class="rise" style="animation-delay:560ms">
+<path d="M734.3,446.5 V444.6 Q734.3,444.6 734.3,444.6 H746.2 Q746.2,444.6 746.2,444.6 V446.5 Z" fill="#2a78d6" />
+<path d="M734.3,443.1 V439.0 Q734.3,439.0 734.3,439.0 H746.2 Q746.2,439.0 746.2,439.0 V443.1 Z" fill="#1690b3" />
+<path d="M734.3,437.5 V435.6 Q734.3,435.6 734.3,435.6 H746.2 Q746.2,435.6 746.2,435.6 V437.5 Z" fill="#eb6834" />
+
+<path d="M734.3,434.9 V430.1 Q734.3,428.1 736.3,428.1 H744.2 Q746.2,428.1 746.2,430.1 V434.9 Z" fill="#b4bcc5" />
 </g>
-<g class="fade" style="animation-delay:1750ms">
-<line x1="603.9" y1="263.0" x2="603.9" y2="424.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
-<circle cx="603.9" cy="259.0" r="3.5" fill="#e87ba4" stroke="#ffffff" stroke-width="1.5"/>
-<text x="611.9" y="263.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Vidyut 1.1</text>
+<g class="rise" style="animation-delay:568ms">
+<path d="M749.2,446.5 V436.0 Q749.2,436.0 749.2,436.0 H761.1 Q761.1,436.0 761.1,436.0 V446.5 Z" fill="#2a78d6" />
+<path d="M749.2,434.5 V433.4 Q749.2,433.4 749.2,433.4 H761.1 Q761.1,433.4 761.1,433.4 V434.5 Z" fill="#1690b3" />
+
+<path d="M749.2,431.5 V422.1 Q749.2,422.1 749.2,422.1 H761.1 Q761.1,422.1 761.1,422.1 V431.5 Z" fill="#e87ba4" />
+
 </g>
-<line x1="62" y1="424" x2="852" y2="424" stroke="#d1d9e0"/>
-<rect x="258.2" y="436" width="1.5" height="6" fill="#59636e" class="rise" style="animation-delay:662ms"/>
-<rect x="315.7" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:724ms"/>
-<rect x="324.2" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:733ms"/>
-<rect x="332.7" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:742ms"/>
-<rect x="343.4" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:754ms"/>
-<rect x="345.5" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:756ms"/>
-<rect x="386.0" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:799ms"/>
-<rect x="400.9" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:815ms"/>
-<rect x="458.4" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:877ms"/>
-<rect x="460.5" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:880ms"/>
-<rect x="462.6" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:882ms"/>
-<rect x="469.0" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:889ms"/>
-<rect x="473.3" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:893ms"/>
-<rect x="479.7" y="436" width="1.5" height="6" fill="#59636e" class="rise" style="animation-delay:900ms"/>
-<rect x="479.7" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:900ms"/>
-<rect x="481.8" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:902ms"/>
-<rect x="481.8" y="432" width="1.5" height="10" fill="#59636e" class="rise" style="animation-delay:902ms"/>
-<rect x="486.1" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:907ms"/>
-<rect x="486.1" y="436" width="1.5" height="6" fill="#59636e" class="rise" style="animation-delay:907ms"/>
-<rect x="488.2" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:909ms"/>
-<rect x="488.2" y="436" width="1.5" height="6" fill="#59636e" class="rise" style="animation-delay:909ms"/>
-<rect x="490.3" y="436" width="1.5" height="6" fill="#59636e" class="rise" style="animation-delay:912ms"/>
-<rect x="490.3" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:912ms"/>
-<rect x="490.3" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:912ms"/>
-<rect x="492.4" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:914ms"/>
-<rect x="494.6" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:916ms"/>
-<rect x="501.0" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:923ms"/>
-<rect x="507.4" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:930ms"/>
-<rect x="507.4" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:930ms"/>
-<rect x="509.5" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:932ms"/>
-<rect x="520.1" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:944ms"/>
-<rect x="520.1" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:944ms"/>
-<rect x="522.3" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:946ms"/>
-<rect x="522.3" y="436" width="1.5" height="6" fill="#6250d6" class="rise" style="animation-delay:946ms"/>
-<rect x="545.7" y="434" width="1.5" height="8" fill="#1baf7a" class="rise" style="animation-delay:971ms"/>
-<rect x="547.8" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:974ms"/>
-<rect x="547.8" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:974ms"/>
-<rect x="552.1" y="430" width="1.5" height="12" fill="#eb6834" class="rise" style="animation-delay:978ms"/>
-<rect x="554.2" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:980ms"/>
-<rect x="554.2" y="436" width="1.5" height="6" fill="#1baf7a" class="rise" style="animation-delay:980ms"/>
-<rect x="554.2" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:980ms"/>
-<rect x="558.5" y="434" width="1.5" height="8" fill="#eb6834" class="rise" style="animation-delay:985ms"/>
-<rect x="560.6" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:987ms"/>
-<rect x="562.7" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:990ms"/>
-<rect x="567.0" y="430" width="1.5" height="12" fill="#eb6834" class="rise" style="animation-delay:994ms"/>
-<rect x="573.4" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1001ms"/>
-<rect x="579.8" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1008ms"/>
-<rect x="603.2" y="434" width="1.5" height="8" fill="#e87ba4" class="rise" style="animation-delay:1033ms"/>
-<rect x="607.4" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:1038ms"/>
-<rect x="609.6" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1040ms"/>
-<rect x="613.8" y="430" width="1.5" height="12" fill="#eb6834" class="rise" style="animation-delay:1045ms"/>
-<rect x="616.0" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1047ms"/>
-<rect x="620.2" y="434" width="1.5" height="8" fill="#eb6834" class="rise" style="animation-delay:1051ms"/>
-<rect x="622.3" y="430" width="1.5" height="12" fill="#eb6834" class="rise" style="animation-delay:1054ms"/>
-<rect x="626.6" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1058ms"/>
-<rect x="626.6" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1058ms"/>
-<rect x="626.6" y="434" width="1.5" height="8" fill="#eb6834" class="rise" style="animation-delay:1058ms"/>
-<rect x="628.7" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1061ms"/>
-<rect x="633.0" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:1065ms"/>
-<rect x="637.2" y="430" width="1.5" height="12" fill="#e87ba4" class="rise" style="animation-delay:1070ms"/>
-<rect x="639.4" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1072ms"/>
-<rect x="641.5" y="432" width="1.5" height="10" fill="#e87ba4" class="rise" style="animation-delay:1074ms"/>
-<rect x="650.0" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1083ms"/>
-<rect x="652.2" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1086ms"/>
-<rect x="652.2" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1086ms"/>
-<rect x="660.7" y="434" width="1.5" height="8" fill="#eb6834" class="rise" style="animation-delay:1095ms"/>
-<rect x="662.8" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1097ms"/>
-<rect x="664.9" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1100ms"/>
-<rect x="669.2" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1104ms"/>
-<rect x="669.2" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1104ms"/>
-<rect x="671.3" y="434" width="1.5" height="8" fill="#e87ba4" class="rise" style="animation-delay:1106ms"/>
-<rect x="688.4" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1125ms"/>
-<rect x="690.5" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:1127ms"/>
-<rect x="692.6" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1129ms"/>
-<rect x="701.1" y="430" width="1.5" height="12" fill="#e87ba4" class="rise" style="animation-delay:1138ms"/>
-<rect x="701.1" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1138ms"/>
-<rect x="703.3" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1141ms"/>
-<rect x="705.4" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1143ms"/>
-<rect x="707.5" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:1145ms"/>
-<rect x="707.5" y="434" width="1.5" height="8" fill="#e87ba4" class="rise" style="animation-delay:1145ms"/>
-<rect x="716.0" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1155ms"/>
-<rect x="720.3" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1159ms"/>
-<rect x="724.6" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1164ms"/>
-<rect x="739.5" y="432" width="1.5" height="10" fill="#eb6834" class="rise" style="animation-delay:1180ms"/>
-<rect x="739.5" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1180ms"/>
-<rect x="754.4" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1196ms"/>
-<rect x="765.0" y="434" width="1.5" height="8" fill="#e87ba4" class="rise" style="animation-delay:1207ms"/>
-<rect x="765.0" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1207ms"/>
-<rect x="765.0" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1207ms"/>
-<rect x="767.1" y="436" width="1.5" height="6" fill="#e87ba4" class="rise" style="animation-delay:1210ms"/>
-<rect x="771.4" y="430" width="1.5" height="12" fill="#2a78d6" class="rise" style="animation-delay:1214ms"/>
-<rect x="773.5" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1216ms"/>
-<rect x="773.5" y="434" width="1.5" height="8" fill="#e87ba4" class="rise" style="animation-delay:1216ms"/>
-<rect x="782.0" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1226ms"/>
-<rect x="784.2" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1228ms"/>
-<rect x="786.3" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1230ms"/>
-<rect x="790.6" y="432" width="1.5" height="10" fill="#2a78d6" class="rise" style="animation-delay:1235ms"/>
-<rect x="801.2" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1246ms"/>
-<rect x="820.4" y="434" width="1.5" height="8" fill="#2a78d6" class="rise" style="animation-delay:1267ms"/>
-<rect x="822.5" y="430" width="1.5" height="12" fill="#e87ba4" class="rise" style="animation-delay:1269ms"/>
-<rect x="822.5" y="436" width="1.5" height="6" fill="#2a78d6" class="rise" style="animation-delay:1269ms"/>
-<rect x="828.9" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1276ms"/>
-<rect x="850.2" y="436" width="1.5" height="6" fill="#eb6834" class="rise" style="animation-delay:1299ms"/>
-<text x="123.1" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Dec</text>
-<text x="197.7" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Jan</text>
-<text x="257.3" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Feb</text>
-<text x="316.9" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Mar</text>
-<text x="391.4" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Apr</text>
-<text x="451.0" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >May</text>
-<text x="510.7" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Jun</text>
-<text x="585.2" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Jul</text>
-<text x="644.8" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Aug</text>
-<text x="719.3" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Sep</text>
-<text x="779.0" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Oct</text>
-<text x="838.6" y="460.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >Nov</text>
-<line x1="28" y1="476.0" x2="852" y2="476.0" stroke="#eff2f5"/>
-<text x="28.0" y="500.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">WHEN I COMMIT · IST</text>
-<text x="432.0" y="500.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >less</text>
-<rect x="438" y="491" width="10" height="10" rx="2" fill="#f6f8fa"/>
-<rect x="450" y="491" width="10" height="10" rx="2" fill="#cbcdd0"/>
-<rect x="462" y="491" width="10" height="10" rx="2" fill="#a0a3a6"/>
-<rect x="474" y="491" width="10" height="10" rx="2" fill="#6c7074"/>
-<rect x="486" y="491" width="10" height="10" rx="2" fill="#34383d"/>
-<text x="528.0" y="500.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >more</text>
-<g class="rise" style="animation-delay:900ms"><path d="M50.0,552.0 V548.0 Q50.0,546.0 52.0,546.0 H62.0 Q64.0,546.0 64.0,548.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:930ms"><path d="M66.9,552.0 V551.6 Q66.9,549.6 68.9,549.6 H78.9 Q80.9,549.6 80.9,551.6 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:960ms"><path d="M83.8,552.0 V552.0 Q83.8,551.5 84.4,551.5 H97.3 Q97.8,551.5 97.8,552.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:990ms"><path d="M100.8,552.0 V552.0 Q100.8,551.5 101.2,551.5 H114.3 Q114.8,551.5 114.8,552.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1020ms"><path d="M117.7,552.0 V552.0 Q117.7,550.8 118.8,550.8 H130.5 Q131.7,550.8 131.7,552.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1050ms"><path d="M134.6,552.0 V552.0 Q134.6,550.9 135.7,550.9 H147.5 Q148.6,550.9 148.6,552.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1080ms"><path d="M151.5,552.0 V544.7 Q151.5,542.7 153.5,542.7 H163.5 Q165.5,542.7 165.5,544.7 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1110ms"><path d="M168.4,552.0 V543.2 Q168.4,541.2 170.4,541.2 H180.4 Q182.4,541.2 182.4,543.2 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1140ms"><path d="M185.3,552.0 V538.2 Q185.3,536.2 187.3,536.2 H197.3 Q199.3,536.2 199.3,538.2 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1170ms"><path d="M202.2,552.0 V530.6 Q202.2,528.6 204.2,528.6 H214.2 Q216.2,528.6 216.2,530.6 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1200ms"><path d="M219.2,552.0 V525.1 Q219.2,523.1 221.2,523.1 H231.2 Q233.2,523.1 233.2,525.1 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1230ms"><path d="M236.1,552.0 V526.1 Q236.1,524.1 238.1,524.1 H248.1 Q250.1,524.1 250.1,526.1 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1260ms"><path d="M253.0,552.0 V520.0 Q253.0,518.0 255.0,518.0 H265.0 Q267.0,518.0 267.0,520.0 V552.0 Z" fill="#1f2328" /></g>
-<g class="rise" style="animation-delay:1290ms"><path d="M269.9,552.0 V526.8 Q269.9,524.8 271.9,524.8 H281.9 Q283.9,524.8 283.9,526.8 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1320ms"><path d="M286.8,552.0 V529.4 Q286.8,527.4 288.8,527.4 H298.8 Q300.8,527.4 300.8,529.4 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1350ms"><path d="M303.8,552.0 V530.9 Q303.8,528.9 305.8,528.9 H315.8 Q317.8,528.9 317.8,530.9 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1380ms"><path d="M320.7,552.0 V534.6 Q320.7,532.6 322.7,532.6 H332.7 Q334.7,532.6 334.7,534.6 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1410ms"><path d="M337.6,552.0 V534.8 Q337.6,532.8 339.6,532.8 H349.6 Q351.6,532.8 351.6,534.8 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1440ms"><path d="M354.5,552.0 V536.7 Q354.5,534.7 356.5,534.7 H366.5 Q368.5,534.7 368.5,536.7 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1470ms"><path d="M371.4,552.0 V534.0 Q371.4,532.0 373.4,532.0 H383.4 Q385.4,532.0 385.4,534.0 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1500ms"><path d="M388.3,552.0 V538.9 Q388.3,536.9 390.3,536.9 H400.3 Q402.3,536.9 402.3,538.9 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1530ms"><path d="M405.2,552.0 V538.8 Q405.2,536.8 407.2,536.8 H417.2 Q419.2,536.8 419.2,538.8 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1560ms"><path d="M422.2,552.0 V536.9 Q422.2,534.9 424.2,534.9 H434.2 Q436.2,534.9 436.2,536.9 V552.0 Z" fill="#d1d9e0" /></g>
-<g class="rise" style="animation-delay:1590ms"><path d="M439.1,552.0 V543.0 Q439.1,541.0 441.1,541.0 H451.1 Q453.1,541.0 453.1,543.0 V552.0 Z" fill="#d1d9e0" /></g>
-<text x="107.8" y="548.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="middle" >quiet</text>
-<text x="271.9" y="527.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >peak 12:00</text>
-<text x="40.0" y="571.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >M</text>
-<rect x="50.0" y="560" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1000ms"><title>M 00:00 · 25 commits</title></rect>
-<rect x="66.9" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1035ms"><title>M 01:00 · 3 commits</title></rect>
-<rect x="83.8" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1070ms"><title>M 02:00 · 1 commits</title></rect>
-<rect x="100.8" y="560" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1105ms"><title>M 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="560" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1140ms"><title>M 04:00 · 0 commits</title></rect>
-<rect x="134.6" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1175ms"><title>M 05:00 · 2 commits</title></rect>
-<rect x="151.5" y="560" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1210ms"><title>M 06:00 · 22 commits</title></rect>
-<rect x="168.4" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1245ms"><title>M 07:00 · 17 commits</title></rect>
-<rect x="185.3" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1280ms"><title>M 08:00 · 20 commits</title></rect>
-<rect x="202.2" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1315ms"><title>M 09:00 · 49 commits</title></rect>
-<rect x="219.2" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1350ms"><title>M 10:00 · 44 commits</title></rect>
-<rect x="236.1" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1385ms"><title>M 11:00 · 42 commits</title></rect>
-<rect x="253.0" y="560" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1420ms"><title>M 12:00 · 163 commits</title></rect>
-<rect x="269.9" y="560" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1455ms"><title>M 13:00 · 66 commits</title></rect>
-<rect x="286.8" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1490ms"><title>M 14:00 · 44 commits</title></rect>
-<rect x="303.8" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1525ms"><title>M 15:00 · 51 commits</title></rect>
-<rect x="320.7" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1560ms"><title>M 16:00 · 49 commits</title></rect>
-<rect x="337.6" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1595ms"><title>M 17:00 · 45 commits</title></rect>
-<rect x="354.5" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1630ms"><title>M 18:00 · 50 commits</title></rect>
-<rect x="371.4" y="560" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1665ms"><title>M 19:00 · 41 commits</title></rect>
-<rect x="388.3" y="560" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1700ms"><title>M 20:00 · 30 commits</title></rect>
-<rect x="405.2" y="560" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1735ms"><title>M 21:00 · 22 commits</title></rect>
-<rect x="422.2" y="560" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1770ms"><title>M 22:00 · 32 commits</title></rect>
-<rect x="439.1" y="560" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1805ms"><title>M 23:00 · 5 commits</title></rect>
-<rect x="464.0" y="564" width="22.4" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1100ms"/>
-<text x="528.0" y="571.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >823</text>
-<text x="40.0" y="588.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >T</text>
-<rect x="50.0" y="577" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1015ms"><title>T 00:00 · 2 commits</title></rect>
-<rect x="66.9" y="577" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1050ms"><title>T 01:00 · 0 commits</title></rect>
-<rect x="83.8" y="577" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1085ms"><title>T 02:00 · 0 commits</title></rect>
-<rect x="100.8" y="577" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1120ms"><title>T 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="577" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1155ms"><title>T 04:00 · 0 commits</title></rect>
-<rect x="134.6" y="577" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1190ms"><title>T 05:00 · 2 commits</title></rect>
-<rect x="151.5" y="577" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1225ms"><title>T 06:00 · 17 commits</title></rect>
-<rect x="168.4" y="577" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1260ms"><title>T 07:00 · 16 commits</title></rect>
-<rect x="185.3" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1295ms"><title>T 08:00 · 27 commits</title></rect>
-<rect x="202.2" y="577" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1330ms"><title>T 09:00 · 43 commits</title></rect>
-<rect x="219.2" y="577" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1365ms"><title>T 10:00 · 47 commits</title></rect>
-<rect x="236.1" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1400ms"><title>T 11:00 · 60 commits</title></rect>
-<rect x="253.0" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1435ms"><title>T 12:00 · 69 commits</title></rect>
-<rect x="269.9" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1470ms"><title>T 13:00 · 54 commits</title></rect>
-<rect x="286.8" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1505ms"><title>T 14:00 · 24 commits</title></rect>
-<rect x="303.8" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1540ms"><title>T 15:00 · 52 commits</title></rect>
-<rect x="320.7" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1575ms"><title>T 16:00 · 25 commits</title></rect>
-<rect x="337.6" y="577" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1610ms"><title>T 17:00 · 39 commits</title></rect>
-<rect x="354.5" y="577" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1645ms"><title>T 18:00 · 40 commits</title></rect>
-<rect x="371.4" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1680ms"><title>T 19:00 · 38 commits</title></rect>
-<rect x="388.3" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1715ms"><title>T 20:00 · 32 commits</title></rect>
-<rect x="405.2" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1750ms"><title>T 21:00 · 52 commits</title></rect>
-<rect x="422.2" y="577" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1785ms"><title>T 22:00 · 56 commits</title></rect>
-<rect x="439.1" y="577" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1820ms"><title>T 23:00 · 30 commits</title></rect>
-<rect x="464.0" y="581" width="19.7" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1160ms"/>
-<text x="528.0" y="588.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >725</text>
-<text x="40.0" y="605.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >W</text>
-<rect x="50.0" y="594" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1030ms"><title>W 00:00 · 8 commits</title></rect>
-<rect x="66.9" y="594" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1065ms"><title>W 01:00 · 0 commits</title></rect>
-<rect x="83.8" y="594" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1100ms"><title>W 02:00 · 0 commits</title></rect>
-<rect x="100.8" y="594" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1135ms"><title>W 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="594" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1170ms"><title>W 04:00 · 0 commits</title></rect>
-<rect x="134.6" y="594" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1205ms"><title>W 05:00 · 2 commits</title></rect>
-<rect x="151.5" y="594" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1240ms"><title>W 06:00 · 18 commits</title></rect>
-<rect x="168.4" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1275ms"><title>W 07:00 · 42 commits</title></rect>
-<rect x="185.3" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1310ms"><title>W 08:00 · 39 commits</title></rect>
-<rect x="202.2" y="594" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1345ms"><title>W 09:00 · 56 commits</title></rect>
-<rect x="219.2" y="594" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1380ms"><title>W 10:00 · 78 commits</title></rect>
-<rect x="236.1" y="594" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1415ms"><title>W 11:00 · 67 commits</title></rect>
-<rect x="253.0" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1450ms"><title>W 12:00 · 41 commits</title></rect>
-<rect x="269.9" y="594" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1485ms"><title>W 13:00 · 68 commits</title></rect>
-<rect x="286.8" y="594" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1520ms"><title>W 14:00 · 84 commits</title></rect>
-<rect x="303.8" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1555ms"><title>W 15:00 · 47 commits</title></rect>
-<rect x="320.7" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1590ms"><title>W 16:00 · 51 commits</title></rect>
-<rect x="337.6" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1625ms"><title>W 17:00 · 51 commits</title></rect>
-<rect x="354.5" y="594" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1660ms"><title>W 18:00 · 31 commits</title></rect>
-<rect x="371.4" y="594" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1695ms"><title>W 19:00 · 45 commits</title></rect>
-<rect x="388.3" y="594" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1730ms"><title>W 20:00 · 26 commits</title></rect>
-<rect x="405.2" y="594" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1765ms"><title>W 21:00 · 34 commits</title></rect>
-<rect x="422.2" y="594" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1800ms"><title>W 22:00 · 31 commits</title></rect>
-<rect x="439.1" y="594" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1835ms"><title>W 23:00 · 11 commits</title></rect>
-<rect x="464.0" y="598" width="22.6" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1220ms"/>
-<text x="528.0" y="605.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >830</text>
-<text x="40.0" y="622.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >T</text>
-<rect x="50.0" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1045ms"><title>T 00:00 · 6 commits</title></rect>
-<rect x="66.9" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1080ms"><title>T 01:00 · 14 commits</title></rect>
-<rect x="83.8" y="611" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1115ms"><title>T 02:00 · 0 commits</title></rect>
-<rect x="100.8" y="611" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1150ms"><title>T 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1185ms"><title>T 04:00 · 3 commits</title></rect>
-<rect x="134.6" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1220ms"><title>T 05:00 · 1 commits</title></rect>
-<rect x="151.5" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1255ms"><title>T 06:00 · 20 commits</title></rect>
-<rect x="168.4" y="611" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1290ms"><title>T 07:00 · 18 commits</title></rect>
-<rect x="185.3" y="611" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1325ms"><title>T 08:00 · 47 commits</title></rect>
-<rect x="202.2" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1360ms"><title>T 09:00 · 83 commits</title></rect>
-<rect x="219.2" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1395ms"><title>T 10:00 · 121 commits</title></rect>
-<rect x="236.1" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1430ms"><title>T 11:00 · 71 commits</title></rect>
-<rect x="253.0" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1465ms"><title>T 12:00 · 67 commits</title></rect>
-<rect x="269.9" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1500ms"><title>T 13:00 · 97 commits</title></rect>
-<rect x="286.8" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1535ms"><title>T 14:00 · 67 commits</title></rect>
-<rect x="303.8" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1570ms"><title>T 15:00 · 81 commits</title></rect>
-<rect x="320.7" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1605ms"><title>T 16:00 · 68 commits</title></rect>
-<rect x="337.6" y="611" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1640ms"><title>T 17:00 · 53 commits</title></rect>
-<rect x="354.5" y="611" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1675ms"><title>T 18:00 · 22 commits</title></rect>
-<rect x="371.4" y="611" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1710ms"><title>T 19:00 · 43 commits</title></rect>
-<rect x="388.3" y="611" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1745ms"><title>T 20:00 · 28 commits</title></rect>
-<rect x="405.2" y="611" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1780ms"><title>T 21:00 · 49 commits</title></rect>
-<rect x="422.2" y="611" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1815ms"><title>T 22:00 · 38 commits</title></rect>
-<rect x="439.1" y="611" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1850ms"><title>T 23:00 · 33 commits</title></rect>
-<rect x="464.0" y="615" width="28.0" height="6" rx="3" fill="#1f2328" class="grow" style="animation-delay:1280ms"/>
-<text x="528.0" y="622.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >1,030</text>
-<text x="40.0" y="639.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >F</text>
-<rect x="50.0" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1060ms"><title>F 00:00 · 26 commits</title></rect>
-<rect x="66.9" y="628" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1095ms"><title>F 01:00 · 6 commits</title></rect>
-<rect x="83.8" y="628" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1130ms"><title>F 02:00 · 1 commits</title></rect>
-<rect x="100.8" y="628" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1165ms"><title>F 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="628" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1200ms"><title>F 04:00 · 0 commits</title></rect>
-<rect x="134.6" y="628" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1235ms"><title>F 05:00 · 0 commits</title></rect>
-<rect x="151.5" y="628" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1270ms"><title>F 06:00 · 17 commits</title></rect>
-<rect x="168.4" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1305ms"><title>F 07:00 · 21 commits</title></rect>
-<rect x="185.3" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1340ms"><title>F 08:00 · 54 commits</title></rect>
-<rect x="202.2" y="628" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1375ms"><title>F 09:00 · 49 commits</title></rect>
-<rect x="219.2" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1410ms"><title>F 10:00 · 64 commits</title></rect>
-<rect x="236.1" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1445ms"><title>F 11:00 · 80 commits</title></rect>
-<rect x="253.0" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1480ms"><title>F 12:00 · 67 commits</title></rect>
-<rect x="269.9" y="628" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1515ms"><title>F 13:00 · 39 commits</title></rect>
-<rect x="286.8" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1550ms"><title>F 14:00 · 60 commits</title></rect>
-<rect x="303.8" y="628" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1585ms"><title>F 15:00 · 55 commits</title></rect>
-<rect x="320.7" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1620ms"><title>F 16:00 · 32 commits</title></rect>
-<rect x="337.6" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1655ms"><title>F 17:00 · 27 commits</title></rect>
-<rect x="354.5" y="628" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1690ms"><title>F 18:00 · 47 commits</title></rect>
-<rect x="371.4" y="628" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1725ms"><title>F 19:00 · 49 commits</title></rect>
-<rect x="388.3" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1760ms"><title>F 20:00 · 22 commits</title></rect>
-<rect x="405.2" y="628" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1795ms"><title>F 21:00 · 15 commits</title></rect>
-<rect x="422.2" y="628" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1830ms"><title>F 22:00 · 28 commits</title></rect>
-<rect x="439.1" y="628" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1865ms"><title>F 23:00 · 11 commits</title></rect>
-<rect x="464.0" y="632" width="20.9" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1340ms"/>
-<text x="528.0" y="639.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >770</text>
-<text x="40.0" y="656.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >S</text>
-<rect x="50.0" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1075ms"><title>S 00:00 · 9 commits</title></rect>
-<rect x="66.9" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1110ms"><title>S 01:00 · 11 commits</title></rect>
-<rect x="83.8" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1145ms"><title>S 02:00 · 6 commits</title></rect>
-<rect x="100.8" y="645" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1180ms"><title>S 03:00 · 0 commits</title></rect>
-<rect x="117.7" y="645" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1215ms"><title>S 04:00 · 0 commits</title></rect>
-<rect x="134.6" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1250ms"><title>S 05:00 · 2 commits</title></rect>
-<rect x="151.5" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1285ms"><title>S 06:00 · 19 commits</title></rect>
-<rect x="168.4" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1320ms"><title>S 07:00 · 26 commits</title></rect>
-<rect x="185.3" y="645" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1355ms"><title>S 08:00 · 14 commits</title></rect>
-<rect x="202.2" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1390ms"><title>S 09:00 · 31 commits</title></rect>
-<rect x="219.2" y="645" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1425ms"><title>S 10:00 · 64 commits</title></rect>
-<rect x="236.1" y="645" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1460ms"><title>S 11:00 · 55 commits</title></rect>
-<rect x="253.0" y="645" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1495ms"><title>S 12:00 · 53 commits</title></rect>
-<rect x="269.9" y="645" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1530ms"><title>S 13:00 · 48 commits</title></rect>
-<rect x="286.8" y="645" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1565ms"><title>S 14:00 · 51 commits</title></rect>
-<rect x="303.8" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1600ms"><title>S 15:00 · 38 commits</title></rect>
-<rect x="320.7" y="645" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1635ms"><title>S 16:00 · 55 commits</title></rect>
-<rect x="337.6" y="645" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1670ms"><title>S 17:00 · 47 commits</title></rect>
-<rect x="354.5" y="645" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1705ms"><title>S 18:00 · 53 commits</title></rect>
-<rect x="371.4" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1740ms"><title>S 19:00 · 38 commits</title></rect>
-<rect x="388.3" y="645" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1775ms"><title>S 20:00 · 43 commits</title></rect>
-<rect x="405.2" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1810ms"><title>S 21:00 · 36 commits</title></rect>
-<rect x="422.2" y="645" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1845ms"><title>S 22:00 · 32 commits</title></rect>
-<rect x="439.1" y="645" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1880ms"><title>S 23:00 · 41 commits</title></rect>
-<rect x="464.0" y="649" width="21.0" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1400ms"/>
-<text x="528.0" y="656.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >772</text>
-<text x="40.0" y="673.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="end" >S</text>
-<rect x="50.0" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1090ms"><title>S 00:00 · 15 commits</title></rect>
-<rect x="66.9" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1125ms"><title>S 01:00 · 3 commits</title></rect>
-<rect x="83.8" y="662" width="14" height="14" rx="3" fill="#f6f8fa" class="show" style="animation-delay:1160ms"><title>S 02:00 · 0 commits</title></rect>
-<rect x="100.8" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1195ms"><title>S 03:00 · 7 commits</title></rect>
-<rect x="117.7" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1230ms"><title>S 04:00 · 15 commits</title></rect>
-<rect x="134.6" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1265ms"><title>S 05:00 · 8 commits</title></rect>
-<rect x="151.5" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1300ms"><title>S 06:00 · 28 commits</title></rect>
-<rect x="168.4" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1335ms"><title>S 07:00 · 24 commits</title></rect>
-<rect x="185.3" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1370ms"><title>S 08:00 · 39 commits</title></rect>
-<rect x="202.2" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1405ms"><title>S 09:00 · 45 commits</title></rect>
-<rect x="219.2" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1440ms"><title>S 10:00 · 22 commits</title></rect>
-<rect x="236.1" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1475ms"><title>S 11:00 · 50 commits</title></rect>
-<rect x="253.0" y="662" width="14" height="14" rx="3" fill="#34383d" class="show" style="animation-delay:1510ms"><title>S 12:00 · 58 commits</title></rect>
-<rect x="269.9" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1545ms"><title>S 13:00 · 43 commits</title></rect>
-<rect x="286.8" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1580ms"><title>S 14:00 · 45 commits</title></rect>
-<rect x="303.8" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1615ms"><title>S 15:00 · 28 commits</title></rect>
-<rect x="320.7" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1650ms"><title>S 16:00 · 16 commits</title></rect>
-<rect x="337.6" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1685ms"><title>S 17:00 · 30 commits</title></rect>
-<rect x="354.5" y="662" width="14" height="14" rx="3" fill="#cbcdd0" class="show" style="animation-delay:1720ms"><title>S 18:00 · 20 commits</title></rect>
-<rect x="371.4" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1755ms"><title>S 19:00 · 51 commits</title></rect>
-<rect x="388.3" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1790ms"><title>S 20:00 · 49 commits</title></rect>
-<rect x="405.2" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1825ms"><title>S 21:00 · 23 commits</title></rect>
-<rect x="422.2" y="662" width="14" height="14" rx="3" fill="#6c7074" class="show" style="animation-delay:1860ms"><title>S 22:00 · 44 commits</title></rect>
-<rect x="439.1" y="662" width="14" height="14" rx="3" fill="#a0a3a6" class="show" style="animation-delay:1895ms"><title>S 23:00 · 37 commits</title></rect>
-<rect x="464.0" y="666" width="19.0" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1460ms"/>
-<text x="528.0" y="673.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >700</text>
-<text x="50.0" y="691.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >00</text>
-<text x="151.5" y="691.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >06</text>
-<text x="253.0" y="691.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >12</text>
-<text x="354.5" y="691.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#818b98" text-anchor="start" >18</text>
-<text x="572.0" y="500.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">BUSIEST PROJECTS · 30 DAYS</text>
-<text x="572.0" y="532.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Vidyut</text>
-<text x="852.0" y="532.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >33</text>
-<rect x="676.0" y="525" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="525" width="19.2" height="6" rx="3" fill="#e87ba4" class="grow" style="animation-delay:1000ms"/>
-<text x="572.0" y="558.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pravah</text>
-<text x="852.0" y="558.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >31</text>
-<rect x="676.0" y="551" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="551" width="18.1" height="6" rx="3" fill="#2a78d6" class="grow" style="animation-delay:1090ms"/>
-<text x="572.0" y="584.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Kavach</text>
-<text x="852.0" y="584.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >24</text>
-<rect x="676.0" y="577" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="577" width="14.0" height="6" rx="3" fill="#59636e" class="grow" style="animation-delay:1180ms"/>
-<text x="572.0" y="610.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Praxis</text>
-<text x="852.0" y="610.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >14</text>
-<rect x="676.0" y="603" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="603" width="8.2" height="6" rx="3" fill="#59636e" class="grow" style="animation-delay:1270ms"/>
-<text x="572.0" y="636.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Saarthi</text>
-<text x="852.0" y="636.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >13</text>
-<rect x="676.0" y="629" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="629" width="7.6" height="6" rx="3" fill="#59636e" class="grow" style="animation-delay:1360ms"/>
-<text x="572.0" y="662.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#818b98" text-anchor="start" >private repos</text>
-<text x="852.0" y="662.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >223</text>
-<rect x="676.0" y="655" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="655" width="130.0" height="6" rx="3" fill="#d1d9e0" class="grow" style="animation-delay:1450ms"/>
+<g class="rise" style="animation-delay:576ms">
+<path d="M764.1,446.5 V423.6 Q764.1,423.6 764.1,423.6 H776.0 Q776.0,423.6 776.0,423.6 V446.5 Z" fill="#2a78d6" />
+<path d="M764.1,422.1 V421.0 Q764.1,421.0 764.1,421.0 H776.0 Q776.0,421.0 776.0,421.0 V422.1 Z" fill="#1690b3" />
+<path d="M764.1,421.0 V417.8 Q764.1,415.8 766.1,415.8 H774.0 Q776.0,415.8 776.0,417.8 V421.0 Z" fill="#e87ba4" />
+</g>
+<g class="rise" style="animation-delay:584ms">
+<path d="M779.0,446.5 V445.0 Q779.0,445.0 779.0,445.0 H790.9 Q790.9,445.0 790.9,445.0 V446.5 Z" fill="#2a78d6" />
+<path d="M779.0,443.5 V442.4 Q779.0,442.4 779.0,442.4 H790.9 Q790.9,442.4 790.9,442.4 V443.5 Z" fill="#1690b3" />
+
+<path d="M779.0,442.0 V439.5 Q779.0,437.5 781.0,437.5 H788.9 Q790.9,437.5 790.9,439.5 V442.0 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:592ms">
+<path d="M793.9,446.5 V440.9 Q793.9,440.9 793.9,440.9 H805.8 Q805.8,440.9 805.8,440.9 V446.5 Z" fill="#2a78d6" />
+<path d="M793.9,439.4 V436.0 Q793.9,436.0 793.9,436.0 H805.8 Q805.8,436.0 805.8,436.0 V439.4 Z" fill="#1690b3" />
+
+<path d="M793.9,434.1 V413.9 Q793.9,413.9 793.9,413.9 H805.8 Q805.8,413.9 805.8,413.9 V434.1 Z" fill="#7a8c12" />
+
+</g>
+<g class="rise" style="animation-delay:600ms">
+<path d="M808.8,446.5 V443.5 Q808.8,443.5 808.8,443.5 H820.7 Q820.7,443.5 820.7,443.5 V446.5 Z" fill="#2a78d6" />
+<path d="M808.8,442.0 V440.9 Q808.8,440.9 808.8,440.9 H820.7 Q820.7,440.9 820.7,440.9 V442.0 Z" fill="#1690b3" />
+<path d="M808.8,439.4 V428.5 Q808.8,428.5 808.8,428.5 H820.7 Q820.7,428.5 820.7,428.5 V439.4 Z" fill="#e87ba4" />
+
+<path d="M808.8,426.2 V422.1 Q808.8,422.1 808.8,422.1 H820.7 Q820.7,422.1 820.7,422.1 V426.2 Z" fill="#7a8c12" />
+<path d="M808.8,422.1 V404.6 Q808.8,402.6 810.8,402.6 H818.7 Q820.7,402.6 820.7,404.6 V422.1 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:608ms">
+<path d="M823.7,446.5 V445.4 Q823.7,445.4 823.7,445.4 H835.6 Q835.6,445.4 835.6,445.4 V446.5 Z" fill="#1690b3" />
+<path d="M823.7,443.9 V443.1 Q823.7,443.1 823.7,443.1 H835.6 Q835.6,443.1 835.6,443.1 V443.9 Z" fill="#eb6834" />
+<path d="M823.7,441.6 V433.4 Q823.7,433.4 823.7,433.4 H835.6 Q835.6,433.4 835.6,433.4 V441.6 Z" fill="#7a8c12" />
+<path d="M823.7,433.4 V433.4 Q823.7,431.5 825.6,431.5 H833.7 Q835.6,431.5 835.6,433.4 V433.4 Z" fill="#b4bcc5" />
+</g>
+<g class="rise" style="animation-delay:616ms">
+<path d="M838.6,446.5 V433.8 Q838.6,433.8 838.6,433.8 H850.5 Q850.5,433.8 850.5,433.8 V446.5 Z" fill="#1690b3"  opacity="0.45"/>
+
+<path d="M838.6,431.1 V416.9 Q838.6,416.9 838.6,416.9 H850.5 Q850.5,416.9 850.5,416.9 V431.1 Z" fill="#7a8c12"  opacity="0.45"/>
+<path d="M838.6,416.9 V416.9 Q838.6,416.1 839.3,416.1 H849.8 Q850.5,416.1 850.5,416.9 V416.9 Z" fill="#b4bcc5"  opacity="0.45"/>
+</g>
+<g class="fade" style="animation-delay:800ms">
+<line x1="316.5" y1="272.0" x2="316.5" y2="448.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
+<circle cx="316.5" cy="268.0" r="3.5" fill="#6250d6" stroke="#ffffff" stroke-width="1.5"/>
+<text x="324.5" y="272.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Aceon 0.8</text>
+</g>
+<g class="fade" style="animation-delay:880ms">
+<line x1="459.1" y1="272.0" x2="459.1" y2="448.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
+<circle cx="459.1" cy="268.0" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
+<text x="467.1" y="272.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Pravah 1.0</text>
+</g>
+<g class="fade" style="animation-delay:960ms">
+<line x1="567.7" y1="272.0" x2="567.7" y2="448.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
+<circle cx="567.7" cy="268.0" r="3.5" fill="#eb6834" stroke="#ffffff" stroke-width="1.5"/>
+<text x="575.7" y="272.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Pomo 2.0</text>
+</g>
+<g class="fade" style="animation-delay:1040ms">
+<line x1="603.9" y1="287.0" x2="603.9" y2="448.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
+<circle cx="603.9" cy="283.0" r="3.5" fill="#e87ba4" stroke="#ffffff" stroke-width="1.5"/>
+<text x="611.9" y="287.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Vidyut 1.1</text>
+</g>
+<line x1="62" y1="448" x2="852" y2="448" stroke="#d1d9e0"/>
+<g class="hang" style="animation-delay:972ms"><title>Jan 26: 1 release</title>
+<rect x="242.4" y="452.0" width="11.9" height="2.7" fill="#697077"/>
+</g>
+<g class="hang" style="animation-delay:996ms"><title>Feb 23: 1 release</title>
+<rect x="302.0" y="452.0" width="11.9" height="2.7" fill="#4a3ca0"/>
+</g>
+<g class="hang" style="animation-delay:1002ms"><title>Mar 2: 2 releases</title>
+<rect x="316.9" y="452.0" width="11.9" height="4.1" fill="#4a3ca0"/>
+</g>
+<g class="hang" style="animation-delay:1008ms"><title>Mar 9: 2 releases</title>
+<rect x="331.8" y="452.0" width="11.9" height="4.1" fill="#14835c"/>
+</g>
+<g class="hang" style="animation-delay:1026ms"><title>Mar 30: 1 release</title>
+<rect x="376.5" y="452.0" width="11.9" height="2.7" fill="#14835c"/>
+</g>
+<g class="hang" style="animation-delay:1032ms"><title>Apr 6: 1 release</title>
+<rect x="391.4" y="452.0" width="11.9" height="2.7" fill="#14835c"/>
+</g>
+<g class="hang" style="animation-delay:1056ms"><title>May 4: 7 releases</title>
+<rect x="451.0" y="452.0" width="11.9" height="4.4" fill="#b04e27"/>
+<rect x="451.0" y="457.2" width="11.9" height="1.8" fill="#205aa0"/>
+<rect x="451.0" y="459.9" width="11.9" height="0.8" fill="#4a3ca0"/>
+</g>
+<g class="hang" style="animation-delay:1062ms"><title>May 11: 15 releases</title>
+<rect x="466.0" y="452.0" width="11.9" height="8.1" fill="#205aa0"/>
+<rect x="466.0" y="460.9" width="11.9" height="0.8" fill="#14835c"/>
+<rect x="466.0" y="461.8" width="11.9" height="2.8" fill="#697077"/>
+</g>
+<g class="hang" style="animation-delay:1068ms"><title>May 18: 21 releases</title>
+<rect x="480.9" y="452.0" width="11.9" height="10.5" fill="#205aa0"/>
+<rect x="480.9" y="463.3" width="11.9" height="0.8" fill="#4a3ca0"/>
+<rect x="480.9" y="464.9" width="11.9" height="0.8" fill="#14835c"/>
+<rect x="480.9" y="465.6" width="11.9" height="1.5" fill="#697077"/>
+</g>
+<g class="hang" style="animation-delay:1074ms"><title>May 25: 5 releases</title>
+<rect x="495.8" y="452.0" width="11.9" height="3.8" fill="#205aa0"/>
+<rect x="495.8" y="456.6" width="11.9" height="2.3" fill="#4a3ca0"/>
+</g>
+<g class="hang" style="animation-delay:1080ms"><title>Jun 1: 4 releases</title>
+<rect x="510.7" y="452.0" width="11.9" height="2.7" fill="#4a3ca0"/>
+<rect x="510.7" y="455.5" width="11.9" height="0.9" fill="#b04e27"/>
+<rect x="510.7" y="457.2" width="11.9" height="0.9" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1092ms"><title>Jun 15: 27 releases</title>
+<rect x="540.5" y="452.0" width="11.9" height="11.2" fill="#b04e27"/>
+<rect x="540.5" y="464.0" width="11.9" height="3.2" fill="#205aa0"/>
+<rect x="540.5" y="468.0" width="11.9" height="1.2" fill="#14835c"/>
+</g>
+<g class="hang" style="animation-delay:1098ms"><title>Jun 22: 9 releases</title>
+<rect x="555.4" y="452.0" width="11.9" height="5.0" fill="#b04e27"/>
+<rect x="555.4" y="457.8" width="11.9" height="3.8" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1104ms"><title>Jun 29: 1 release</title>
+<rect x="570.3" y="452.0" width="11.9" height="2.7" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1110ms"><title>Jul 6: 2 releases</title>
+<rect x="585.2" y="452.0" width="11.9" height="4.1" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1116ms"><title>Jul 13: 9 releases</title>
+<rect x="600.1" y="452.0" width="11.9" height="9.6" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1122ms"><title>Jul 20: 16 releases</title>
+<rect x="615.0" y="452.0" width="11.9" height="7.0" fill="#b04e27"/>
+<rect x="615.0" y="459.8" width="11.9" height="4.4" fill="#205aa0"/>
+<rect x="615.0" y="465.0" width="11.9" height="0.8" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1128ms"><title>Jul 27: 9 releases</title>
+<rect x="629.9" y="452.0" width="11.9" height="9.6" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1134ms"><title>Aug 3: 6 releases</title>
+<rect x="644.8" y="452.0" width="11.9" height="3.4" fill="#ae5c7b"/>
+<rect x="644.8" y="456.2" width="11.9" height="3.4" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1140ms"><title>Aug 10: 5 releases</title>
+<rect x="659.7" y="452.0" width="11.9" height="3.8" fill="#ae5c7b"/>
+<rect x="659.7" y="456.6" width="11.9" height="0.8" fill="#205aa0"/>
+<rect x="659.7" y="458.2" width="11.9" height="0.8" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1146ms"><title>Aug 17: 5 releases</title>
+<rect x="674.6" y="452.0" width="11.9" height="6.9" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1152ms"><title>Aug 24: 12 releases</title>
+<rect x="689.5" y="452.0" width="11.9" height="7.2" fill="#ae5c7b"/>
+<rect x="689.5" y="460.0" width="11.9" height="3.2" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1158ms"><title>Aug 31: 2 releases</title>
+<rect x="704.4" y="452.0" width="11.9" height="4.1" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1164ms"><title>Sep 7: 1 release</title>
+<rect x="719.3" y="452.0" width="11.9" height="2.7" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1170ms"><title>Sep 14: 4 releases</title>
+<rect x="734.3" y="452.0" width="11.9" height="4.4" fill="#b04e27"/>
+<rect x="734.3" y="457.2" width="11.9" height="0.9" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1176ms"><title>Sep 21: 7 releases</title>
+<rect x="749.2" y="452.0" width="11.9" height="4.4" fill="#ae5c7b"/>
+<rect x="749.2" y="457.2" width="11.9" height="1.8" fill="#205aa0"/>
+<rect x="749.2" y="459.9" width="11.9" height="0.8" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1182ms"><title>Sep 28: 10 releases</title>
+<rect x="764.1" y="452.0" width="11.9" height="8.0" fill="#205aa0"/>
+<rect x="764.1" y="460.8" width="11.9" height="1.4" fill="#ae5c7b"/>
+</g>
+<g class="hang" style="animation-delay:1188ms"><title>Oct 5: 7 releases</title>
+<rect x="779.0" y="452.0" width="11.9" height="8.4" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1194ms"><title>Oct 12: 2 releases</title>
+<rect x="793.9" y="452.0" width="11.9" height="4.1" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1200ms"><title>Oct 19: 7 releases</title>
+<rect x="808.8" y="452.0" width="11.9" height="4.4" fill="#ae5c7b"/>
+<rect x="808.8" y="457.2" width="11.9" height="3.1" fill="#205aa0"/>
+</g>
+<g class="hang" style="animation-delay:1206ms"><title>Oct 26: 1 release</title>
+<rect x="823.7" y="452.0" width="11.9" height="2.7" fill="#b04e27"/>
+</g>
+<g class="hang" style="animation-delay:1212ms"><title>Nov 2: 1 release</title>
+<rect x="838.6" y="452.0" width="11.9" height="2.7" fill="#b04e27"/>
+</g>
+<text x="62.0" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Nov '25</text>
+<text x="123.1" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Dec</text>
+<text x="197.7" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Jan</text>
+<text x="257.3" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Feb</text>
+<text x="316.9" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Mar</text>
+<text x="391.4" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Apr</text>
+<text x="451.0" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >May</text>
+<text x="510.7" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Jun</text>
+<text x="585.2" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Jul</text>
+<text x="644.8" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Aug</text>
+<text x="719.3" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Sep</text>
+<text x="779.0" y="484.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >Oct</text>
+<g class="show" style="animation-delay:1500ms"><path d="M451.0,490 V494 H852.0 V490" fill="none" stroke="#59636e"/><text x="451.0" y="510" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">Released in<tspan fill="#1f2328" font-weight="600"> 26 of 27 weeks</tspan> since May 4</text></g>
+<line x1="28" y1="536.0" x2="852" y2="536.0" stroke="#eff2f5"/>
+<text x="28.0" y="560.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">COMMIT TIMES · IST</text>
+<text x="528.0" y="560.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="end" >every day of the week · weekends 25%</text>
+<line x1="28" y1="664.5" x2="528" y2="664.5" stroke="#eff2f5"/>
+<g class="rise" style="animation-delay:500ms"><path d="M30.0,664.0 V653.2 Q30.0,651.2 32.0,651.2 H44.8 Q46.8,651.2 46.8,653.2 V664.0 Z" fill="#d1d9e0" /><title>00:00 · 80 commits</title></g>
+<g class="rise" style="animation-delay:512ms"><path d="M50.8,664.0 V660.1 Q50.8,658.1 52.8,658.1 H65.7 Q67.7,658.1 67.7,660.1 V664.0 Z" fill="#d1d9e0" /><title>01:00 · 37 commits</title></g>
+<g class="rise" style="animation-delay:524ms"><path d="M71.7,664.0 V664.0 Q71.7,662.7 72.9,662.7 H87.2 Q88.5,662.7 88.5,664.0 V664.0 Z" fill="#d1d9e0" /><title>02:00 · 8 commits</title></g>
+<g class="rise" style="animation-delay:536ms"><path d="M92.5,664.0 V664.0 Q92.5,662.9 93.6,662.9 H108.2 Q109.3,662.9 109.3,664.0 V664.0 Z" fill="#d1d9e0" /><title>03:00 · 7 commits</title></g>
+<g class="rise" style="animation-delay:548ms"><path d="M113.3,664.0 V663.1 Q113.3,661.1 115.3,661.1 H128.2 Q130.2,661.1 130.2,663.1 V664.0 Z" fill="#d1d9e0" /><title>04:00 · 18 commits</title></g>
+<g class="rise" style="animation-delay:560ms"><path d="M134.2,664.0 V663.3 Q134.2,661.3 136.2,661.3 H149.0 Q151.0,661.3 151.0,663.3 V664.0 Z" fill="#d1d9e0" /><title>05:00 · 17 commits</title></g>
+<g class="rise" style="animation-delay:572ms"><path d="M155.0,664.0 V643.8 Q155.0,641.8 157.0,641.8 H169.8 Q171.8,641.8 171.8,643.8 V664.0 Z" fill="#d1d9e0" /><title>06:00 · 139 commits</title></g>
+<g class="rise" style="animation-delay:584ms"><path d="M175.8,664.0 V640.1 Q175.8,638.1 177.8,638.1 H190.7 Q192.7,638.1 192.7,640.1 V664.0 Z" fill="#d1d9e0" /><title>07:00 · 162 commits</title></g>
+<g class="rise" style="animation-delay:596ms"><path d="M196.7,664.0 V629.7 Q196.7,627.7 198.7,627.7 H211.5 Q213.5,627.7 213.5,629.7 V664.0 Z" fill="#d1d9e0" /><title>08:00 · 227 commits</title></g>
+<g class="rise" style="animation-delay:608ms"><path d="M217.5,664.0 V614.2 Q217.5,612.2 219.5,612.2 H232.3 Q234.3,612.2 234.3,614.2 V664.0 Z" fill="#d1d9e0" /><title>09:00 · 324 commits</title></g>
+<g class="rise" style="animation-delay:620ms"><path d="M238.3,664.0 V598.7 Q238.3,596.7 240.3,596.7 H253.2 Q255.2,596.7 255.2,598.7 V664.0 Z" fill="#d1d9e0" /><title>10:00 · 421 commits</title></g>
+<g class="rise" style="animation-delay:632ms"><path d="M259.2,664.0 V600.9 Q259.2,598.9 261.2,598.9 H274.0 Q276.0,598.9 276.0,600.9 V664.0 Z" fill="#d1d9e0" /><title>11:00 · 407 commits</title></g>
+<g class="rise" style="animation-delay:644ms"><path d="M280.0,664.0 V588.0 Q280.0,586.0 282.0,586.0 H294.8 Q296.8,586.0 296.8,588.0 V664.0 Z" fill="#787e84" /><title>12:00 · 488 commits</title></g>
+<g class="rise" style="animation-delay:656ms"><path d="M300.8,664.0 V602.9 Q300.8,600.9 302.8,600.9 H315.7 Q317.7,600.9 317.7,602.9 V664.0 Z" fill="#787e84" /><title>13:00 · 395 commits</title></g>
+<g class="rise" style="animation-delay:668ms"><path d="M321.7,664.0 V610.1 Q321.7,608.1 323.7,608.1 H336.5 Q338.5,608.1 338.5,610.1 V664.0 Z" fill="#787e84" /><title>14:00 · 350 commits</title></g>
+<g class="rise" style="animation-delay:680ms"><path d="M342.5,664.0 V611.8 Q342.5,609.8 344.5,609.8 H357.3 Q359.3,609.8 359.3,611.8 V664.0 Z" fill="#787e84" /><title>15:00 · 339 commits</title></g>
+<g class="rise" style="animation-delay:692ms"><path d="M363.3,664.0 V619.5 Q363.3,617.5 365.3,617.5 H378.2 Q380.2,617.5 380.2,619.5 V664.0 Z" fill="#787e84" /><title>16:00 · 291 commits</title></g>
+<g class="rise" style="animation-delay:704ms"><path d="M384.2,664.0 V623.6 Q384.2,621.6 386.2,621.6 H399.0 Q401.0,621.6 401.0,623.6 V664.0 Z" fill="#787e84" /><title>17:00 · 265 commits</title></g>
+<g class="rise" style="animation-delay:716ms"><path d="M405.0,664.0 V624.9 Q405.0,622.9 407.0,622.9 H419.8 Q421.8,622.9 421.8,624.9 V664.0 Z" fill="#d1d9e0" /><title>18:00 · 257 commits</title></g>
+<g class="rise" style="animation-delay:728ms"><path d="M425.8,664.0 V619.0 Q425.8,617.0 427.8,617.0 H440.7 Q442.7,617.0 442.7,619.0 V664.0 Z" fill="#d1d9e0" /><title>19:00 · 294 commits</title></g>
+<g class="rise" style="animation-delay:740ms"><path d="M446.7,664.0 V631.5 Q446.7,629.5 448.7,629.5 H461.5 Q463.5,629.5 463.5,631.5 V664.0 Z" fill="#d1d9e0" /><title>20:00 · 216 commits</title></g>
+<g class="rise" style="animation-delay:752ms"><path d="M467.5,664.0 V630.4 Q467.5,628.4 469.5,628.4 H482.3 Q484.3,628.4 484.3,630.4 V664.0 Z" fill="#d1d9e0" /><title>21:00 · 223 commits</title></g>
+<g class="rise" style="animation-delay:764ms"><path d="M488.3,664.0 V625.9 Q488.3,623.9 490.3,623.9 H503.2 Q505.2,623.9 505.2,625.9 V664.0 Z" fill="#d1d9e0" /><title>22:00 · 251 commits</title></g>
+<g class="rise" style="animation-delay:776ms"><path d="M509.2,664.0 V639.9 Q509.2,637.9 511.2,637.9 H524.0 Q526.0,637.9 526.0,639.9 V664.0 Z" fill="#d1d9e0" /><title>23:00 · 163 commits</title></g>
+<text x="30.0" y="686.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >00</text>
+<g class="show" style="animation-delay:900ms"><text x="90.5" y="708" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#59636e" font-weight="400">Night<tspan dx="5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6e7781">3%</tspan></text></g>
+<line x1="153.0" y1="668" x2="153.0" y2="673" stroke="#6e7781"/>
+<text x="155.0" y="686.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >06</text>
+<g class="show" style="animation-delay:960ms"><text x="215.5" y="708" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#59636e" font-weight="400">Morning<tspan dx="5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6e7781">31%</tspan></text></g>
+<line x1="278.0" y1="668" x2="278.0" y2="673" stroke="#6e7781"/>
+<text x="280.0" y="686.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >12</text>
+<g class="show" style="animation-delay:1020ms"><text x="340.5" y="708" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1f2328" font-weight="600">Afternoon<tspan dx="5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">40%</tspan></text></g>
+<line x1="403.0" y1="668" x2="403.0" y2="673" stroke="#6e7781"/>
+<text x="405.0" y="686.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >18</text>
+<g class="show" style="animation-delay:1080ms"><text x="465.5" y="708" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#59636e" font-weight="400">Evening<tspan dx="5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6e7781">26%</tspan></text></g>
+<text x="572.0" y="560.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">BUSIEST PROJECTS · 30 DAYS</text>
+<g class="show" style="animation-delay:500ms">
+<text x="572.0" y="592.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Blog</text>
+<text x="852.0" y="592.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >141</text>
+<rect x="676.0" y="585.0" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="585.0" width="130.0" height="6" rx="3" fill="#7a8c12" class="grow" style="animation-delay:500ms"/>
+</g>
+<g class="show" style="animation-delay:560ms">
+<text x="572.0" y="615.2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Hyprfolio</text>
+<text x="852.0" y="615.2" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >68</text>
+<rect x="676.0" y="608.2" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="608.2" width="62.7" height="6" rx="3" fill="#1690b3" class="grow" style="animation-delay:560ms"/>
+</g>
+<g class="show" style="animation-delay:620ms">
+<text x="572.0" y="638.4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Vidyut</text>
+<text x="852.0" y="638.4" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >33</text>
+<rect x="676.0" y="631.4" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="631.4" width="30.4" height="6" rx="3" fill="#e87ba4" class="grow" style="animation-delay:620ms"/>
+</g>
+<g class="show" style="animation-delay:680ms">
+<text x="572.0" y="661.6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pravah</text>
+<text x="852.0" y="661.6" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >31</text>
+<rect x="676.0" y="654.6" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="654.6" width="28.6" height="6" rx="3" fill="#2a78d6" class="grow" style="animation-delay:680ms"/>
+</g>
+<g class="show" style="animation-delay:740ms">
+<text x="572.0" y="684.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Kavach</text>
+<text x="852.0" y="684.8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >24</text>
+<rect x="676.0" y="677.8" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="677.8" width="22.1" height="6" rx="3" fill="#8c959f" class="grow" style="animation-delay:740ms"/>
+</g>
+<g class="show" style="animation-delay:800ms"><text x="572.0" y="708.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#6e7781" text-anchor="start" >+ 52 in 7 more repos</text></g>
 </svg>

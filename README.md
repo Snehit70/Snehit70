@@ -6,11 +6,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-activity-dark.svg" />
-  <img width="100%" src="./assets/profile-activity-light.svg" alt="Build activity over the last 12 months: streak, commits, releases, weekly commits by project with release milestones, and when commits happen by weekday and hour" />
+  <img width="100%" src="./assets/profile-activity-light.svg" alt="Build activity over the last 12 months: releases, active days, recent pace, commits, weekly commits by project with releases per week below, commits by hour of day, and the busiest projects of the last 30 days" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stack-dark.svg" />
-  <img width="100%" src="./assets/profile-stack-light.svg" alt="Newest release of each app, language mix, commits by project, and pull requests" />
+  <img width="100%" src="./assets/profile-stack-light.svg" alt="Latest releases, all-time language mix, and weekly pull requests over the last 12 months" />
 </picture>
 
 ## Projects
@@ -44,16 +44,3 @@
 - **[Ralphy Monitor](https://github.com/Snehit70/ralphy-monitor)** - Live TUI for my autonomous AI coding loop: task progress, ETA, active agents, and token cost, streamed over an embedded SSE server.
 
 </details>
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Convex](https://img.shields.io/badge/-Convex-FF6F00?style=flat-square&logo=convex&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
