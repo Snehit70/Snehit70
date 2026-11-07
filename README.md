@@ -13,31 +13,37 @@
   <img width="100%" src="./assets/profile-stack-light.svg" alt="Newest release of each app, language mix, commits by project, and pull requests" />
 </picture>
 
-## Currently Working
+## Projects
 
-### Public
+### Start here
 
-- **[Aceon](https://github.com/Snehit70/aceon)** - A clean library of lectures, organized for easy access.
+- **[Pravah](https://github.com/Snehit70/pravah)** - Timeline-based task manager with AI-agent API support. · [live](https://pravah.snehit70.dev)
+- **[Kavach](https://github.com/Snehit70/kavach)** - TUI that checks every package on your laptop against vulnerability databases and updates the affected ones.
+- **[Praxis](https://github.com/Snehit70/praxis)** - Exam practice platform with 127,000+ questions across 130+ courses. · [live](https://praxis.snehit70.dev)
 - **[Hyprvox](https://github.com/Snehit70/hyprvox)** - One keypress, low-latency transcription: clipboard-first workflow with dual STT engines and systemd service.
-- **[Vidyut](https://github.com/Snehit70/vidyut)** - LAN-only clipboard sync between Linux/Wayland and Android: encrypted image & text pool, latest-wins.
-- **[Lapstat](https://github.com/Snehit70/lapstat)** - Historical system stats monitor for Linux laptops.
+- **[Aceon](https://github.com/Snehit70/aceon)** - A clean library of lectures, organized for easy access. · [live](https://aceon.snehit70.dev)
+
+### Linux & cross-device tools
+
 - **[Lazydev](https://github.com/Snehit70/lazydev)** - Your dev servers, on demand: auto-scale to zero, wake on request, save gigabytes of RAM.
-- **[Pomo](https://github.com/Snehit70/pomo)** - Mobile app for remotely controlling a desktop Pomodoro timer.
-- **[Pravah](https://github.com/Snehit70/pravah)** - Timeline-based task manager with AI-agent API support.
-- **[Ralphy Monitor](https://github.com/Snehit70/ralphy-monitor)** - Real-time monitor for Ralphy: watch my AI coding loop work.
-- **[SystemdManager](https://github.com/Snehit70/systemdManager)** - Systemd TUI with live log tailing: browse, filter, and control your services without leaving the terminal.
+- **[Vidyut](https://github.com/Snehit70/vidyut)** - Two-way text and screenshot sync between Linux/Wayland and Android over WiFi: end-to-end encrypted, newest copy wins.
+- **[Pomo](https://github.com/Snehit70/pomo)** - Android Pomodoro timer with a decentralized focus leaderboard: no accounts, no server.
 
-### Private
+### Web apps
 
-- **Praxis** - Active private build, still shaping the product surface.
-
-## Live Projects
-
-- **[Aceon](https://aceon.snehit70.dev)** - A clean library of lectures, organized for easy access.
-- **[FateWheel](https://fate.snehit70.dev)** - A refined spin wheel that settles indecision instantly.
-- **[Saksham](https://saksham-murex.vercel.app)** - Interview practice that turns a resume into focused technical screening.
-- **[VoiceWeb](https://voiceweb.vercel.app)** - A lightweight web app for turning speech into usable text.
+- **[FateWheel](https://fate.snehit70.dev)** - Real-time multiplayer roulette with a synchronized wheel, timed betting rounds, and live settlement over Socket.IO.
+- **[Saksham](https://saksham-murex.vercel.app)** - AI interview practice that builds detailed, resume-specific technical interviews with real-time feedback.
+- **[VoiceWeb](https://voiceweb.vercel.app)** - Browser speech-to-text that runs Whisper and Deepgram in parallel and merges the two transcripts with an LLM.
 - **[GoCareer](https://gocareer.snehit70.dev)** - A student-friendly platform for exploring career paths with clarity.
+
+<details>
+<summary>Earlier work</summary>
+
+- **[SystemdManager](https://github.com/Snehit70/systemdManager)** - Split-pane TUI for systemd user services: vim-style navigation, live log following, and service creation without leaving the terminal.
+- **[Lapstat](https://github.com/Snehit70/lapstat)** - Historical Linux laptop monitor: samples CPU, memory, battery, thermals, and active apps every minute into SQLite, with a Next.js dashboard for the long view.
+- **[Ralphy Monitor](https://github.com/Snehit70/ralphy-monitor)** - Live TUI for my autonomous AI coding loop: task progress, ETA, active agents, and token cost, streamed over an embedded SSE server.
+
+</details>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
