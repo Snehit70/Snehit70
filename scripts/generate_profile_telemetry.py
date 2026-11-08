@@ -200,6 +200,27 @@ def fetch_prs():
     return list(items.values())
 
 
+def fetch_contributions():
+    """GitHub's contribution calendar for the card window: commits, PRs, issues, reviews and private work."""
+    query = """
+    query($login: String!, $from: DateTime!, $to: DateTime!) {
+      user(login: $login) {
+        contributionsCollection(from: $from, to: $to) {
+          contributionCalendar {
+            totalContributions
+            weeks { contributionDays { date contributionCount } }
+          }
+        }
+      }
+    }
+    """
+    window = {"from": f"{SINCE.isoformat()}T00:00:00Z",
+              "to": f"{(TODAY + dt.timedelta(days=1)).isoformat()}T00:00:00Z"}
+    cal = gh_graphql(query, login=USER, **window)["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+    daily = {day["date"]: day["contributionCount"] for week in cal["weeks"] for day in week["contributionDays"]}
+    return {"total": cal["totalContributions"], "daily": daily}
+
+
 def repo_releases(name, nodes):
     releases = []
     for rel in nodes:
@@ -312,6 +333,7 @@ def collect():
     releases.sort(key=lambda r: r["at"], reverse=True)
 
     prs = fetch_prs()
+    contributions = fetch_contributions()
     pr_weekly = Counter()
     merged = 0
     prs = [pr for pr in prs if SINCE <= ist_date(pr["created_at"]) <= TODAY]
@@ -516,6 +538,7 @@ def collect():
         "entropyNormalized": entropy_norm,
         "punchcard": punchcard,
         "releases": releases,
+        "contributions": contributions,
     }
     # Per-repo daily counts feed the cards but stay out of the public snapshot.
     return stats, repo_daily
@@ -685,15 +708,13 @@ def nice_step(maxv, ticks=3):
 
 
 def card_data(stats, repo_daily):
-    """What both cards plot. Commit figures all come from the per-repo daily counts so they agree."""
+    """What both cards plot. Headline numbers come from GitHub's contribution calendar; per-project bars use commits."""
     private = {r["name"] for r in stats["repos"] if r["isPrivate"] and r["name"] not in NAMED_PRIVATE}
     per_repo = {n: Counter({d: c for d, c in counts.items() if SINCE <= d <= TODAY})
                 for n, counts in repo_daily.items() if n not in SKIP}
     per_repo = {n: c for n, c in per_repo.items() if c}
     days = [SINCE + dt.timedelta(days=i) for i in range((TODAY - SINCE).days + 1)]
-    daily = Counter()
-    for counts in per_repo.values():
-        daily.update(counts)
+    contrib = Counter({dt.date.fromisoformat(d): c for d, c in stats["contributions"]["daily"].items()})
 
     year_totals = Counter({n: sum(c.values()) for n, c in per_repo.items()})
     featured = [n for n, _ in year_totals.most_common() if n not in private][:7]
@@ -719,11 +740,11 @@ def card_data(stats, repo_daily):
         latest.setdefault(repo, (tag, day))
 
     return SimpleNamespace(
-        private=private, per_repo=per_repo, days=days, daily=daily,
-        commit_total=sum(daily.values()), repos_touched=len(per_repo),
-        active_days=sum(1 for d in days if daily[d]),
-        vel=sum(daily[TODAY - dt.timedelta(days=i)] for i in range(30)),
-        vel_prev=sum(daily[TODAY - dt.timedelta(days=i)] for i in range(30, 60)),
+        private=private, per_repo=per_repo, days=days,
+        contrib_total=stats["contributions"]["total"],
+        active_days=sum(1 for d in days if contrib[d]),
+        vel=sum(contrib[TODAY - dt.timedelta(days=i)] for i in range(30)),
+        vel_prev=sum(contrib[TODAY - dt.timedelta(days=i)] for i in range(30, 60)),
         year_totals=year_totals, featured=featured, slot=slot, week0=week0, weeks=weeks, weekly=weekly,
         punch=stats["punchcard"], releases=releases, latest=latest,
         release_counts=Counter(r for r, _, _ in releases),
@@ -778,8 +799,8 @@ def render_activity(v, th):
     stats = [
         ("Releases", fmt(len(v.releases)), "", release_sub),
         ("Active days", f"{v.active_days / len(v.days) * 100:.0f}", "%", f"{v.active_days} of {len(v.days)} days"),
-        ("Last 30 days", fmt(v.vel), plural(v.vel, "commit"), f"{'+' if trend >= 0 else '−'}{abs(trend):.0f}% on the 30 before"),
-        ("Commits", fmt(v.commit_total), "", f"in {v.repos_touched} {plural(v.repos_touched, 'repo')}"),
+        ("Last 30 days", fmt(v.vel), plural(v.vel, "contribution"), f"{'+' if trend >= 0 else '−'}{abs(trend):.0f}% on the 30 before"),
+        ("Contributions", fmt(v.contrib_total), "", "commits, PRs, issues, reviews"),
     ]
     colw = (W - 2 * PAD) / len(stats)
     for i, (lab, val, unit, sub) in enumerate(stats):
@@ -992,7 +1013,7 @@ def render_activity(v, th):
     h = int(base + 72)
     return card(h, th, "Build activity", f"{SINCE:%b %-d, %Y} – {TODAY:%b %-d, %Y}",
                 "\n".join(out), "Atulya Rai — build activity",
-                f"{fmt(v.commit_total)} {plural(v.commit_total, 'commit')} and "
+                f"{fmt(v.contrib_total)} {plural(v.contrib_total, 'contribution')} and "
                 f"{len(v.releases)} {plural(len(v.releases), 'release')} over the last year; "
                 "weekly commits by project and releases per week, commits by hour of day, and the most active projects of the last 30 days.")
 
