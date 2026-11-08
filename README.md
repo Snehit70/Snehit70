@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-activity-dark.svg" />
-  <img width="100%" src="./assets/profile-activity-light.svg" alt="Build activity over the last 12 months: releases, active days, recent pace, commits, weekly commits by project with releases per week below, commits by hour of day, and the busiest projects of the last 30 days" />
+  <img width="100%" src="./assets/profile-activity-light.svg" alt="Build activity over the last 12 months: releases, active days, recent pace, contributions, weekly commits by project with releases per week below, commits by hour of day, and the busiest projects of the last 30 days" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stack-dark.svg" />
