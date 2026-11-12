@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="736" viewBox="0 0 880 736" role="img" aria-labelledby="t d">
-<title id="t">Atulya Rai — build activity</title><desc id="d">8,539 contributions and 208 releases over the last year; weekly commits by project and releases per week, commits by hour of day, and the most active projects of the last 30 days.</desc>
+<title id="t">Atulya Rai — build activity</title><desc id="d">8,540 contributions and 208 releases over the last year; weekly commits by project and releases per week, commits by hour of day, and the most active projects of the last 30 days.</desc>
 <style>
 @keyframes rise{from{transform:scaleY(0)}to{transform:scaleY(1)}}
 @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
@@ -17,7 +17,7 @@
 </style>
 <rect x="0.5" y="0.5" width="879" height="735" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28.0" y="44.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" text-anchor="start" >Build activity</text>
-<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7781" text-anchor="end" >Nov 12, 2025 – Nov 11, 2026</text>
+<text x="852.0" y="43.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#6e7781" text-anchor="end" >Nov 13, 2025 – Nov 12, 2026</text>
 <line x1="28" y1="62.0" x2="852" y2="62.0" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:0ms">
 <text x="28.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">RELEASES</text>
@@ -28,18 +28,18 @@
 <g class="fade" style="animation-delay:70ms">
 <text x="254.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">ACTIVE DAYS</text>
 <text x="254.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">95<tspan font-size="14" font-weight="500" fill="#59636e" dx="1">%</tspan></text>
-<text x="254.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >346 of 365 days</text>
+<text x="254.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >347 of 365 days</text>
 </g>
 <line x1="440.0" y1="88" x2="440.0" y2="150" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:140ms">
 <text x="460.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">LAST 30 DAYS</text>
-<text x="460.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">440<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">contributions</tspan></text>
-<text x="460.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >+34% on the 30 before</text>
+<text x="460.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">438<tspan font-size="14" font-weight="500" fill="#59636e" dx="3">contributions</tspan></text>
+<text x="460.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >+40% on the 30 before</text>
 </g>
 <line x1="646.0" y1="88" x2="646.0" y2="150" stroke="#eff2f5"/>
 <g class="fade" style="animation-delay:210ms">
 <text x="666.0" y="96.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="0.6">CONTRIBUTIONS</text>
-<text x="666.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">8,539</text>
+<text x="666.0" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328" style="font-variant-numeric: tabular-nums">8,540</text>
 <text x="666.0" y="150.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >commits, PRs, issues, reviews</text>
 </g>
 <line x1="28" y1="172.0" x2="852" y2="172.0" stroke="#eff2f5"/>
@@ -48,7 +48,7 @@
 <rect x="28.0" y="213" width="10" height="10" rx="2" fill="#2a78d6"/>
 <text x="43.0" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pravah<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">1,377</tspan></text>
 <rect x="192.8" y="213" width="10" height="10" rx="2" fill="#1690b3"/>
-<text x="207.8" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Hyprfolio<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">486</tspan></text>
+<text x="207.8" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Hyprfolio<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">487</tspan></text>
 <rect x="357.6" y="213" width="10" height="10" rx="2" fill="#eb6834"/>
 <text x="372.6" y="222.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#1f2328">Pomo<tspan dx="5" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">481</tspan></text>
 <rect x="522.4" y="213" width="10" height="10" rx="2" fill="#1baf7a"/>
@@ -368,7 +368,7 @@
 </g>
 <g class="rise" style="animation-delay:616ms">
 <path d="M838.6,446.5 V443.5 Q838.6,443.5 838.6,443.5 H850.5 Q850.5,443.5 850.5,443.5 V446.5 Z" fill="#2a78d6"  opacity="0.45"/>
-<path d="M838.6,443.5 V443.5 Q838.6,442.4 839.7,442.4 H849.4 Q850.5,442.4 850.5,443.5 V443.5 Z" fill="#1690b3"  opacity="0.45"/>
+<path d="M838.6,443.5 V443.5 Q838.6,442.0 840.1,442.0 H849.0 Q850.5,442.0 850.5,443.5 V443.5 Z" fill="#1690b3"  opacity="0.45"/>
 </g>
 <g class="fade" style="animation-delay:800ms">
 <line x1="301.6" y1="272.0" x2="301.6" y2="448.0" stroke="#59636e" stroke-width="1" stroke-dasharray="1 3"/>
@@ -539,7 +539,7 @@
 <g class="rise" style="animation-delay:584ms"><path d="M175.8,664.0 V640.8 Q175.8,638.8 177.8,638.8 H190.7 Q192.7,638.8 192.7,640.8 V664.0 Z" fill="#d1d9e0" /><title>07:00 · 162 commits</title></g>
 <g class="rise" style="animation-delay:596ms"><path d="M196.7,664.0 V630.3 Q196.7,628.3 198.7,628.3 H211.5 Q213.5,628.3 213.5,630.3 V664.0 Z" fill="#d1d9e0" /><title>08:00 · 230 commits</title></g>
 <g class="rise" style="animation-delay:608ms"><path d="M217.5,664.0 V615.7 Q217.5,613.7 219.5,613.7 H232.3 Q234.3,613.7 234.3,615.7 V664.0 Z" fill="#d1d9e0" /><title>09:00 · 324 commits</title></g>
-<g class="rise" style="animation-delay:620ms"><path d="M238.3,664.0 V600.4 Q238.3,598.4 240.3,598.4 H253.2 Q255.2,598.4 255.2,600.4 V664.0 Z" fill="#d1d9e0" /><title>10:00 · 422 commits</title></g>
+<g class="rise" style="animation-delay:620ms"><path d="M238.3,664.0 V600.3 Q238.3,598.3 240.3,598.3 H253.2 Q255.2,598.3 255.2,600.3 V664.0 Z" fill="#d1d9e0" /><title>10:00 · 423 commits</title></g>
 <g class="rise" style="animation-delay:632ms"><path d="M259.2,664.0 V602.6 Q259.2,600.6 261.2,600.6 H274.0 Q276.0,600.6 276.0,602.6 V664.0 Z" fill="#d1d9e0" /><title>11:00 · 408 commits</title></g>
 <g class="rise" style="animation-delay:644ms"><path d="M280.0,664.0 V588.0 Q280.0,586.0 282.0,586.0 H294.8 Q296.8,586.0 296.8,588.0 V664.0 Z" fill="#787e84" /><title>12:00 · 502 commits</title></g>
 <g class="rise" style="animation-delay:656ms"><path d="M300.8,664.0 V604.3 Q300.8,602.3 302.8,602.3 H315.7 Q317.7,602.3 317.7,604.3 V664.0 Z" fill="#787e84" /><title>13:00 · 397 commits</title></g>
@@ -577,8 +577,8 @@
 </g>
 <g class="show" style="animation-delay:620ms">
 <text x="572.0" y="638.4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pravah</text>
-<text x="852.0" y="638.4" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >49</text>
-<rect x="676.0" y="631.4" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="631.4" width="45.2" height="6" rx="3" fill="#2a78d6" class="grow" style="animation-delay:620ms"/>
+<text x="852.0" y="638.4" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end" >48</text>
+<rect x="676.0" y="631.4" width="130.0" height="6" rx="3" fill="#f6f8fa"/><rect x="676.0" y="631.4" width="44.3" height="6" rx="3" fill="#2a78d6" class="grow" style="animation-delay:620ms"/>
 </g>
 <g class="show" style="animation-delay:680ms">
 <text x="572.0" y="661.6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Vidyut</text>
