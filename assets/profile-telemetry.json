@@ -1,42 +1,70 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "windowDays": 365,
   "repos": [
     {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-11-12T07:25:10Z",
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-11-13T06:21:51Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 407735,
+          "size": 4371434,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
           }
         },
         {
-          "size": 17210,
+          "size": 138178,
+          "node": {
+            "name": "QML",
+            "color": "#44a51c"
+          }
+        },
+        {
+          "size": 81191,
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
           }
         },
         {
-          "size": 9537,
+          "size": 22178,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 20789,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 18905,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 16801,
           "node": {
             "name": "CSS",
             "color": "#663399"
           }
         },
         {
-          "size": 2087,
+          "size": 5569,
           "node": {
-            "name": "HTML",
-            "color": "#e34c26"
+            "name": "Kotlin",
+            "color": "#A97BFF"
           }
         }
       ]
@@ -45,7 +73,7 @@
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-12T04:30:26Z",
+      "pushedAt": "2026-11-13T03:45:07Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -84,7 +112,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-11T06:58:51Z",
+      "pushedAt": "2026-11-12T07:34:28Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -99,68 +127,40 @@
       ]
     },
     {
-      "name": "pravah",
-      "description": "Timeline-based task manager with AI agent API support",
-      "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-11-09T06:43:52Z",
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-11-12T07:25:10Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 4368916,
+          "size": 407735,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
           }
         },
         {
-          "size": 138178,
-          "node": {
-            "name": "QML",
-            "color": "#44a51c"
-          }
-        },
-        {
-          "size": 81191,
+          "size": 17210,
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
           }
         },
         {
-          "size": 18905,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 17947,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 16801,
+          "size": 9537,
           "node": {
             "name": "CSS",
             "color": "#663399"
           }
         },
         {
-          "size": 11755,
+          "size": 2087,
           "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 5569,
-          "node": {
-            "name": "Kotlin",
-            "color": "#A97BFF"
+            "name": "HTML",
+            "color": "#e34c26"
           }
         }
       ]
@@ -1671,7 +1671,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 13,
-  "meanGapDays": 1.1067073170731707,
+  "meanGapDays": 1.1063829787234043,
   "hourDistribution": [
     91,
     37,
@@ -1682,9 +1682,9 @@
     142,
     164,
     243,
-    356,
-    445,
-    427,
+    357,
+    454,
+    432,
     534,
     424,
     378,
@@ -1701,18 +1701,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1777,
+    "morning (06\u201312)": 1792,
     "afternoon (12\u201318)": 2291,
     "evening (18\u201324)": 1474
   },
-  "additionsPct": 82.10130252575134,
-  "avgCommitSize": 494.05087412587415,
+  "additionsPct": 82.09204284101807,
+  "avgCommitSize": 493.1027027027027,
   "prActiveWeeks": 48,
-  "prThis4w": 34,
+  "prThis4w": 38,
   "prPrev4w": 36,
-  "prTrendPct": -5.555555555555555,
+  "prTrendPct": 5.555555555555555,
   "daily": {
-    "2025-11-13": 0,
     "2025-11-14": 9,
     "2025-11-15": 0,
     "2025-11-16": 1,
@@ -2076,23 +2075,24 @@
     "2026-11-09": 13,
     "2026-11-10": 1,
     "2026-11-11": 1,
-    "2026-11-12": 1
+    "2026-11-12": 1,
+    "2026-11-13": 15
   },
-  "activeDaysPct": 90.13698630136986,
-  "commitTotal": 5720,
-  "commitMean": 15.67123287671233,
+  "activeDaysPct": 90.41095890410958,
+  "commitTotal": 5735,
+  "commitMean": 15.712328767123287,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.386018237082066,
+  "commitActiveMean": 17.37878787878788,
   "commitMax": 138,
-  "currentStreak": 297,
-  "longestStreak": 297,
-  "additions": 2320159,
-  "deletions": 505812,
-  "prs": 613,
-  "mergedPrs": 587,
-  "prMergeRatio": 95.75856443719412,
-  "prWeeklyMean": 12.770833333333334,
+  "currentStreak": 298,
+  "longestStreak": 298,
+  "additions": 2321517,
+  "deletions": 506427,
+  "prs": 617,
+  "mergedPrs": 590,
+  "prMergeRatio": 95.62398703403565,
+  "prWeeklyMean": 12.854166666666666,
   "prWeeklyMedian": 10.0,
   "prWeeklyP95": 33.24999999999999,
   "prWeeklyMax": 79,
@@ -2307,35 +2307,31 @@
     ],
     [
       "2026-11-09",
-      1
+      5
     ]
   ],
   "topWeek": [
     [
-      "hyprfolio",
-      33
-    ],
-    [
       "pravah",
-      18
+      32
     ],
     [
       "vidyut",
       11
     ],
     [
-      "Snehit70",
-      4
+      "hyprfolio",
+      7
     ],
     [
-      "praxis",
-      2
+      "Snehit70",
+      4
     ]
   ],
   "topMonth": [
     [
       "blog",
-      141
+      136
     ],
     [
       "hyprfolio",
@@ -2343,7 +2339,7 @@
     ],
     [
       "pravah",
-      48
+      61
     ],
     [
       "vidyut",
@@ -2357,11 +2353,11 @@
   "topYear": [
     [
       "pravah",
-      1377
+      1391
     ],
     [
       "hyprfolio",
-      487
+      488
     ],
     [
       "pomo",
@@ -2527,7 +2523,7 @@
   "languages": [
     [
       "TypeScript",
-      11029314
+      11031832
     ],
     [
       "JavaScript",
@@ -2543,7 +2539,7 @@
     ],
     [
       "Python",
-      1150910
+      1161333
     ],
     [
       "Vue",
@@ -2555,7 +2551,7 @@
     ],
     [
       "Shell",
-      417058
+      419900
     ],
     [
       "HTML",
@@ -2616,14 +2612,14 @@
   ],
   "languageColors": {
     "TypeScript": "#3178c6",
-    "JavaScript": "#f1e05a",
-    "CSS": "#663399",
-    "HTML": "#e34c26",
-    "Vue": "#41b883",
-    "Python": "#3572A5",
     "QML": "#44a51c",
+    "JavaScript": "#f1e05a",
+    "Python": "#3572A5",
     "Shell": "#89e051",
+    "HTML": "#e34c26",
+    "CSS": "#663399",
     "Kotlin": "#A97BFF",
+    "Vue": "#41b883",
     "Dart": "#00B4AB",
     "Rust": "#dea584",
     "Rhai": "#FBA63B",
@@ -2641,7 +2637,7 @@
   "categories": [
     [
       "AI / Voice",
-      1954
+      1968
     ],
     [
       "Web Apps",
@@ -2649,7 +2645,7 @@
     ],
     [
       "Linux / CLI",
-      1213
+      1214
     ],
     [
       "Other",
@@ -2664,8 +2660,8 @@
     16.192307692307693,
     13.98076923076923,
     15.98076923076923,
-    19.471698113207548,
-    15.01923076923077,
+    19.846153846153847,
+    15.018867924528301,
     15.307692307692308,
     13.673076923076923
   ],
@@ -2674,7 +2670,7 @@
     48,
     47,
     47,
-    47,
+    48,
     45,
     48
   ],
@@ -2727,20 +2723,20 @@
     ],
     [
       "2026-11-01",
-      124
+      139
     ]
   ],
-  "velocity30d": 390,
-  "velocityPrev30d": 253,
-  "velocityTrendPct": 54.1501976284585,
-  "momentum7d": 68,
+  "velocity30d": 396,
+  "velocityPrev30d": 231,
+  "velocityTrendPct": 71.42857142857143,
+  "momentum7d": 54,
   "momentumScore": 96,
-  "shipping7d": 5,
+  "shipping7d": 4,
   "shipping30d": 13,
-  "focusTop3Pct": 40.99650349650349,
-  "hhi": 0.09460315907868355,
-  "entropy": 4.137307327219484,
-  "entropyNormalized": 0.7672596034021034,
+  "focusTop3Pct": 41.15082824760244,
+  "hhi": 0.09531680005229518,
+  "entropy": 4.13210798358433,
+  "entropyNormalized": 0.7662953902025631,
   "punchcard": [
     [
       25,
@@ -2856,9 +2852,9 @@
       17,
       21,
       54,
-      49,
-      58,
-      80,
+      50,
+      67,
+      85,
       67,
       37,
       58,
@@ -4176,9 +4172,8 @@
     }
   ],
   "contributions": {
-    "total": 8540,
+    "total": 8557,
     "daily": {
-      "2025-11-13": 3,
       "2025-11-14": 10,
       "2025-11-15": 0,
       "2025-11-16": 2,
@@ -4543,7 +4538,8 @@
       "2026-11-10": 1,
       "2026-11-11": 1,
       "2026-11-12": 1,
-      "2026-11-13": 0
+      "2026-11-13": 20,
+      "2026-11-14": 0
     }
   }
 }
