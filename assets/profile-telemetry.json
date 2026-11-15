@@ -1,21 +1,99 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "windowDays": 365,
   "repos": [
     {
       "name": "swachh",
       "description": "Local storage analyzer and cleanup dashboard",
       "url": "https://github.com/Snehit70/swachh",
-      "pushedAt": "2026-11-14T05:45:23Z",
+      "pushedAt": "2026-11-15T04:01:03Z",
       "isPrivate": true,
       "primaryLanguage": "Go",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 90857,
+          "size": 120590,
           "node": {
             "name": "Go",
             "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 65706,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4433,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 733,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-11-15T03:21:05Z",
+      "isPrivate": true,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 202538,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 150551,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 2865,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-11-14T06:55:14Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 52132,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -52,45 +130,6 @@
         },
         {
           "size": 49518,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-14T03:43:36Z",
-      "isPrivate": true,
-      "primaryLanguage": "Vue",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 202538,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 150551,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 2865,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
           "node": {
             "name": "CSS",
             "color": "#663399"
@@ -207,24 +246,6 @@
           "node": {
             "name": "Kotlin",
             "color": "#A97BFF"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-13T07:06:11Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 52132,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -1680,9 +1701,9 @@
     "commits": 138
   },
   "burstDays": 37,
-  "burstThreshold": 43.0,
+  "burstThreshold": 43,
   "longestGap": 13,
-  "meanGapDays": 1.1033434650455927,
+  "meanGapDays": 1.103030303030303,
   "hourDistribution": [
     91,
     37,
@@ -1692,8 +1713,8 @@
     17,
     142,
     164,
-    243,
-    358,
+    244,
+    360,
     457,
     440,
     535,
@@ -1712,18 +1733,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1804,
+    "morning (06\u201312)": 1807,
     "afternoon (12\u201318)": 2290,
     "evening (18\u201324)": 1470
   },
-  "additionsPct": 78.66043130741421,
-  "avgCommitSize": 415.63984674329504,
+  "additionsPct": 78.6899204825609,
+  "avgCommitSize": 415.99930374238465,
   "prActiveWeeks": 48,
   "prThis4w": 41,
   "prPrev4w": 36,
   "prTrendPct": 13.88888888888889,
   "daily": {
-    "2025-11-15": 0,
     "2025-11-16": 1,
     "2025-11-17": 0,
     "2025-11-18": 0,
@@ -2087,19 +2107,20 @@
     "2026-11-11": 1,
     "2026-11-12": 1,
     "2026-11-13": 20,
-    "2026-11-14": 9
+    "2026-11-14": 9,
+    "2026-11-15": 3
   },
-  "activeDaysPct": 90.41095890410958,
-  "commitTotal": 5742,
-  "commitMean": 15.73150684931507,
+  "activeDaysPct": 90.68493150684932,
+  "commitTotal": 5745,
+  "commitMean": 15.73972602739726,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.4,
+  "commitActiveMean": 17.356495468277945,
   "commitMax": 138,
-  "currentStreak": 299,
-  "longestStreak": 299,
-  "additions": 1877313,
-  "deletions": 509291,
+  "currentStreak": 300,
+  "longestStreak": 300,
+  "additions": 1880623,
+  "deletions": 509293,
   "prs": 620,
   "mergedPrs": 594,
   "prMergeRatio": 95.80645161290322,
@@ -2327,34 +2348,34 @@
       30
     ],
     [
+      "swachh",
+      8
+    ],
+    [
       "hyprfolio",
       7
     ],
     [
-      "swachh",
-      6
-    ],
-    [
-      "vidyut",
-      3
-    ],
-    [
       "dotfiles",
       2
+    ],
+    [
+      "praxis",
+      1
     ]
   ],
   "topMonth": [
     [
       "blog",
-      107
+      105
     ],
     [
       "hyprfolio",
-      68
+      63
     ],
     [
       "pravah",
-      63
+      48
     ],
     [
       "vidyut",
@@ -2372,7 +2393,7 @@
     ],
     [
       "hyprfolio",
-      489
+      490
     ],
     [
       "pomo",
@@ -2496,7 +2517,7 @@
     ],
     [
       "swachh",
-      6
+      8
     ],
     [
       ".claude",
@@ -2538,7 +2559,7 @@
   "languages": [
     [
       "TypeScript",
-      11033792
+      11099498
     ],
     [
       "JavaScript",
@@ -2562,7 +2583,7 @@
     ],
     [
       "CSS",
-      665409
+      669842
     ],
     [
       "Shell",
@@ -2570,19 +2591,19 @@
     ],
     [
       "HTML",
-      393775
+      394508
     ],
     [
       "QML",
       276646
     ],
     [
-      "Astro",
-      232230
+      "Go",
+      258394
     ],
     [
-      "Go",
-      228661
+      "Astro",
+      232230
     ],
     [
       "Svelte",
@@ -2627,13 +2648,13 @@
   ],
   "languageColors": {
     "Go": "#00ADD8",
-    "Shell": "#89e051",
-    "Python": "#3572A5",
-    "Lua": "#000080",
-    "CSS": "#663399",
-    "Vue": "#41b883",
     "TypeScript": "#3178c6",
+    "CSS": "#663399",
     "HTML": "#e34c26",
+    "Vue": "#41b883",
+    "Python": "#3572A5",
+    "Shell": "#89e051",
+    "Lua": "#000080",
     "JavaScript": "#f1e05a",
     "QML": "#44a51c",
     "Kotlin": "#A97BFF",
@@ -2660,11 +2681,11 @@
     ],
     [
       "Linux / CLI",
-      1219
+      1220
     ],
     [
       "Other",
-      848
+      850
     ],
     [
       "Mobile",
@@ -2677,8 +2698,8 @@
     15.98076923076923,
     19.884615384615383,
     15.23076923076923,
-    15.18867924528302,
-    13.673076923076923
+    15.48076923076923,
+    13.471698113207546
   ],
   "weekdayActive": [
     47,
@@ -2687,7 +2708,7 @@
     47,
     47,
     46,
-    48
+    49
   ],
   "bestWeekday": 3,
   "quietWeekday": 6,
@@ -2738,20 +2759,20 @@
     ],
     [
       "2026-11-01",
-      155
+      158
     ]
   ],
-  "velocity30d": 380,
-  "velocityPrev30d": 247,
-  "velocityTrendPct": 53.84615384615385,
-  "momentum7d": 51,
-  "momentumScore": 96,
-  "shipping7d": 7,
+  "velocity30d": 360,
+  "velocityPrev30d": 266,
+  "velocityTrendPct": 35.338345864661655,
+  "momentum7d": 48,
+  "momentumScore": 95,
+  "shipping7d": 5,
   "shipping30d": 14,
-  "focusTop3Pct": 41.18773946360153,
-  "hhi": 0.09550403808682192,
-  "entropy": 4.128485974704222,
-  "entropyNormalized": 0.7656236921929452,
+  "focusTop3Pct": 41.18363794604004,
+  "hhi": 0.09543483151429213,
+  "entropy": 4.130320210674766,
+  "entropyNormalized": 0.765963849462396,
   "punchcard": [
     [
       25,
@@ -2918,8 +2939,8 @@
       8,
       28,
       24,
-      33,
-      40,
+      34,
+      42,
       19,
       51,
       46,
@@ -4187,7 +4208,7 @@
     }
   ],
   "contributions": {
-    "total": 8571,
+    "total": 8575,
     "daily": {
       "2025-11-16": 2,
       "2025-11-17": 0,
@@ -4552,8 +4573,9 @@
       "2026-11-11": 1,
       "2026-11-12": 1,
       "2026-11-13": 30,
-      "2026-11-14": 12,
-      "2026-11-15": 0
+      "2026-11-14": 13,
+      "2026-11-15": 3,
+      "2026-11-16": 0
     }
   }
 }
