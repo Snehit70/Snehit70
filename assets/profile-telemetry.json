@@ -1,51 +1,12 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "windowDays": 365,
   "repos": [
-    {
-      "name": "swachh",
-      "description": "Local storage analyzer and cleanup dashboard",
-      "url": "https://github.com/Snehit70/swachh",
-      "pushedAt": "2026-11-15T04:01:03Z",
-      "isPrivate": true,
-      "primaryLanguage": "Go",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 120590,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 65706,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 4433,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 733,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-15T03:21:05Z",
+      "pushedAt": "2026-11-16T03:23:06Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -81,10 +42,56 @@
       ]
     },
     {
+      "name": "swachh",
+      "description": "Local storage analyzer and cleanup dashboard",
+      "url": "https://github.com/Snehit70/swachh",
+      "pushedAt": "2026-11-15T15:25:48Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 242394,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 121929,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 7282,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 733,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 580,
+          "node": {
+            "name": "Makefile",
+            "color": "#427819"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-14T06:55:14Z",
+      "pushedAt": "2026-11-15T07:00:05Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -1693,7 +1700,7 @@
       ]
     }
   ],
-  "reposAnalyzed": 42,
+  "reposAnalyzed": 41,
   "reposPublic": 31,
   "reposPrivate": 18,
   "biggestDay": {
@@ -1703,7 +1710,7 @@
   "burstDays": 37,
   "burstThreshold": 43,
   "longestGap": 13,
-  "meanGapDays": 1.103030303030303,
+  "meanGapDays": 1.0636363636363637,
   "hourDistribution": [
     91,
     37,
@@ -1713,7 +1720,7 @@
     17,
     142,
     164,
-    244,
+    245,
     360,
     457,
     440,
@@ -1723,9 +1730,9 @@
     363,
     298,
     290,
-    260,
-    311,
-    233,
+    263,
+    316,
+    234,
     232,
     265,
     169
@@ -1733,18 +1740,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1807,
+    "morning (06\u201312)": 1808,
     "afternoon (12\u201318)": 2290,
-    "evening (18\u201324)": 1470
+    "evening (18\u201324)": 1479
   },
-  "additionsPct": 78.6899204825609,
-  "avgCommitSize": 415.99930374238465,
+  "additionsPct": 78.71058577131575,
+  "avgCommitSize": 416.1562119895743,
   "prActiveWeeks": 48,
-  "prThis4w": 41,
-  "prPrev4w": 36,
-  "prTrendPct": 13.88888888888889,
+  "prThis4w": 23,
+  "prPrev4w": 45,
+  "prTrendPct": -48.888888888888886,
   "daily": {
-    "2025-11-16": 1,
     "2025-11-17": 0,
     "2025-11-18": 0,
     "2025-11-19": 0,
@@ -2108,19 +2114,20 @@
     "2026-11-12": 1,
     "2026-11-13": 20,
     "2026-11-14": 9,
-    "2026-11-15": 3
+    "2026-11-15": 13,
+    "2026-11-16": 1
   },
   "activeDaysPct": 90.68493150684932,
-  "commitTotal": 5745,
-  "commitMean": 15.73972602739726,
+  "commitTotal": 5755,
+  "commitMean": 15.767123287671232,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.356495468277945,
+  "commitActiveMean": 17.386706948640484,
   "commitMax": 138,
-  "currentStreak": 300,
-  "longestStreak": 300,
-  "additions": 1880623,
-  "deletions": 509293,
+  "currentStreak": 301,
+  "longestStreak": 301,
+  "additions": 1885102,
+  "deletions": 509877,
   "prs": 620,
   "mergedPrs": 594,
   "prMergeRatio": 95.80645161290322,
@@ -2129,10 +2136,6 @@
   "prWeeklyP95": 33.24999999999999,
   "prWeeklyMax": 79,
   "prRecent": [
-    [
-      "2025-11-10",
-      0
-    ],
     [
       "2025-11-17",
       0
@@ -2340,16 +2343,20 @@
     [
       "2026-11-09",
       8
+    ],
+    [
+      "2026-11-16",
+      0
     ]
   ],
   "topWeek": [
     [
-      "pravah",
-      30
+      "swachh",
+      18
     ],
     [
-      "swachh",
-      8
+      "pravah",
+      18
     ],
     [
       "hyprfolio",
@@ -2367,11 +2374,11 @@
   "topMonth": [
     [
       "blog",
-      105
+      83
     ],
     [
       "hyprfolio",
-      63
+      62
     ],
     [
       "pravah",
@@ -2393,7 +2400,7 @@
     ],
     [
       "hyprfolio",
-      490
+      491
     ],
     [
       "pomo",
@@ -2504,6 +2511,10 @@
       29
     ],
     [
+      "swachh",
+      18
+    ],
+    [
       "syngenta",
       16
     ],
@@ -2514,10 +2525,6 @@
     [
       "ralphy-monitor",
       10
-    ],
-    [
-      "swachh",
-      8
     ],
     [
       ".claude",
@@ -2550,16 +2557,12 @@
     [
       "tds-2026-05-ga0",
       1
-    ],
-    [
-      "manim_repo",
-      1
     ]
   ],
   "languages": [
     [
       "TypeScript",
-      11099498
+      11276186
     ],
     [
       "JavaScript",
@@ -2583,7 +2586,7 @@
     ],
     [
       "CSS",
-      669842
+      672691
     ],
     [
       "Shell",
@@ -2599,7 +2602,7 @@
     ],
     [
       "Go",
-      258394
+      259733
     ],
     [
       "Astro",
@@ -2644,14 +2647,19 @@
     [
       "Mako",
       651
+    ],
+    [
+      "Makefile",
+      580
     ]
   ],
   "languageColors": {
-    "Go": "#00ADD8",
-    "TypeScript": "#3178c6",
-    "CSS": "#663399",
-    "HTML": "#e34c26",
     "Vue": "#41b883",
+    "TypeScript": "#3178c6",
+    "HTML": "#e34c26",
+    "CSS": "#663399",
+    "Go": "#00ADD8",
+    "Makefile": "#427819",
     "Python": "#3572A5",
     "Shell": "#89e051",
     "Lua": "#000080",
@@ -2681,11 +2689,11 @@
     ],
     [
       "Linux / CLI",
-      1220
+      1221
     ],
     [
       "Other",
-      850
+      859
     ],
     [
       "Mobile",
@@ -2693,22 +2701,22 @@
     ]
   ],
   "weekdayMean": [
-    16.192307692307693,
+    15.90566037735849,
     13.98076923076923,
     15.98076923076923,
     19.884615384615383,
     15.23076923076923,
     15.48076923076923,
-    13.471698113207546
+    13.903846153846153
   ],
   "weekdayActive": [
-    47,
+    48,
     48,
     47,
     47,
     47,
     46,
-    49
+    48
   ],
   "bestWeekday": 3,
   "quietWeekday": 6,
@@ -2759,20 +2767,20 @@
     ],
     [
       "2026-11-01",
-      158
+      169
     ]
   ],
-  "velocity30d": 360,
-  "velocityPrev30d": 266,
-  "velocityTrendPct": 35.338345864661655,
-  "momentum7d": 48,
-  "momentumScore": 95,
+  "velocity30d": 347,
+  "velocityPrev30d": 289,
+  "velocityTrendPct": 20.069204152249135,
+  "momentum7d": 46,
+  "momentumScore": 91,
   "shipping7d": 5,
   "shipping30d": 14,
-  "focusTop3Pct": 41.18363794604004,
-  "hhi": 0.09543483151429213,
-  "entropy": 4.130320210674766,
-  "entropyNormalized": 0.765963849462396,
+  "focusTop3Pct": 41.12945264986968,
+  "hhi": 0.09514090040692903,
+  "entropy": 4.136676032524979,
+  "entropyNormalized": 0.772120555985133,
   "punchcard": [
     [
       25,
@@ -2783,7 +2791,7 @@
       2,
       22,
       17,
-      17,
+      18,
       39,
       36,
       40,
@@ -2949,9 +2957,9 @@
       28,
       16,
       29,
-      20,
-      51,
-      45,
+      23,
+      56,
+      46,
       23,
       42,
       37
@@ -4208,9 +4216,8 @@
     }
   ],
   "contributions": {
-    "total": 8575,
+    "total": 8585,
     "daily": {
-      "2025-11-16": 2,
       "2025-11-17": 0,
       "2025-11-18": 0,
       "2025-11-19": 0,
@@ -4574,8 +4581,9 @@
       "2026-11-12": 1,
       "2026-11-13": 30,
       "2026-11-14": 13,
-      "2026-11-15": 3,
-      "2026-11-16": 0
+      "2026-11-15": 13,
+      "2026-11-16": 2,
+      "2026-11-17": 0
     }
   }
 }
