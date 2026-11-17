@@ -1,12 +1,51 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "windowDays": 365,
   "repos": [
+    {
+      "name": "dotfiles",
+      "description": "",
+      "url": "https://github.com/Snehit70/dotfiles",
+      "pushedAt": "2026-11-17T06:09:38Z",
+      "isPrivate": true,
+      "primaryLanguage": "Lua",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 543016,
+          "node": {
+            "name": "Lua",
+            "color": "#000080"
+          }
+        },
+        {
+          "size": 313111,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 202877,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 49518,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-16T03:23:06Z",
+      "pushedAt": "2026-11-17T05:22:44Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -37,6 +76,24 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-11-16T07:06:16Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 52132,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -83,63 +140,6 @@
           "node": {
             "name": "Makefile",
             "color": "#427819"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-15T07:00:05Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 52132,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
-      "name": "dotfiles",
-      "description": "",
-      "url": "https://github.com/Snehit70/dotfiles",
-      "pushedAt": "2026-11-14T05:22:35Z",
-      "isPrivate": true,
-      "primaryLanguage": "Shell",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 313111,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 202877,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        },
-        {
-          "size": 146177,
-          "node": {
-            "name": "Lua",
-            "color": "#000080"
-          }
-        },
-        {
-          "size": 49518,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
           }
         }
       ]
@@ -1708,9 +1708,9 @@
     "commits": 138
   },
   "burstDays": 37,
-  "burstThreshold": 43,
-  "longestGap": 13,
-  "meanGapDays": 1.0636363636363637,
+  "burstThreshold": 43.0,
+  "longestGap": 12,
+  "meanGapDays": 1.0634441087613293,
   "hourDistribution": [
     91,
     37,
@@ -1722,8 +1722,8 @@
     164,
     245,
     360,
-    457,
-    440,
+    458,
+    442,
     535,
     426,
     378,
@@ -1740,18 +1740,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 178,
-    "morning (06\u201312)": 1808,
+    "morning (06\u201312)": 1811,
     "afternoon (12\u201318)": 2290,
     "evening (18\u201324)": 1479
   },
-  "additionsPct": 78.71058577131575,
-  "avgCommitSize": 416.1562119895743,
+  "additionsPct": 78.82849347421428,
+  "avgCommitSize": 418.2648489058701,
   "prActiveWeeks": 48,
   "prThis4w": 23,
   "prPrev4w": 45,
   "prTrendPct": -48.888888888888886,
   "daily": {
-    "2025-11-17": 0,
     "2025-11-18": 0,
     "2025-11-19": 0,
     "2025-11-20": 0,
@@ -2115,19 +2114,20 @@
     "2026-11-13": 20,
     "2026-11-14": 9,
     "2026-11-15": 13,
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-17": 3
   },
-  "activeDaysPct": 90.68493150684932,
-  "commitTotal": 5755,
-  "commitMean": 15.767123287671232,
+  "activeDaysPct": 90.95890410958904,
+  "commitTotal": 5758,
+  "commitMean": 15.775342465753425,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.386706948640484,
+  "commitActiveMean": 17.343373493975903,
   "commitMax": 138,
-  "currentStreak": 301,
-  "longestStreak": 301,
-  "additions": 1885102,
-  "deletions": 509877,
+  "currentStreak": 302,
+  "longestStreak": 302,
+  "additions": 1898481,
+  "deletions": 509888,
   "prs": 620,
   "mergedPrs": 594,
   "prMergeRatio": 95.80645161290322,
@@ -2364,7 +2364,7 @@
     ],
     [
       "dotfiles",
-      2
+      4
     ],
     [
       "praxis",
@@ -2400,7 +2400,7 @@
     ],
     [
       "hyprfolio",
-      491
+      492
     ],
     [
       "pomo",
@@ -2424,7 +2424,7 @@
     ],
     [
       "dotfiles",
-      183
+      185
     ],
     [
       "saksham",
@@ -2589,6 +2589,10 @@
       672691
     ],
     [
+      "Lua",
+      544069
+    ],
+    [
       "Shell",
       419900
     ],
@@ -2611,10 +2615,6 @@
     [
       "Svelte",
       203726
-    ],
-    [
-      "Lua",
-      147230
     ],
     [
       "C++",
@@ -2654,15 +2654,15 @@
     ]
   ],
   "languageColors": {
+    "Lua": "#000080",
+    "Shell": "#89e051",
+    "Python": "#3572A5",
+    "CSS": "#663399",
     "Vue": "#41b883",
     "TypeScript": "#3178c6",
     "HTML": "#e34c26",
-    "CSS": "#663399",
     "Go": "#00ADD8",
     "Makefile": "#427819",
-    "Python": "#3572A5",
-    "Shell": "#89e051",
-    "Lua": "#000080",
     "JavaScript": "#f1e05a",
     "QML": "#44a51c",
     "Kotlin": "#A97BFF",
@@ -2684,12 +2684,12 @@
       1972
     ],
     [
-      "Web Apps",
-      1222
+      "Linux / CLI",
+      1224
     ],
     [
-      "Linux / CLI",
-      1221
+      "Web Apps",
+      1222
     ],
     [
       "Other",
@@ -2701,8 +2701,8 @@
     ]
   ],
   "weekdayMean": [
-    15.90566037735849,
-    13.98076923076923,
+    16.21153846153846,
+    13.773584905660377,
     15.98076923076923,
     19.884615384615383,
     15.23076923076923,
@@ -2711,7 +2711,7 @@
   ],
   "weekdayActive": [
     48,
-    48,
+    49,
     47,
     47,
     47,
@@ -2719,7 +2719,7 @@
     48
   ],
   "bestWeekday": 3,
-  "quietWeekday": 6,
+  "quietWeekday": 1,
   "monthly": [
     [
       "2025-12-01",
@@ -2767,20 +2767,20 @@
     ],
     [
       "2026-11-01",
-      169
+      172
     ]
   ],
-  "velocity30d": 347,
-  "velocityPrev30d": 289,
-  "velocityTrendPct": 20.069204152249135,
-  "momentum7d": 46,
-  "momentumScore": 91,
+  "velocity30d": 349,
+  "velocityPrev30d": 288,
+  "velocityTrendPct": 21.180555555555554,
+  "momentum7d": 48,
+  "momentumScore": 92,
   "shipping7d": 5,
   "shipping30d": 14,
-  "focusTop3Pct": 41.12945264986968,
-  "hhi": 0.09514090040692903,
-  "entropy": 4.136676032524979,
-  "entropyNormalized": 0.772120555985133,
+  "focusTop3Pct": 41.125390760680794,
+  "hhi": 0.09509363477076639,
+  "entropy": 4.136862684724527,
+  "entropyNormalized": 0.7721553950682417,
   "punchcard": [
     [
       25,
@@ -2819,7 +2819,7 @@
       16,
       26,
       43,
-      48,
+      49,
       60,
       66,
       54,
@@ -4216,9 +4216,8 @@
     }
   ],
   "contributions": {
-    "total": 8585,
+    "total": 8588,
     "daily": {
-      "2025-11-17": 0,
       "2025-11-18": 0,
       "2025-11-19": 0,
       "2025-11-20": 0,
@@ -4583,7 +4582,8 @@
       "2026-11-14": 13,
       "2026-11-15": 13,
       "2026-11-16": 2,
-      "2026-11-17": 0
+      "2026-11-17": 3,
+      "2026-11-18": 0
     }
   }
 }
