@@ -1,42 +1,42 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "windowDays": 365,
   "repos": [
     {
-      "name": "dhvani",
-      "description": "Stream Android playback audio to a Linux laptop over Wi-Fi or USB",
-      "url": "https://github.com/Snehit70/dhvani",
-      "pushedAt": "2026-11-18T06:54:30Z",
-      "isPrivate": true,
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-11-19T07:25:04Z",
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 111003,
+          "size": 407735,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
           }
         },
         {
-          "size": 95933,
+          "size": 17210,
           "node": {
-            "name": "Java",
-            "color": "#b07219"
+            "name": "JavaScript",
+            "color": "#f1e05a"
           }
         },
         {
-          "size": 75680,
+          "size": 9537,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2087,
           "node": {
             "name": "HTML",
             "color": "#e34c26"
-          }
-        },
-        {
-          "size": 4046,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
           }
         }
       ]
@@ -45,7 +45,7 @@
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-18T04:50:22Z",
+      "pushedAt": "2026-11-19T04:41:20Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -81,10 +81,49 @@
       ]
     },
     {
+      "name": "dhvani",
+      "description": "Stream Android playback audio to a Linux laptop over Wi-Fi or USB",
+      "url": "https://github.com/Snehit70/dhvani",
+      "pushedAt": "2026-11-18T15:22:13Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 125705,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 97119,
+          "node": {
+            "name": "Java",
+            "color": "#b07219"
+          }
+        },
+        {
+          "size": 75680,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 4046,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        }
+      ]
+    },
+    {
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-17T08:20:55Z",
+      "pushedAt": "2026-11-18T07:52:38Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -292,45 +331,6 @@
           "node": {
             "name": "Kotlin",
             "color": "#A97BFF"
-          }
-        }
-      ]
-    },
-    {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-11-12T07:25:10Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 407735,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 17210,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9537,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1740,16 +1740,16 @@
     }
   ],
   "reposAnalyzed": 42,
-  "reposPublic": 31,
-  "reposPrivate": 19,
+  "reposPublic": 32,
+  "reposPrivate": 18,
   "biggestDay": {
     "date": "2026-01-22",
     "commits": 138
   },
   "burstDays": 37,
   "burstThreshold": 43.0,
-  "longestGap": 11,
-  "meanGapDays": 1.0632530120481927,
+  "longestGap": 10,
+  "meanGapDays": 1.063063063063063,
   "hourDistribution": [
     91,
     37,
@@ -1761,7 +1761,7 @@
     164,
     245,
     360,
-    459,
+    460,
     444,
     535,
     426,
@@ -1769,9 +1769,9 @@
     363,
     298,
     290,
-    264,
-    317,
-    236,
+    266,
+    319,
+    237,
     233,
     268,
     169
@@ -1779,18 +1779,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1814,
+    "morning (06\u201312)": 1815,
     "afternoon (12\u201318)": 2290,
-    "evening (18\u201324)": 1487
+    "evening (18\u201324)": 1492
   },
-  "additionsPct": 78.85899876639122,
-  "avgCommitSize": 418.94246100519933,
+  "additionsPct": 78.86090697146373,
+  "avgCommitSize": 418.6064750692521,
   "prActiveWeeks": 48,
   "prThis4w": 23,
   "prPrev4w": 45,
   "prTrendPct": -48.888888888888886,
   "daily": {
-    "2025-11-19": 0,
     "2025-11-20": 0,
     "2025-11-21": 0,
     "2025-11-22": 0,
@@ -2154,19 +2153,20 @@
     "2026-11-15": 13,
     "2026-11-16": 1,
     "2026-11-17": 11,
-    "2026-11-18": 4
+    "2026-11-18": 9,
+    "2026-11-19": 1
   },
-  "activeDaysPct": 91.23287671232877,
-  "commitTotal": 5770,
-  "commitMean": 15.808219178082192,
+  "activeDaysPct": 91.5068493150685,
+  "commitTotal": 5776,
+  "commitMean": 15.824657534246576,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.32732732732733,
+  "commitActiveMean": 17.293413173652695,
   "commitMax": 138,
-  "currentStreak": 303,
-  "longestStreak": 303,
-  "additions": 1906257,
-  "deletions": 511041,
+  "currentStreak": 304,
+  "longestStreak": 304,
+  "additions": 1906755,
+  "deletions": 511116,
   "prs": 620,
   "mergedPrs": 594,
   "prMergeRatio": 95.80645161290322,
@@ -2399,7 +2399,7 @@
     ],
     [
       "dhvani",
-      11
+      16
     ],
     [
       "hyprfolio",
@@ -2413,7 +2413,7 @@
   "topMonth": [
     [
       "blog",
-      83
+      69
     ],
     [
       "hyprfolio",
@@ -2421,7 +2421,7 @@
     ],
     [
       "pravah",
-      48
+      47
     ],
     [
       "vidyut",
@@ -2439,7 +2439,7 @@
     ],
     [
       "hyprfolio",
-      493
+      494
     ],
     [
       "pomo",
@@ -2554,16 +2554,16 @@
       18
     ],
     [
+      "dhvani",
+      16
+    ],
+    [
       "syngenta",
       16
     ],
     [
       "voice_web",
       13
-    ],
-    [
-      "dhvani",
-      11
     ],
     [
       "ralphy-monitor",
@@ -2605,7 +2605,7 @@
   "languages": [
     [
       "TypeScript",
-      11387189
+      11401891
     ],
     [
       "JavaScript",
@@ -2665,7 +2665,7 @@
     ],
     [
       "Java",
-      95933
+      97119
     ],
     [
       "C",
@@ -2702,16 +2702,16 @@
   ],
   "languageColors": {
     "TypeScript": "#3178c6",
-    "Java": "#b07219",
-    "HTML": "#e34c26",
-    "Shell": "#89e051",
-    "Vue": "#41b883",
+    "JavaScript": "#f1e05a",
     "CSS": "#663399",
+    "HTML": "#e34c26",
+    "Vue": "#41b883",
+    "Java": "#b07219",
+    "Shell": "#89e051",
     "Python": "#3572A5",
     "Lua": "#000080",
     "Go": "#00ADD8",
     "Makefile": "#427819",
-    "JavaScript": "#f1e05a",
     "QML": "#44a51c",
     "Kotlin": "#A97BFF",
     "Dart": "#00B4AB",
@@ -2733,7 +2733,7 @@
     ],
     [
       "Linux / CLI",
-      1225
+      1226
     ],
     [
       "Web Apps",
@@ -2745,14 +2745,14 @@
     ],
     [
       "Mobile",
-      492
+      497
     ]
   ],
   "weekdayMean": [
     16.21153846153846,
     14.192307692307692,
-    15.754716981132075,
-    19.884615384615383,
+    16.153846153846153,
+    19.528301886792452,
     15.23076923076923,
     15.48076923076923,
     13.903846153846153
@@ -2761,7 +2761,7 @@
     48,
     49,
     48,
-    47,
+    48,
     47,
     46,
     48
@@ -2815,20 +2815,20 @@
     ],
     [
       "2026-11-01",
-      184
+      190
     ]
   ],
-  "velocity30d": 360,
-  "velocityPrev30d": 288,
-  "velocityTrendPct": 25.0,
-  "momentum7d": 59,
-  "momentumScore": 93,
+  "velocity30d": 350,
+  "velocityPrev30d": 303,
+  "velocityTrendPct": 15.51155115511551,
+  "momentum7d": 64,
+  "momentumScore": 90,
   "shipping7d": 6,
   "shipping30d": 15,
-  "focusTop3Pct": 41.05719237435009,
-  "hhi": 0.09473172958799023,
-  "entropy": 4.148846015413807,
-  "entropyNormalized": 0.769399441859235,
+  "focusTop3Pct": 41.03185595567867,
+  "hhi": 0.09456865163711145,
+  "entropy": 4.152723763606292,
+  "entropyNormalized": 0.770118566474582,
   "punchcard": [
     [
       25,
@@ -2901,9 +2901,9 @@
       45,
       51,
       51,
-      29,
-      43,
-      26,
+      31,
+      45,
+      27,
       34,
       31,
       11
@@ -2919,7 +2919,7 @@
       18,
       46,
       78,
-      122,
+      123,
       67,
       65,
       93,
@@ -3014,6 +3014,18 @@
     ]
   ],
   "releases": [
+    {
+      "repo": "dhvani",
+      "tag": "v0.5.0",
+      "date": "2026-11-18",
+      "at": "2026-11-18T18:13:26+05:30"
+    },
+    {
+      "repo": "dhvani",
+      "tag": "v0.4.0",
+      "date": "2026-11-18",
+      "at": "2026-11-18T12:24:30+05:30"
+    },
     {
       "repo": "vidyut",
       "tag": "v1.19.2",
@@ -4264,9 +4276,8 @@
     }
   ],
   "contributions": {
-    "total": 8602,
+    "total": 8608,
     "daily": {
-      "2025-11-19": 0,
       "2025-11-20": 0,
       "2025-11-21": 0,
       "2025-11-22": 0,
@@ -4630,8 +4641,9 @@
       "2026-11-15": 13,
       "2026-11-16": 2,
       "2026-11-17": 12,
-      "2026-11-18": 5,
-      "2026-11-19": 0
+      "2026-11-18": 10,
+      "2026-11-19": 1,
+      "2026-11-20": 0
     }
   }
 }
