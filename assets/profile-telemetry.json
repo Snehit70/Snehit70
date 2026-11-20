@@ -1,51 +1,12 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "windowDays": 365,
   "repos": [
-    {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-11-19T07:25:04Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 407735,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 17210,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9537,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-19T04:41:20Z",
+      "pushedAt": "2026-11-20T04:31:55Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -84,34 +45,34 @@
       "name": "dhvani",
       "description": "Stream Android playback audio to a Linux laptop over Wi-Fi or USB",
       "url": "https://github.com/Snehit70/dhvani",
-      "pushedAt": "2026-11-18T15:22:13Z",
+      "pushedAt": "2026-11-19T12:12:03Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 125705,
+          "size": 157922,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
           }
         },
         {
-          "size": 97119,
+          "size": 110450,
           "node": {
             "name": "Java",
             "color": "#b07219"
           }
         },
         {
-          "size": 75680,
+          "size": 76090,
           "node": {
             "name": "HTML",
             "color": "#e34c26"
           }
         },
         {
-          "size": 4046,
+          "size": 7285,
           "node": {
             "name": "Shell",
             "color": "#89e051"
@@ -123,7 +84,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-18T07:52:38Z",
+      "pushedAt": "2026-11-19T07:48:08Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -133,6 +94,45 @@
           "node": {
             "name": "Python",
             "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-11-19T07:25:04Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 407735,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 17210,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9537,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2087,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
           }
         }
       ]
@@ -1749,7 +1749,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 10,
-  "meanGapDays": 1.063063063063063,
+  "meanGapDays": 1.062874251497006,
   "hourDistribution": [
     91,
     37,
@@ -1761,14 +1761,14 @@
     164,
     245,
     360,
-    460,
+    461,
     444,
     535,
     426,
-    378,
-    363,
+    382,
+    367,
     298,
-    290,
+    292,
     266,
     319,
     237,
@@ -1779,18 +1779,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1815,
-    "afternoon (12\u201318)": 2290,
+    "morning (06\u201312)": 1816,
+    "afternoon (12\u201318)": 2300,
     "evening (18\u201324)": 1492
   },
-  "additionsPct": 78.86090697146373,
-  "avgCommitSize": 418.6064750692521,
-  "prActiveWeeks": 48,
-  "prThis4w": 23,
+  "additionsPct": 78.86966776355357,
+  "avgCommitSize": 418.0527043373078,
+  "prActiveWeeks": 49,
+  "prThis4w": 24,
   "prPrev4w": 45,
-  "prTrendPct": -48.888888888888886,
+  "prTrendPct": -46.666666666666664,
   "daily": {
-    "2025-11-20": 0,
     "2025-11-21": 0,
     "2025-11-22": 0,
     "2025-11-23": 0,
@@ -2154,25 +2153,26 @@
     "2026-11-16": 1,
     "2026-11-17": 11,
     "2026-11-18": 9,
-    "2026-11-19": 1
+    "2026-11-19": 11,
+    "2026-11-20": 1
   },
-  "activeDaysPct": 91.5068493150685,
-  "commitTotal": 5776,
-  "commitMean": 15.824657534246576,
+  "activeDaysPct": 91.78082191780823,
+  "commitTotal": 5787,
+  "commitMean": 15.854794520547944,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.293413173652695,
+  "commitActiveMean": 17.274626865671642,
   "commitMax": 138,
-  "currentStreak": 304,
-  "longestStreak": 304,
-  "additions": 1906755,
-  "deletions": 511116,
-  "prs": 620,
-  "mergedPrs": 594,
-  "prMergeRatio": 95.80645161290322,
-  "prWeeklyMean": 12.916666666666666,
-  "prWeeklyMedian": 10.0,
-  "prWeeklyP95": 33.24999999999999,
+  "currentStreak": 305,
+  "longestStreak": 305,
+  "additions": 1908071,
+  "deletions": 511200,
+  "prs": 621,
+  "mergedPrs": 595,
+  "prMergeRatio": 95.81320450885669,
+  "prWeeklyMean": 12.673469387755102,
+  "prWeeklyMedian": 10,
+  "prWeeklyP95": 32.99999999999997,
   "prWeeklyMax": 79,
   "prRecent": [
     [
@@ -2385,21 +2385,17 @@
     ],
     [
       "2026-11-16",
-      0
+      1
     ]
   ],
   "topWeek": [
     [
+      "dhvani",
+      26
+    ],
+    [
       "swachh",
       18
-    ],
-    [
-      "pravah",
-      18
-    ],
-    [
-      "dhvani",
-      16
     ],
     [
       "hyprfolio",
@@ -2413,7 +2409,7 @@
   "topMonth": [
     [
       "blog",
-      69
+      68
     ],
     [
       "hyprfolio",
@@ -2421,15 +2417,15 @@
     ],
     [
       "pravah",
-      47
+      46
     ],
     [
       "vidyut",
       44
     ],
     [
-      "kavach",
-      24
+      "dhvani",
+      26
     ]
   ],
   "topYear": [
@@ -2439,7 +2435,7 @@
     ],
     [
       "hyprfolio",
-      494
+      495
     ],
     [
       "pomo",
@@ -2550,12 +2546,12 @@
       29
     ],
     [
-      "swachh",
-      18
+      "dhvani",
+      26
     ],
     [
-      "dhvani",
-      16
+      "swachh",
+      18
     ],
     [
       "syngenta",
@@ -2605,7 +2601,7 @@
   "languages": [
     [
       "TypeScript",
-      11401891
+      11434108
     ],
     [
       "JavaScript",
@@ -2637,11 +2633,11 @@
     ],
     [
       "HTML",
-      470188
+      470598
     ],
     [
       "Shell",
-      423946
+      427185
     ],
     [
       "QML",
@@ -2665,7 +2661,7 @@
     ],
     [
       "Java",
-      97119
+      110450
     ],
     [
       "C",
@@ -2701,14 +2697,14 @@
     ]
   ],
   "languageColors": {
-    "TypeScript": "#3178c6",
-    "JavaScript": "#f1e05a",
-    "CSS": "#663399",
-    "HTML": "#e34c26",
     "Vue": "#41b883",
+    "TypeScript": "#3178c6",
+    "HTML": "#e34c26",
+    "CSS": "#663399",
     "Java": "#b07219",
     "Shell": "#89e051",
     "Python": "#3572A5",
+    "JavaScript": "#f1e05a",
     "Lua": "#000080",
     "Go": "#00ADD8",
     "Makefile": "#427819",
@@ -2733,7 +2729,7 @@
     ],
     [
       "Linux / CLI",
-      1226
+      1227
     ],
     [
       "Web Apps",
@@ -2745,15 +2741,15 @@
     ],
     [
       "Mobile",
-      497
+      507
     ]
   ],
   "weekdayMean": [
     16.21153846153846,
     14.192307692307692,
     16.153846153846153,
-    19.528301886792452,
-    15.23076923076923,
+    20.096153846153847,
+    14.962264150943396,
     15.48076923076923,
     13.903846153846153
   ],
@@ -2762,7 +2758,7 @@
     49,
     48,
     48,
-    47,
+    48,
     46,
     48
   ],
@@ -2815,20 +2811,20 @@
     ],
     [
       "2026-11-01",
-      190
+      201
     ]
   ],
-  "velocity30d": 350,
-  "velocityPrev30d": 303,
-  "velocityTrendPct": 15.51155115511551,
-  "momentum7d": 64,
-  "momentumScore": 90,
-  "shipping7d": 6,
+  "velocity30d": 351,
+  "velocityPrev30d": 302,
+  "velocityTrendPct": 16.225165562913908,
+  "momentum7d": 55,
+  "momentumScore": 91,
+  "shipping7d": 4,
   "shipping30d": 15,
-  "focusTop3Pct": 41.03185595567867,
-  "hhi": 0.09456865163711145,
-  "entropy": 4.152723763606292,
-  "entropyNormalized": 0.770118566474582,
+  "focusTop3Pct": 40.97114221531018,
+  "hhi": 0.09425155188800362,
+  "entropy": 4.159472551737626,
+  "entropyNormalized": 0.7713701226427753,
   "punchcard": [
     [
       25,
@@ -2923,10 +2919,10 @@
       67,
       65,
       93,
-      63,
-      75,
+      67,
+      79,
       68,
-      52,
+      54,
       22,
       38,
       28,
@@ -2945,7 +2941,7 @@
       21,
       54,
       50,
-      68,
+      69,
       85,
       68,
       39,
@@ -3014,6 +3010,24 @@
     ]
   ],
   "releases": [
+    {
+      "repo": "dhvani",
+      "tag": "v0.7.1",
+      "date": "2026-11-19",
+      "at": "2026-11-19T17:42:04+05:30"
+    },
+    {
+      "repo": "dhvani",
+      "tag": "v0.7.0",
+      "date": "2026-11-19",
+      "at": "2026-11-19T15:45:26+05:30"
+    },
+    {
+      "repo": "dhvani",
+      "tag": "v0.6.0",
+      "date": "2026-11-19",
+      "at": "2026-11-19T14:56:05+05:30"
+    },
     {
       "repo": "dhvani",
       "tag": "v0.5.0",
@@ -4276,9 +4290,8 @@
     }
   ],
   "contributions": {
-    "total": 8608,
+    "total": 8620,
     "daily": {
-      "2025-11-20": 0,
       "2025-11-21": 0,
       "2025-11-22": 0,
       "2025-11-23": 0,
@@ -4642,8 +4655,9 @@
       "2026-11-16": 2,
       "2026-11-17": 12,
       "2026-11-18": 10,
-      "2026-11-19": 1,
-      "2026-11-20": 0
+      "2026-11-19": 12,
+      "2026-11-20": 1,
+      "2026-11-21": 0
     }
   }
 }
