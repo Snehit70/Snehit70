@@ -1,12 +1,104 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "windowDays": 365,
   "repos": [
+    {
+      "name": "blog",
+      "description": "",
+      "url": "https://github.com/Snehit70/blog",
+      "pushedAt": "2026-11-21T05:40:18Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 242182,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 125197,
+          "node": {
+            "name": "Astro",
+            "color": "#ff5a03"
+          }
+        },
+        {
+          "size": 92004,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 70363,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 16811,
+          "node": {
+            "name": "MDX",
+            "color": "#fcb32c"
+          }
+        }
+      ]
+    },
+    {
+      "name": "swachh",
+      "description": "Local storage analyzer and cleanup dashboard",
+      "url": "https://github.com/Snehit70/swachh",
+      "pushedAt": "2026-11-21T05:34:55Z",
+      "isPrivate": true,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 284878,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 154400,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 7282,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 733,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 596,
+          "node": {
+            "name": "Makefile",
+            "color": "#427819"
+          }
+        }
+      ]
+    },
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-20T04:31:55Z",
+      "pushedAt": "2026-11-21T04:26:37Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -45,7 +137,7 @@
       "name": "dhvani",
       "description": "Stream Android playback audio to a Linux laptop over Wi-Fi or USB",
       "url": "https://github.com/Snehit70/dhvani",
-      "pushedAt": "2026-11-19T12:12:03Z",
+      "pushedAt": "2026-11-20T15:04:00Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -58,7 +150,7 @@
           }
         },
         {
-          "size": 110450,
+          "size": 121806,
           "node": {
             "name": "Java",
             "color": "#b07219"
@@ -72,7 +164,7 @@
           }
         },
         {
-          "size": 7285,
+          "size": 6556,
           "node": {
             "name": "Shell",
             "color": "#89e051"
@@ -84,7 +176,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-19T07:48:08Z",
+      "pushedAt": "2026-11-20T07:40:39Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -172,52 +264,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "swachh",
-      "description": "Local storage analyzer and cleanup dashboard",
-      "url": "https://github.com/Snehit70/swachh",
-      "pushedAt": "2026-11-15T15:25:48Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 242394,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 121929,
-          "node": {
-            "name": "Go",
-            "color": "#00ADD8"
-          }
-        },
-        {
-          "size": 7282,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 733,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 580,
-          "node": {
-            "name": "Makefile",
-            "color": "#427819"
           }
         }
       ]
@@ -486,52 +532,6 @@
           "node": {
             "name": "JavaScript",
             "color": "#f1e05a"
-          }
-        }
-      ]
-    },
-    {
-      "name": "blog",
-      "description": "",
-      "url": "https://github.com/Snehit70/blog",
-      "pushedAt": "2026-11-03T17:20:56Z",
-      "isPrivate": true,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 208562,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 121135,
-          "node": {
-            "name": "Astro",
-            "color": "#ff5a03"
-          }
-        },
-        {
-          "size": 84013,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 56712,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 16811,
-          "node": {
-            "name": "MDX",
-            "color": "#fcb32c"
           }
         }
       ]
@@ -1749,7 +1749,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 10,
-  "meanGapDays": 1.062874251497006,
+  "meanGapDays": 1.0626865671641792,
   "hourDistribution": [
     91,
     37,
@@ -1760,37 +1760,36 @@
     142,
     164,
     245,
-    360,
+    361,
     461,
-    444,
+    453,
     535,
     426,
     382,
     367,
-    298,
+    301,
     292,
     266,
-    319,
-    237,
+    322,
+    242,
     233,
-    268,
+    269,
     169
   ],
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1816,
-    "afternoon (12\u201318)": 2300,
-    "evening (18\u201324)": 1492
+    "morning (06\u201312)": 1826,
+    "afternoon (12\u201318)": 2303,
+    "evening (18\u201324)": 1501
   },
-  "additionsPct": 78.86966776355357,
-  "avgCommitSize": 418.0527043373078,
+  "additionsPct": 78.88187386816819,
+  "avgCommitSize": 417.50249612669995,
   "prActiveWeeks": 49,
-  "prThis4w": 24,
+  "prThis4w": 31,
   "prPrev4w": 45,
-  "prTrendPct": -46.666666666666664,
+  "prTrendPct": -31.11111111111111,
   "daily": {
-    "2025-11-21": 0,
     "2025-11-22": 0,
     "2025-11-23": 0,
     "2025-11-24": 0,
@@ -2154,23 +2153,24 @@
     "2026-11-17": 11,
     "2026-11-18": 9,
     "2026-11-19": 11,
-    "2026-11-20": 1
+    "2026-11-20": 13,
+    "2026-11-21": 10
   },
-  "activeDaysPct": 91.78082191780823,
-  "commitTotal": 5787,
-  "commitMean": 15.854794520547944,
+  "activeDaysPct": 92.05479452054794,
+  "commitTotal": 5809,
+  "commitMean": 15.915068493150685,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.274626865671642,
+  "commitActiveMean": 17.288690476190474,
   "commitMax": 138,
-  "currentStreak": 305,
-  "longestStreak": 305,
-  "additions": 1908071,
-  "deletions": 511200,
-  "prs": 621,
-  "mergedPrs": 595,
-  "prMergeRatio": 95.81320450885669,
-  "prWeeklyMean": 12.673469387755102,
+  "currentStreak": 306,
+  "longestStreak": 306,
+  "additions": 1913100,
+  "deletions": 512172,
+  "prs": 628,
+  "mergedPrs": 602,
+  "prMergeRatio": 95.85987261146497,
+  "prWeeklyMean": 12.816326530612244,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 32.99999999999997,
   "prWeeklyMax": 79,
@@ -2385,17 +2385,21 @@
     ],
     [
       "2026-11-16",
-      1
+      8
     ]
   ],
   "topWeek": [
     [
       "dhvani",
-      26
+      28
     ],
     [
       "swachh",
-      18
+      19
+    ],
+    [
+      "blog",
+      12
     ],
     [
       "hyprfolio",
@@ -2403,13 +2407,13 @@
     ],
     [
       "dotfiles",
-      4
+      2
     ]
   ],
   "topMonth": [
     [
       "blog",
-      68
+      80
     ],
     [
       "hyprfolio",
@@ -2417,15 +2421,15 @@
     ],
     [
       "pravah",
-      46
+      39
     ],
     [
       "vidyut",
-      44
+      38
     ],
     [
       "dhvani",
-      26
+      28
     ]
   ],
   "topYear": [
@@ -2435,7 +2439,7 @@
     ],
     [
       "hyprfolio",
-      495
+      496
     ],
     [
       "pomo",
@@ -2466,12 +2470,12 @@
       160
     ],
     [
-      "praxis",
-      154
+      "blog",
+      155
     ],
     [
-      "blog",
-      143
+      "praxis",
+      154
     ],
     [
       "fieldForce",
@@ -2547,11 +2551,11 @@
     ],
     [
       "dhvani",
-      26
+      28
     ],
     [
       "swachh",
-      18
+      25
     ],
     [
       "syngenta",
@@ -2601,11 +2605,11 @@
   "languages": [
     [
       "TypeScript",
-      11434108
+      11510212
     ],
     [
       "JavaScript",
-      1305536
+      1319187
     ],
     [
       "Python",
@@ -2625,7 +2629,7 @@
     ],
     [
       "CSS",
-      672691
+      680682
     ],
     [
       "Lua",
@@ -2637,31 +2641,31 @@
     ],
     [
       "Shell",
-      427185
+      426456
+    ],
+    [
+      "Go",
+      292204
     ],
     [
       "QML",
       276646
     ],
     [
-      "Go",
-      259733
-    ],
-    [
       "Astro",
-      232230
+      236292
     ],
     [
       "Svelte",
       203726
     ],
     [
-      "C++",
-      110830
+      "Java",
+      121806
     ],
     [
-      "Java",
-      110450
+      "C++",
+      110830
     ],
     [
       "C",
@@ -2693,29 +2697,29 @@
     ],
     [
       "Makefile",
-      580
+      596
     ]
   ],
   "languageColors": {
-    "Vue": "#41b883",
     "TypeScript": "#3178c6",
-    "HTML": "#e34c26",
+    "Astro": "#ff5a03",
     "CSS": "#663399",
+    "JavaScript": "#f1e05a",
+    "MDX": "#fcb32c",
+    "Go": "#00ADD8",
+    "HTML": "#e34c26",
+    "Makefile": "#427819",
+    "Vue": "#41b883",
     "Java": "#b07219",
     "Shell": "#89e051",
     "Python": "#3572A5",
-    "JavaScript": "#f1e05a",
     "Lua": "#000080",
-    "Go": "#00ADD8",
-    "Makefile": "#427819",
     "QML": "#44a51c",
     "Kotlin": "#A97BFF",
     "Dart": "#00B4AB",
     "Rust": "#dea584",
     "Rhai": "#FBA63B",
     "C++": "#f34b7d",
-    "Astro": "#ff5a03",
-    "MDX": "#fcb32c",
     "C": "#555555",
     "Svelte": "#ff3e00",
     "TeX": "#3D6117",
@@ -2729,7 +2733,7 @@
     ],
     [
       "Linux / CLI",
-      1227
+      1228
     ],
     [
       "Web Apps",
@@ -2737,11 +2741,11 @@
     ],
     [
       "Other",
-      859
+      878
     ],
     [
       "Mobile",
-      507
+      509
     ]
   ],
   "weekdayMean": [
@@ -2749,8 +2753,8 @@
     14.192307692307692,
     16.153846153846153,
     20.096153846153847,
-    14.962264150943396,
     15.48076923076923,
+    15.377358490566039,
     13.903846153846153
   ],
   "weekdayActive": [
@@ -2759,7 +2763,7 @@
     48,
     48,
     48,
-    46,
+    47,
     48
   ],
   "bestWeekday": 3,
@@ -2811,20 +2815,20 @@
     ],
     [
       "2026-11-01",
-      201
+      223
     ]
   ],
-  "velocity30d": 351,
-  "velocityPrev30d": 302,
-  "velocityTrendPct": 16.225165562913908,
-  "momentum7d": 55,
-  "momentumScore": 91,
-  "shipping7d": 4,
-  "shipping30d": 15,
-  "focusTop3Pct": 40.97114221531018,
-  "hhi": 0.09425155188800362,
-  "entropy": 4.159472551737626,
-  "entropyNormalized": 0.7713701226427753,
+  "velocity30d": 310,
+  "velocityPrev30d": 363,
+  "velocityTrendPct": -14.600550964187327,
+  "momentum7d": 68,
+  "momentumScore": 87,
+  "shipping7d": 5,
+  "shipping30d": 11,
+  "focusTop3Pct": 40.833189877775865,
+  "hhi": 0.09368646090600712,
+  "entropy": 4.167648652572972,
+  "entropyNormalized": 0.7728863725580357,
   "punchcard": [
     [
       25,
@@ -2947,13 +2951,13 @@
       39,
       58,
       53,
-      30,
+      33,
       19,
       40,
-      45,
-      22,
+      48,
+      27,
       16,
-      28,
+      29,
       11
     ],
     [
@@ -2966,9 +2970,9 @@
       19,
       26,
       14,
-      21,
+      22,
       62,
-      55,
+      64,
       47,
       49,
       51,
@@ -3010,6 +3014,12 @@
     ]
   ],
   "releases": [
+    {
+      "repo": "dhvani",
+      "tag": "v0.8.0",
+      "date": "2026-11-20",
+      "at": "2026-11-20T20:34:00+05:30"
+    },
     {
       "repo": "dhvani",
       "tag": "v0.7.1",
@@ -4290,10 +4300,8 @@
     }
   ],
   "contributions": {
-    "total": 8620,
+    "total": 8656,
     "daily": {
-      "2025-11-21": 0,
-      "2025-11-22": 0,
       "2025-11-23": 0,
       "2025-11-24": 0,
       "2025-11-25": 0,
@@ -4656,8 +4664,9 @@
       "2026-11-17": 12,
       "2026-11-18": 10,
       "2026-11-19": 12,
-      "2026-11-20": 1,
-      "2026-11-21": 0
+      "2026-11-20": 27,
+      "2026-11-21": 10,
+      "2026-11-22": 0
     }
   }
 }
