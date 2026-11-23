@@ -1,18 +1,103 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "windowDays": 365,
   "repos": [
     {
-      "name": "pravah",
-      "description": "Timeline-based task manager with AI agent API support",
-      "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-11-22T07:10:52Z",
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-11-23T05:28:00Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 4511350,
+          "size": 1235865,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 32327,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1436,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-11-23T04:15:33Z",
+      "isPrivate": true,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 202538,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 150551,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 2865,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pravah",
+      "description": "Timeline-based task manager with AI agent API support",
+      "url": "https://github.com/Snehit70/pravah",
+      "pushedAt": "2026-11-22T07:19:24Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 4518708,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -70,40 +155,19 @@
       ]
     },
     {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-22T03:40:38Z",
-      "isPrivate": true,
-      "primaryLanguage": "Vue",
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-11-22T07:18:48Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
       "defaultBranch": "main",
       "languages": [
         {
-          "size": 202538,
+          "size": 52132,
           "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 150551,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 2865,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]
@@ -182,24 +246,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-21T07:36:26Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 52132,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
@@ -328,52 +374,6 @@
         },
         {
           "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-11-13T15:37:43Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1080941,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 32590,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 1436,
           "node": {
             "name": "HTML",
             "color": "#e34c26"
@@ -1749,7 +1749,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 10,
-  "meanGapDays": 1.0625,
+  "meanGapDays": 1.0623145400593472,
   "hourDistribution": [
     91,
     37,
@@ -1760,10 +1760,10 @@
     142,
     170,
     263,
-    362,
-    461,
+    363,
+    462,
     455,
-    536,
+    540,
     426,
     382,
     367,
@@ -1779,18 +1779,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1853,
-    "afternoon (12\u201318)": 2305,
+    "morning (06\u201312)": 1855,
+    "afternoon (12\u201318)": 2309,
     "evening (18\u201324)": 1501
   },
-  "additionsPct": 78.94046521833639,
-  "avgCommitSize": 416.864165810209,
+  "additionsPct": 78.95109052148246,
+  "avgCommitSize": 417.38535249828885,
   "prActiveWeeks": 49,
-  "prThis4w": 37,
-  "prPrev4w": 45,
-  "prTrendPct": -17.77777777777778,
+  "prThis4w": 35,
+  "prPrev4w": 35,
+  "prTrendPct": 0.0,
   "daily": {
-    "2025-11-23": 0,
     "2025-11-24": 0,
     "2025-11-25": 0,
     "2025-11-26": 0,
@@ -2154,31 +2153,28 @@
     "2026-11-19": 11,
     "2026-11-20": 13,
     "2026-11-21": 11,
-    "2026-11-22": 28
+    "2026-11-22": 32,
+    "2026-11-23": 2
   },
-  "activeDaysPct": 92.32876712328768,
-  "commitTotal": 5838,
-  "commitMean": 15.994520547945205,
+  "activeDaysPct": 92.6027397260274,
+  "commitTotal": 5844,
+  "commitMean": 16.01095890410959,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.323442136498517,
+  "commitActiveMean": 17.28994082840237,
   "commitMax": 138,
-  "currentStreak": 307,
-  "longestStreak": 307,
-  "additions": 1921137,
-  "deletions": 512516,
-  "prs": 634,
-  "mergedPrs": 606,
-  "prMergeRatio": 95.58359621451105,
-  "prWeeklyMean": 12.938775510204081,
+  "currentStreak": 308,
+  "longestStreak": 308,
+  "additions": 1925775,
+  "deletions": 513425,
+  "prs": 635,
+  "mergedPrs": 608,
+  "prMergeRatio": 95.74803149606299,
+  "prWeeklyMean": 12.959183673469388,
   "prWeeklyMedian": 10,
   "prWeeklyP95": 32.99999999999997,
   "prWeeklyMax": 79,
   "prRecent": [
-    [
-      "2025-11-17",
-      0
-    ],
     [
       "2025-11-24",
       0
@@ -2385,17 +2381,21 @@
     ],
     [
       "2026-11-16",
-      14
+      15
+    ],
+    [
+      "2026-11-23",
+      0
     ]
   ],
   "topWeek": [
     [
-      "dhvani",
-      28
+      "pravah",
+      31
     ],
     [
-      "pravah",
-      27
+      "dhvani",
+      28
     ],
     [
       "blog",
@@ -2417,7 +2417,7 @@
     ],
     [
       "pravah",
-      63
+      67
     ],
     [
       "hyprfolio",
@@ -2435,11 +2435,11 @@
   "topYear": [
     [
       "pravah",
-      1422
+      1426
     ],
     [
       "hyprfolio",
-      497
+      498
     ],
     [
       "pomo",
@@ -2470,12 +2470,12 @@
       160
     ],
     [
-      "blog",
+      "praxis",
       155
     ],
     [
-      "praxis",
-      154
+      "blog",
+      155
     ],
     [
       "fieldForce",
@@ -2605,7 +2605,7 @@
   "languages": [
     [
       "TypeScript",
-      11649867
+      11812149
     ],
     [
       "JavaScript",
@@ -2629,7 +2629,7 @@
     ],
     [
       "CSS",
-      680897
+      680634
     ],
     [
       "Lua",
@@ -2702,14 +2702,14 @@
   ],
   "languageColors": {
     "TypeScript": "#3178c6",
-    "QML": "#44a51c",
-    "JavaScript": "#f1e05a",
-    "Python": "#3572A5",
-    "Shell": "#89e051",
-    "HTML": "#e34c26",
     "CSS": "#663399",
-    "Kotlin": "#A97BFF",
+    "Shell": "#89e051",
+    "JavaScript": "#f1e05a",
+    "HTML": "#e34c26",
     "Vue": "#41b883",
+    "QML": "#44a51c",
+    "Python": "#3572A5",
+    "Kotlin": "#A97BFF",
     "Java": "#b07219",
     "Lua": "#000080",
     "Astro": "#ff5a03",
@@ -2729,15 +2729,15 @@
   "categories": [
     [
       "AI / Voice",
-      1999
+      2003
     ],
     [
       "Linux / CLI",
-      1230
+      1231
     ],
     [
       "Web Apps",
-      1222
+      1223
     ],
     [
       "Other",
@@ -2749,16 +2749,16 @@
     ]
   ],
   "weekdayMean": [
-    16.21153846153846,
+    15.943396226415095,
     14.192307692307692,
     16.153846153846153,
     20.096153846153847,
     15.48076923076923,
     15.692307692307692,
-    14.169811320754716
+    14.51923076923077
   ],
   "weekdayActive": [
-    48,
+    49,
     49,
     48,
     48,
@@ -2767,7 +2767,7 @@
     49
   ],
   "bestWeekday": 3,
-  "quietWeekday": 6,
+  "quietWeekday": 1,
   "monthly": [
     [
       "2025-12-01",
@@ -2815,20 +2815,20 @@
     ],
     [
       "2026-11-01",
-      252
+      258
     ]
   ],
-  "velocity30d": 306,
-  "velocityPrev30d": 386,
-  "velocityTrendPct": -20.72538860103627,
-  "momentum7d": 84,
+  "velocity30d": 302,
+  "velocityPrev30d": 387,
+  "velocityTrendPct": -21.963824289405682,
+  "momentum7d": 89,
   "momentumScore": 87,
-  "shipping7d": 6,
+  "shipping7d": 7,
   "shipping30d": 10,
-  "focusTop3Pct": 41.109969167523126,
-  "hhi": 0.0950296582584175,
-  "entropy": 4.157876776520082,
-  "entropyNormalized": 0.7710741876870911,
+  "focusTop3Pct": 41.1533196440794,
+  "hhi": 0.09520637182768406,
+  "entropy": 4.156506446637839,
+  "entropyNormalized": 0.7708200613486723,
   "punchcard": [
     [
       25,
@@ -2840,8 +2840,8 @@
       22,
       17,
       18,
-      39,
-      36,
+      40,
+      37,
       40,
       174,
       64,
@@ -2999,7 +2999,7 @@
       43,
       19,
       53,
-      47,
+      51,
       39,
       38,
       28,
@@ -4324,9 +4324,8 @@
     }
   ],
   "contributions": {
-    "total": 8692,
+    "total": 8699,
     "daily": {
-      "2025-11-23": 0,
       "2025-11-24": 0,
       "2025-11-25": 0,
       "2025-11-26": 0,
@@ -4690,8 +4689,9 @@
       "2026-11-19": 12,
       "2026-11-20": 27,
       "2026-11-21": 12,
-      "2026-11-22": 34,
-      "2026-11-23": 0
+      "2026-11-22": 39,
+      "2026-11-23": 2,
+      "2026-11-24": 0
     }
   }
 }

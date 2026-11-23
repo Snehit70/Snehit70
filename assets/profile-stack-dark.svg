@@ -58,23 +58,23 @@
 <text x="28.0" y="220.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">LANGUAGES</text>
 <text x="852.0" y="220.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#7d8590" text-anchor="end" >24 languages · all-time · by bytes</text>
 <clipPath id="lc"><rect x="28" y="236" width="824" height="10" rx="5"/></clipPath><g clip-path="url(#lc)"><g class="grow" style="animation-delay:500ms">
-<rect x="28.0" y="236" width="461.2" height="10" fill="#3178c6"/>
-<rect x="491.2" y="236" width="50.5" height="10" fill="#f1e05a"/>
-<rect x="543.7" y="236" width="45.4" height="10" fill="#3572A5"/>
-<rect x="591.0" y="236" width="45.2" height="10" fill="#A97BFF"/>
-<rect x="638.3" y="236" width="45.0" height="10" fill="#00B4AB"/>
-<rect x="685.3" y="236" width="27.2" height="10" fill="#41b883"/>
-<rect x="714.4" y="236" width="25.1" height="10" fill="#663399"/>
-<rect x="741.5" y="236" width="19.6" height="10" fill="#000080"/>
-<rect x="763.2" y="236" width="86.8" height="10" fill="#4d545d"/>
+<rect x="28.0" y="236" width="464.0" height="10" fill="#3178c6"/>
+<rect x="494.0" y="236" width="50.0" height="10" fill="#f1e05a"/>
+<rect x="546.1" y="236" width="45.0" height="10" fill="#3572A5"/>
+<rect x="593.1" y="236" width="44.9" height="10" fill="#A97BFF"/>
+<rect x="639.9" y="236" width="44.6" height="10" fill="#00B4AB"/>
+<rect x="686.6" y="236" width="27.0" height="10" fill="#41b883"/>
+<rect x="715.5" y="236" width="24.9" height="10" fill="#663399"/>
+<rect x="742.4" y="236" width="19.5" height="10" fill="#000080"/>
+<rect x="763.8" y="236" width="86.2" height="10" fill="#4d545d"/>
 </g></g>
 <g class="show" style="animation-delay:600ms">
 <circle cx="33.0" cy="272" r="5" fill="#3178c6"/>
-<text x="44.0" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">TypeScript<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">56.2%</tspan></text>
+<text x="44.0" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">TypeScript<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">56.6%</tspan></text>
 <circle cx="197.8" cy="272" r="5" fill="#f1e05a"/>
-<text x="208.8" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">JavaScript<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">6.4%</tspan></text>
+<text x="208.8" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">JavaScript<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">6.3%</tspan></text>
 <circle cx="362.6" cy="272" r="5" fill="#3572A5"/>
-<text x="373.6" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Python<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">5.8%</tspan></text>
+<text x="373.6" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Python<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">5.7%</tspan></text>
 <circle cx="527.4000000000001" cy="272" r="5" fill="#A97BFF"/>
 <text x="538.4" y="276.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Kotlin<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">5.7%</tspan></text>
 <circle cx="692.2" cy="272" r="5" fill="#00B4AB"/>
@@ -86,7 +86,7 @@
 <circle cx="362.6" cy="294" r="5" fill="#000080"/>
 <text x="373.6" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Lua<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">2.6%</tspan></text>
 <circle cx="527.4000000000001" cy="294" r="5" fill="#4d545d"/>
-<text x="538.4" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Other<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">10.8%</tspan></text>
+<text x="538.4" y="298.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#e6edf3">Other<tspan dx="5" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">10.7%</tspan></text>
 </g>
 <line x1="28" y1="312.0" x2="852" y2="312.0" stroke="#21262d"/>
 <text x="28.0" y="336.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#9198a1" text-anchor="start" letter-spacing="0.6">PULL REQUESTS · 12 MONTHS</text>
@@ -98,34 +98,34 @@
 
 </g>
 <g class="rise" style="animation-delay:416ms">
-
+<path d="M51.7,454.0 V454.0 Q51.7,452.8 52.9,452.8 H58.6 Q59.8,452.8 59.8,454.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:424ms">
-<path d="M62.8,454.0 V454.0 Q62.8,452.8 64.0,452.8 H69.7 Q70.9,452.8 70.9,454.0 V454.0 Z" fill="#3d444d" />
+<path d="M62.8,454.0 V453.1 Q62.8,451.6 64.3,451.6 H69.4 Q70.9,451.6 70.9,453.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:432ms">
-<path d="M73.9,454.0 V453.1 Q73.9,451.6 75.4,451.6 H80.5 Q82.0,451.6 82.0,453.1 V454.0 Z" fill="#3d444d" />
-</g>
-<g class="rise" style="animation-delay:440ms">
 
 </g>
+<g class="rise" style="animation-delay:440ms">
+<path d="M85.0,454.0 V453.1 Q85.0,451.6 86.5,451.6 H91.6 Q93.1,451.6 93.1,453.1 V454.0 Z" fill="#3d444d" />
+</g>
 <g class="rise" style="animation-delay:448ms">
-<path d="M96.1,454.0 V453.1 Q96.1,451.6 97.6,451.6 H102.7 Q104.2,451.6 104.2,453.1 V454.0 Z" fill="#3d444d" />
+<path d="M96.1,454.0 V454.0 Q96.1,452.8 97.3,452.8 H102.9 Q104.2,452.8 104.2,454.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:456ms">
-<path d="M107.2,454.0 V454.0 Q107.2,452.8 108.4,452.8 H114.0 Q115.3,452.8 115.3,454.0 V454.0 Z" fill="#3d444d" />
+<path d="M107.2,454.0 V453.1 Q107.2,451.6 108.7,451.6 H113.8 Q115.3,451.6 115.3,453.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:464ms">
-<path d="M118.3,454.0 V453.1 Q118.3,451.6 119.8,451.6 H124.8 Q126.3,451.6 126.3,453.1 V454.0 Z" fill="#3d444d" />
+<path d="M118.3,454.0 V450.6 Q118.3,449.1 119.8,449.1 H124.8 Q126.3,449.1 126.3,450.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:472ms">
-<path d="M129.3,454.0 V450.6 Q129.3,449.1 130.8,449.1 H135.9 Q137.4,449.1 137.4,450.6 V454.0 Z" fill="#3d444d" />
+<path d="M129.3,454.0 V426.3 Q129.3,424.8 130.8,424.8 H135.9 Q137.4,424.8 137.4,426.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:480ms">
-<path d="M140.4,454.0 V426.3 Q140.4,424.8 141.9,424.8 H147.0 Q148.5,424.8 148.5,426.3 V454.0 Z" fill="#3d444d" />
+<path d="M140.4,454.0 V428.8 Q140.4,427.3 141.9,427.3 H147.0 Q148.5,427.3 148.5,428.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:488ms">
-<path d="M151.5,454.0 V428.8 Q151.5,427.3 153.0,427.3 H158.1 Q159.6,427.3 159.6,428.8 V454.0 Z" fill="#3d444d" />
+<path d="M151.5,454.0 V437.3 Q151.5,435.8 153.0,435.8 H158.1 Q159.6,435.8 159.6,437.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:496ms">
 <path d="M162.6,454.0 V437.3 Q162.6,435.8 164.1,435.8 H169.2 Q170.7,435.8 170.7,437.3 V454.0 Z" fill="#3d444d" />
@@ -134,128 +134,128 @@
 <path d="M173.7,454.0 V437.3 Q173.7,435.8 175.2,435.8 H180.3 Q181.8,435.8 181.8,437.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:512ms">
-<path d="M184.8,454.0 V437.3 Q184.8,435.8 186.3,435.8 H191.4 Q192.9,435.8 192.9,437.3 V454.0 Z" fill="#3d444d" />
+<path d="M184.8,454.0 V450.6 Q184.8,449.1 186.3,449.1 H191.4 Q192.9,449.1 192.9,450.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:520ms">
 <path d="M195.9,454.0 V450.6 Q195.9,449.1 197.4,449.1 H202.5 Q204.0,449.1 204.0,450.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:528ms">
-<path d="M207.0,454.0 V450.6 Q207.0,449.1 208.5,449.1 H213.6 Q215.1,449.1 215.1,450.6 V454.0 Z" fill="#3d444d" />
+<path d="M207.0,454.0 V413.0 Q207.0,411.5 208.5,411.5 H213.6 Q215.1,411.5 215.1,413.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:536ms">
-<path d="M218.1,454.0 V413.0 Q218.1,411.5 219.6,411.5 H224.7 Q226.2,411.5 226.2,413.0 V454.0 Z" fill="#3d444d" />
+<path d="M218.1,454.0 V439.7 Q218.1,438.2 219.6,438.2 H224.7 Q226.2,438.2 226.2,439.7 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:544ms">
-<path d="M229.2,454.0 V439.7 Q229.2,438.2 230.7,438.2 H235.8 Q237.3,438.2 237.3,439.7 V454.0 Z" fill="#3d444d" />
+<path d="M229.2,454.0 V440.9 Q229.2,439.4 230.7,439.4 H235.8 Q237.3,439.4 237.3,440.9 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:552ms">
-<path d="M240.3,454.0 V440.9 Q240.3,439.4 241.8,439.4 H246.9 Q248.4,439.4 248.4,440.9 V454.0 Z" fill="#3d444d" />
+<path d="M240.3,454.0 V426.3 Q240.3,424.8 241.8,424.8 H246.9 Q248.4,424.8 248.4,426.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:560ms">
-<path d="M251.4,454.0 V426.3 Q251.4,424.8 252.9,424.8 H258.0 Q259.5,424.8 259.5,426.3 V454.0 Z" fill="#3d444d" />
+<path d="M251.4,454.0 V443.3 Q251.4,441.8 252.9,441.8 H258.0 Q259.5,441.8 259.5,443.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:568ms">
-<path d="M262.5,454.0 V443.3 Q262.5,441.8 264.0,441.8 H269.1 Q270.6,441.8 270.6,443.3 V454.0 Z" fill="#3d444d" />
+<path d="M262.5,454.0 V445.8 Q262.5,444.3 264.0,444.3 H269.1 Q270.6,444.3 270.6,445.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:576ms">
-<path d="M273.6,454.0 V445.8 Q273.6,444.3 275.1,444.3 H280.2 Q281.7,444.3 281.7,445.8 V454.0 Z" fill="#3d444d" />
+<path d="M273.6,454.0 V443.3 Q273.6,441.8 275.1,441.8 H280.2 Q281.7,441.8 281.7,443.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:584ms">
-<path d="M284.7,454.0 V443.3 Q284.7,441.8 286.2,441.8 H291.3 Q292.8,441.8 292.8,443.3 V454.0 Z" fill="#3d444d" />
+<path d="M284.7,454.0 V444.6 Q284.7,443.1 286.2,443.1 H291.3 Q292.8,443.1 292.8,444.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:592ms">
-<path d="M295.8,454.0 V444.6 Q295.8,443.1 297.3,443.1 H302.4 Q303.9,443.1 303.9,444.6 V454.0 Z" fill="#3d444d" />
+<path d="M295.8,454.0 V413.0 Q295.8,411.5 297.3,411.5 H302.4 Q303.9,411.5 303.9,413.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:600ms">
-<path d="M306.9,454.0 V413.0 Q306.9,411.5 308.4,411.5 H313.5 Q315.0,411.5 315.0,413.0 V454.0 Z" fill="#3d444d" />
+<path d="M306.9,454.0 V430.0 Q306.9,428.5 308.4,428.5 H313.5 Q315.0,428.5 315.0,430.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:608ms">
-<path d="M318.0,454.0 V430.0 Q318.0,428.5 319.5,428.5 H324.5 Q326.0,428.5 326.0,430.0 V454.0 Z" fill="#3d444d" />
+<path d="M318.0,454.0 V443.3 Q318.0,441.8 319.5,441.8 H324.5 Q326.0,441.8 326.0,443.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:616ms">
-<path d="M329.0,454.0 V443.3 Q329.0,441.8 330.5,441.8 H335.6 Q337.1,441.8 337.1,443.3 V454.0 Z" fill="#3d444d" />
+<path d="M329.0,454.0 V442.1 Q329.0,440.6 330.5,440.6 H335.6 Q337.1,440.6 337.1,442.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:624ms">
-<path d="M340.1,454.0 V442.1 Q340.1,440.6 341.6,440.6 H346.7 Q348.2,440.6 348.2,442.1 V454.0 Z" fill="#3d444d" />
+<path d="M340.1,454.0 V453.1 Q340.1,451.6 341.6,451.6 H346.7 Q348.2,451.6 348.2,453.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:632ms">
-<path d="M351.2,454.0 V453.1 Q351.2,451.6 352.7,451.6 H357.8 Q359.3,451.6 359.3,453.1 V454.0 Z" fill="#3d444d" />
+<path d="M351.2,454.0 V359.5 Q351.2,358.0 352.7,358.0 H357.8 Q359.3,358.0 359.3,359.5 V454.0 Z" fill="#e6edf3" />
 </g>
 <g class="rise" style="animation-delay:640ms">
-<path d="M362.3,454.0 V359.5 Q362.3,358.0 363.8,358.0 H368.9 Q370.4,358.0 370.4,359.5 V454.0 Z" fill="#e6edf3" />
+<path d="M362.3,454.0 V428.8 Q362.3,427.3 363.8,427.3 H368.9 Q370.4,427.3 370.4,428.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:648ms">
-<path d="M373.4,454.0 V428.8 Q373.4,427.3 374.9,427.3 H380.0 Q381.5,427.3 381.5,428.8 V454.0 Z" fill="#3d444d" />
+<path d="M373.4,454.0 V447.0 Q373.4,445.5 374.9,445.5 H380.0 Q381.5,445.5 381.5,447.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:656ms">
-<path d="M384.5,454.0 V447.0 Q384.5,445.5 386.0,445.5 H391.1 Q392.6,445.5 392.6,447.0 V454.0 Z" fill="#3d444d" />
+<path d="M384.5,454.0 V453.1 Q384.5,451.6 386.0,451.6 H391.1 Q392.6,451.6 392.6,453.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:664ms">
-<path d="M395.6,454.0 V453.1 Q395.6,451.6 397.1,451.6 H402.2 Q403.7,451.6 403.7,453.1 V454.0 Z" fill="#3d444d" />
+<path d="M395.6,454.0 V434.8 Q395.6,433.3 397.1,433.3 H402.2 Q403.7,433.3 403.7,434.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:672ms">
-<path d="M406.7,454.0 V434.8 Q406.7,433.3 408.2,433.3 H413.3 Q414.8,433.3 414.8,434.8 V454.0 Z" fill="#3d444d" />
+<path d="M406.7,454.0 V419.0 Q406.7,417.5 408.2,417.5 H413.3 Q414.8,417.5 414.8,419.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:680ms">
-<path d="M417.8,454.0 V419.0 Q417.8,417.5 419.3,417.5 H424.4 Q425.9,417.5 425.9,419.0 V454.0 Z" fill="#3d444d" />
+<path d="M417.8,454.0 V432.4 Q417.8,430.9 419.3,430.9 H424.4 Q425.9,430.9 425.9,432.4 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:688ms">
-<path d="M428.9,454.0 V432.4 Q428.9,430.9 430.4,430.9 H435.5 Q437.0,430.9 437.0,432.4 V454.0 Z" fill="#3d444d" />
+<path d="M428.9,454.0 V440.9 Q428.9,439.4 430.4,439.4 H435.5 Q437.0,439.4 437.0,440.9 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:696ms">
-<path d="M440.0,454.0 V440.9 Q440.0,439.4 441.5,439.4 H446.6 Q448.1,439.4 448.1,440.9 V454.0 Z" fill="#3d444d" />
+<path d="M440.0,454.0 V447.0 Q440.0,445.5 441.5,445.5 H446.6 Q448.1,445.5 448.1,447.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:704ms">
-<path d="M451.1,454.0 V447.0 Q451.1,445.5 452.6,445.5 H457.7 Q459.2,445.5 459.2,447.0 V454.0 Z" fill="#3d444d" />
+<path d="M451.1,454.0 V449.4 Q451.1,447.9 452.6,447.9 H457.7 Q459.2,447.9 459.2,449.4 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:712ms">
-<path d="M462.2,454.0 V449.4 Q462.2,447.9 463.7,447.9 H468.8 Q470.3,447.9 470.3,449.4 V454.0 Z" fill="#3d444d" />
+<path d="M462.2,454.0 V448.2 Q462.2,446.7 463.7,446.7 H468.8 Q470.3,446.7 470.3,448.2 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:720ms">
-<path d="M473.3,454.0 V448.2 Q473.3,446.7 474.8,446.7 H479.9 Q481.4,446.7 481.4,448.2 V454.0 Z" fill="#3d444d" />
+<path d="M473.3,454.0 V434.8 Q473.3,433.3 474.8,433.3 H479.9 Q481.4,433.3 481.4,434.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:728ms">
-<path d="M484.4,454.0 V434.8 Q484.4,433.3 485.9,433.3 H491.0 Q492.5,433.3 492.5,434.8 V454.0 Z" fill="#3d444d" />
+<path d="M484.4,454.0 V453.1 Q484.4,451.6 485.9,451.6 H491.0 Q492.5,451.6 492.5,453.1 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:736ms">
-<path d="M495.5,454.0 V453.1 Q495.5,451.6 497.0,451.6 H502.1 Q503.6,451.6 503.6,453.1 V454.0 Z" fill="#3d444d" />
+<path d="M495.5,454.0 V447.0 Q495.5,445.5 497.0,445.5 H502.1 Q503.6,445.5 503.6,447.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:744ms">
-<path d="M506.6,454.0 V447.0 Q506.6,445.5 508.1,445.5 H513.2 Q514.7,445.5 514.7,447.0 V454.0 Z" fill="#3d444d" />
+<path d="M506.6,454.0 V444.6 Q506.6,443.1 508.1,443.1 H513.2 Q514.7,443.1 514.7,444.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:752ms">
-<path d="M517.7,454.0 V444.6 Q517.7,443.1 519.2,443.1 H524.2 Q525.7,443.1 525.7,444.6 V454.0 Z" fill="#3d444d" />
+<path d="M517.7,454.0 V439.7 Q517.7,438.2 519.2,438.2 H524.2 Q525.7,438.2 525.7,439.7 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:760ms">
-<path d="M528.7,454.0 V439.7 Q528.7,438.2 530.2,438.2 H535.3 Q536.8,438.2 536.8,439.7 V454.0 Z" fill="#3d444d" />
+<path d="M528.7,454.0 V447.0 Q528.7,445.5 530.2,445.5 H535.3 Q536.8,445.5 536.8,447.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:768ms">
 <path d="M539.8,454.0 V447.0 Q539.8,445.5 541.3,445.5 H546.4 Q547.9,445.5 547.9,447.0 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:776ms">
-<path d="M550.9,454.0 V447.0 Q550.9,445.5 552.4,445.5 H557.5 Q559.0,445.5 559.0,447.0 V454.0 Z" fill="#3d444d" />
+<path d="M550.9,454.0 V433.6 Q550.9,432.1 552.4,432.1 H557.5 Q559.0,432.1 559.0,433.6 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:784ms">
-<path d="M562.0,454.0 V433.6 Q562.0,432.1 563.5,432.1 H568.6 Q570.1,432.1 570.1,433.6 V454.0 Z" fill="#3d444d" />
+<path d="M562.0,454.0 V451.9 Q562.0,450.4 563.5,450.4 H568.6 Q570.1,450.4 570.1,451.9 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:792ms">
-<path d="M573.1,454.0 V451.9 Q573.1,450.4 574.6,450.4 H579.7 Q581.2,450.4 581.2,451.9 V454.0 Z" fill="#3d444d" />
+<path d="M573.1,454.0 V440.9 Q573.1,439.4 574.6,439.4 H579.7 Q581.2,439.4 581.2,440.9 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:800ms">
-<path d="M584.2,454.0 V440.9 Q584.2,439.4 585.7,439.4 H590.8 Q592.3,439.4 592.3,440.9 V454.0 Z" fill="#3d444d" />
+<path d="M584.2,454.0 V445.8 Q584.2,444.3 585.7,444.3 H590.8 Q592.3,444.3 592.3,445.8 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:808ms">
-<path d="M595.3,454.0 V445.8 Q595.3,444.3 596.8,444.3 H601.9 Q603.4,444.3 603.4,445.8 V454.0 Z" fill="#3d444d" />
+<path d="M595.3,454.0 V437.3 Q595.3,435.8 596.8,435.8 H601.9 Q603.4,435.8 603.4,437.3 V454.0 Z" fill="#3d444d" />
 </g>
 <g class="rise" style="animation-delay:816ms">
-<path d="M606.4,454.0 V438.5 Q606.4,437.0 607.9,437.0 H613.0 Q614.5,437.0 614.5,438.5 V454.0 Z" fill="#3d444d" />
+
 </g>
-<g class="show" style="animation-delay:1240ms"><text x="375.9" y="367.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >79 · week of Jun 15</text></g>
+<g class="show" style="animation-delay:1232ms"><text x="364.8" y="367.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#9198a1" text-anchor="start" >79 · week of Jun 15</text></g>
 <line x1="28" y1="454" x2="616" y2="454" stroke="#30363d"/>
 <text x="28.0" y="472.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#7d8590" text-anchor="start" >Nov '25</text>
 <text x="616.0" y="472.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#7d8590" text-anchor="end" >this week</text>
 <line x1="636" y1="358" x2="636" y2="454" stroke="#21262d"/>
-<g class="fade" style="animation-delay:1000ms"><text x="656" y="376.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">634<tspan font-size="12" font-weight="400" fill="#9198a1" dx="7">opened</tspan></text></g>
+<g class="fade" style="animation-delay:1000ms"><text x="656" y="376.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">635<tspan font-size="12" font-weight="400" fill="#9198a1" dx="7">opened</tspan></text></g>
 <g class="fade" style="animation-delay:1070ms"><text x="656" y="420.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">96%<tspan font-size="12" font-weight="400" fill="#9198a1" dx="7">merged</tspan></text></g>
 <g class="fade" style="animation-delay:1140ms"><text x="656" y="464.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#e6edf3" style="font-variant-numeric: tabular-nums">49 of 53<tspan font-size="12" font-weight="400" fill="#9198a1" dx="7">weeks with PRs</tspan></text></g>
 </svg>
