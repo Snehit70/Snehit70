@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "windowDays": 365,
   "repos": [
     {
       "name": "hyprfolio",
       "description": "This is my personal portfolio ",
       "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-24T07:13:29Z",
+      "pushedAt": "2026-11-25T05:47:25Z",
       "isPrivate": true,
       "primaryLanguage": "Vue",
       "defaultBranch": "main",
@@ -45,7 +45,7 @@
       "name": "Snehit70",
       "description": "My GitHub profile README",
       "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-23T08:02:31Z",
+      "pushedAt": "2026-11-24T10:17:33Z",
       "isPrivate": false,
       "primaryLanguage": "Python",
       "defaultBranch": "main",
@@ -1749,7 +1749,7 @@
   "burstDays": 37,
   "burstThreshold": 43.0,
   "longestGap": 10,
-  "meanGapDays": 1.0621301775147929,
+  "meanGapDays": 1.0619469026548674,
   "hourDistribution": [
     91,
     37,
@@ -1762,7 +1762,7 @@
     263,
     363,
     462,
-    455,
+    456,
     541,
     426,
     382,
@@ -1779,18 +1779,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1855,
+    "morning (06\u201312)": 1856,
     "afternoon (12\u201318)": 2310,
     "evening (18\u201324)": 1501
   },
-  "additionsPct": 78.95107541274753,
-  "avgCommitSize": 417.31445680068435,
-  "prActiveWeeks": 49,
-  "prThis4w": 35,
+  "additionsPct": 78.95106030404976,
+  "avgCommitSize": 417.2435853575094,
+  "prActiveWeeks": 50,
+  "prThis4w": 37,
   "prPrev4w": 35,
-  "prTrendPct": 0.0,
+  "prTrendPct": 5.714285714285714,
   "daily": {
-    "2025-11-25": 0,
     "2025-11-26": 0,
     "2025-11-27": 0,
     "2025-11-28": 0,
@@ -2154,25 +2153,26 @@
     "2026-11-21": 11,
     "2026-11-22": 32,
     "2026-11-23": 2,
-    "2026-11-24": 1
+    "2026-11-24": 1,
+    "2026-11-25": 1
   },
-  "activeDaysPct": 92.87671232876711,
-  "commitTotal": 5845,
-  "commitMean": 16.013698630136986,
+  "activeDaysPct": 93.15068493150685,
+  "commitTotal": 5846,
+  "commitMean": 16.016438356164382,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.24188790560472,
+  "commitActiveMean": 17.194117647058825,
   "commitMax": 138,
-  "currentStreak": 309,
-  "longestStreak": 309,
-  "additions": 1925777,
-  "deletions": 513426,
-  "prs": 635,
+  "currentStreak": 310,
+  "longestStreak": 310,
+  "additions": 1925779,
+  "deletions": 513427,
+  "prs": 637,
   "mergedPrs": 608,
-  "prMergeRatio": 95.74803149606299,
-  "prWeeklyMean": 12.959183673469388,
-  "prWeeklyMedian": 10,
-  "prWeeklyP95": 32.99999999999997,
+  "prMergeRatio": 95.44740973312402,
+  "prWeeklyMean": 12.74,
+  "prWeeklyMedian": 10.0,
+  "prWeeklyP95": 32.749999999999986,
   "prWeeklyMax": 79,
   "prRecent": [
     [
@@ -2385,7 +2385,7 @@
     ],
     [
       "2026-11-23",
-      0
+      2
     ]
   ],
   "topWeek": [
@@ -2395,7 +2395,7 @@
     ],
     [
       "dhvani",
-      20
+      12
     ],
     [
       "blog",
@@ -2439,7 +2439,7 @@
     ],
     [
       "hyprfolio",
-      499
+      500
     ],
     [
       "pomo",
@@ -2733,7 +2733,7 @@
     ],
     [
       "Linux / CLI",
-      1232
+      1233
     ],
     [
       "Web Apps",
@@ -2750,8 +2750,8 @@
   ],
   "weekdayMean": [
     16.25,
-    13.943396226415095,
-    16.153846153846153,
+    14.211538461538462,
+    15.867924528301886,
     20.096153846153847,
     15.48076923076923,
     15.692307692307692,
@@ -2760,7 +2760,7 @@
   "weekdayActive": [
     49,
     50,
-    48,
+    49,
     48,
     48,
     47,
@@ -2815,20 +2815,20 @@
     ],
     [
       "2026-11-01",
-      259
+      260
     ]
   ],
-  "velocity30d": 302,
+  "velocity30d": 294,
   "velocityPrev30d": 379,
-  "velocityTrendPct": -20.316622691292878,
-  "momentum7d": 79,
+  "velocityTrendPct": -22.427440633245382,
+  "momentum7d": 71,
   "momentumScore": 87,
   "shipping7d": 7,
   "shipping30d": 10,
-  "focusTop3Pct": 41.1633875106929,
-  "hhi": 0.09520298032799121,
-  "entropy": 4.156402923625092,
-  "entropyNormalized": 0.7708008631070573,
+  "focusTop3Pct": 41.1734519329456,
+  "hhi": 0.09519964409816607,
+  "entropy": 4.156298983694309,
+  "entropyNormalized": 0.7707815875483998,
   "punchcard": [
     [
       25,
@@ -2894,7 +2894,7 @@
       40,
       55,
       79,
-      63,
+      64,
       37,
       61,
       78,
@@ -4324,9 +4324,8 @@
     }
   ],
   "contributions": {
-    "total": 8700,
+    "total": 8703,
     "daily": {
-      "2025-11-25": 0,
       "2025-11-26": 0,
       "2025-11-27": 0,
       "2025-11-28": 7,
@@ -4691,7 +4690,8 @@
       "2026-11-22": 39,
       "2026-11-23": 2,
       "2026-11-24": 1,
-      "2026-11-25": 0
+      "2026-11-25": 3,
+      "2026-11-26": 0
     }
   }
 }
