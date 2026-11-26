@@ -1,115 +1,12 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "windowDays": 365,
   "repos": [
-    {
-      "name": "hyprfolio",
-      "description": "This is my personal portfolio ",
-      "url": "https://github.com/Snehit70/hyprfolio",
-      "pushedAt": "2026-11-25T05:47:25Z",
-      "isPrivate": true,
-      "primaryLanguage": "Vue",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 202538,
-          "node": {
-            "name": "Vue",
-            "color": "#41b883"
-          }
-        },
-        {
-          "size": 150551,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 2865,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        },
-        {
-          "size": 835,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Snehit70",
-      "description": "My GitHub profile README",
-      "url": "https://github.com/Snehit70/Snehit70",
-      "pushedAt": "2026-11-24T10:17:33Z",
-      "isPrivate": false,
-      "primaryLanguage": "Python",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 52132,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
-          }
-        }
-      ]
-    },
-    {
-      "name": "praxis",
-      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
-      "url": "https://github.com/Snehit70/praxis",
-      "pushedAt": "2026-11-23T05:28:00Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 1235865,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 32327,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 4223,
-          "node": {
-            "name": "Shell",
-            "color": "#89e051"
-          }
-        },
-        {
-          "size": 1579,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 1436,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
-          }
-        }
-      ]
-    },
     {
       "name": "pravah",
       "description": "Timeline-based task manager with AI agent API support",
       "url": "https://github.com/Snehit70/pravah",
-      "pushedAt": "2026-11-22T07:19:24Z",
+      "pushedAt": "2026-11-26T08:13:52Z",
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "defaultBranch": "main",
@@ -168,6 +65,148 @@
           "node": {
             "name": "Kotlin",
             "color": "#A97BFF"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kavach",
+      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
+      "url": "https://github.com/Snehit70/kavach",
+      "pushedAt": "2026-11-26T07:25:16Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 407735,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 17210,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 9537,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2087,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hyprfolio",
+      "description": "This is my personal portfolio ",
+      "url": "https://github.com/Snehit70/hyprfolio",
+      "pushedAt": "2026-11-26T05:38:24Z",
+      "isPrivate": true,
+      "primaryLanguage": "Vue",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 202538,
+          "node": {
+            "name": "Vue",
+            "color": "#41b883"
+          }
+        },
+        {
+          "size": 150551,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 2865,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 835,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Snehit70",
+      "description": "My GitHub profile README",
+      "url": "https://github.com/Snehit70/Snehit70",
+      "pushedAt": "2026-11-25T09:01:23Z",
+      "isPrivate": false,
+      "primaryLanguage": "Python",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 52132,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praxis",
+      "description": "IIT Madras BS exam practice platform built with React, Bun, and Postgres",
+      "url": "https://github.com/Snehit70/praxis",
+      "pushedAt": "2026-11-23T05:28:00Z",
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "defaultBranch": "main",
+      "languages": [
+        {
+          "size": 1235865,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 32327,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4223,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1579,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1436,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
           }
         }
       ]
@@ -338,45 +377,6 @@
           "node": {
             "name": "Makefile",
             "color": "#427819"
-          }
-        }
-      ]
-    },
-    {
-      "name": "kavach",
-      "description": "One TUI for every package on your laptop: what's outdated, what's vulnerable, and fixing it in place.",
-      "url": "https://github.com/Snehit70/kavach",
-      "pushedAt": "2026-11-19T07:25:04Z",
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "defaultBranch": "main",
-      "languages": [
-        {
-          "size": 407735,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 17210,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 9537,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 2087,
-          "node": {
-            "name": "HTML",
-            "color": "#e34c26"
           }
         }
       ]
@@ -1747,9 +1747,9 @@
     "commits": 138
   },
   "burstDays": 37,
-  "burstThreshold": 43.0,
+  "burstThreshold": 43,
   "longestGap": 10,
-  "meanGapDays": 1.0619469026548674,
+  "meanGapDays": 1.061764705882353,
   "hourDistribution": [
     91,
     37,
@@ -1762,7 +1762,7 @@
     263,
     363,
     462,
-    456,
+    457,
     541,
     426,
     382,
@@ -1779,18 +1779,17 @@
   "peakHour": 12,
   "hourBuckets": {
     "night (00\u201306)": 179,
-    "morning (06\u201312)": 1856,
+    "morning (06\u201312)": 1857,
     "afternoon (12\u201318)": 2310,
     "evening (18\u201324)": 1501
   },
-  "additionsPct": 78.95106030404976,
-  "avgCommitSize": 417.2435853575094,
+  "additionsPct": 78.95105382480394,
+  "avgCommitSize": 417.172909184197,
   "prActiveWeeks": 50,
-  "prThis4w": 37,
+  "prThis4w": 44,
   "prPrev4w": 35,
-  "prTrendPct": 5.714285714285714,
+  "prTrendPct": 25.71428571428571,
   "daily": {
-    "2025-11-26": 0,
     "2025-11-27": 0,
     "2025-11-28": 0,
     "2025-11-29": 0,
@@ -2154,23 +2153,24 @@
     "2026-11-22": 32,
     "2026-11-23": 2,
     "2026-11-24": 1,
-    "2026-11-25": 1
+    "2026-11-25": 1,
+    "2026-11-26": 1
   },
-  "activeDaysPct": 93.15068493150685,
-  "commitTotal": 5846,
-  "commitMean": 16.016438356164382,
+  "activeDaysPct": 93.42465753424658,
+  "commitTotal": 5847,
+  "commitMean": 16.019178082191782,
   "commitMedian": 9,
   "commitP95": 50.0,
-  "commitActiveMean": 17.194117647058825,
+  "commitActiveMean": 17.146627565982406,
   "commitMax": 138,
-  "currentStreak": 310,
-  "longestStreak": 310,
-  "additions": 1925779,
-  "deletions": 513427,
-  "prs": 637,
-  "mergedPrs": 608,
-  "prMergeRatio": 95.44740973312402,
-  "prWeeklyMean": 12.74,
+  "currentStreak": 311,
+  "longestStreak": 311,
+  "additions": 1925782,
+  "deletions": 513428,
+  "prs": 644,
+  "mergedPrs": 612,
+  "prMergeRatio": 95.03105590062113,
+  "prWeeklyMean": 12.88,
   "prWeeklyMedian": 10.0,
   "prWeeklyP95": 32.749999999999986,
   "prWeeklyMax": 79,
@@ -2385,17 +2385,13 @@
     ],
     [
       "2026-11-23",
-      2
+      9
     ]
   ],
   "topWeek": [
     [
       "pravah",
       31
-    ],
-    [
-      "dhvani",
-      12
     ],
     [
       "blog",
@@ -2408,13 +2404,13 @@
     [
       "swachh",
       7
+    ],
+    [
+      "dhvani",
+      2
     ]
   ],
   "topMonth": [
-    [
-      "blog",
-      80
-    ],
     [
       "pravah",
       67
@@ -2422,6 +2418,10 @@
     [
       "hyprfolio",
       62
+    ],
+    [
+      "blog",
+      59
     ],
     [
       "dhvani",
@@ -2439,7 +2439,7 @@
     ],
     [
       "hyprfolio",
-      500
+      501
     ],
     [
       "pomo",
@@ -2701,15 +2701,15 @@
     ]
   ],
   "languageColors": {
-    "Vue": "#41b883",
     "TypeScript": "#3178c6",
-    "HTML": "#e34c26",
-    "CSS": "#663399",
+    "QML": "#44a51c",
+    "JavaScript": "#f1e05a",
     "Python": "#3572A5",
     "Shell": "#89e051",
-    "JavaScript": "#f1e05a",
-    "QML": "#44a51c",
+    "HTML": "#e34c26",
+    "CSS": "#663399",
     "Kotlin": "#A97BFF",
+    "Vue": "#41b883",
     "Java": "#b07219",
     "Lua": "#000080",
     "Astro": "#ff5a03",
@@ -2733,7 +2733,7 @@
     ],
     [
       "Linux / CLI",
-      1233
+      1234
     ],
     [
       "Web Apps",
@@ -2751,8 +2751,8 @@
   "weekdayMean": [
     16.25,
     14.211538461538462,
-    15.867924528301886,
-    20.096153846153847,
+    16.173076923076923,
+    19.735849056603772,
     15.48076923076923,
     15.692307692307692,
     14.51923076923077
@@ -2761,7 +2761,7 @@
     49,
     50,
     49,
-    48,
+    49,
     48,
     47,
     49
@@ -2815,20 +2815,20 @@
     ],
     [
       "2026-11-01",
-      260
+      261
     ]
   ],
-  "velocity30d": 294,
-  "velocityPrev30d": 379,
-  "velocityTrendPct": -22.427440633245382,
-  "momentum7d": 71,
+  "velocity30d": 272,
+  "velocityPrev30d": 382,
+  "velocityTrendPct": -28.79581151832461,
+  "momentum7d": 61,
   "momentumScore": 87,
   "shipping7d": 7,
   "shipping30d": 10,
-  "focusTop3Pct": 41.1734519329456,
-  "hhi": 0.09519964409816607,
-  "entropy": 4.156298983694309,
-  "entropyNormalized": 0.7707815875483998,
+  "focusTop3Pct": 41.183512912604755,
+  "hhi": 0.09519636308209259,
+  "entropy": 4.156194628041128,
+  "entropyNormalized": 0.7707622348944295,
   "punchcard": [
     [
       25,
@@ -2920,7 +2920,7 @@
       46,
       78,
       123,
-      67,
+      68,
       65,
       93,
       67,
@@ -4324,9 +4324,8 @@
     }
   ],
   "contributions": {
-    "total": 8703,
+    "total": 8715,
     "daily": {
-      "2025-11-26": 0,
       "2025-11-27": 0,
       "2025-11-28": 7,
       "2025-11-29": 5,
@@ -4690,8 +4689,9 @@
       "2026-11-22": 39,
       "2026-11-23": 2,
       "2026-11-24": 1,
-      "2026-11-25": 3,
-      "2026-11-26": 0
+      "2026-11-25": 8,
+      "2026-11-26": 7,
+      "2026-11-27": 0
     }
   }
 }
